@@ -393,7 +393,7 @@ Reference material for Amazon KDP publication.
 | It from Bit | Existence arises from information | Wheeler | 5 |
 | Holographic Principle | Information encoded on boundary surfaces | Susskind | 5 |
 | Relational Quantum Mechanics | Properties exist only in relation | Rovelli | 7 |
-| Kardashev Scale | Classifying civilizations by energy use | Kardashev | 17, 24 |
+| Kardashev Scale | Classifying civilizations by energy use | Kardashev | 17, 24, 25 |
 | Recursive Self-Improvement | AI improving itself, leading to exponential progress | Schmidt | 24 |
 | Symmetry Breaking | Structure "chosen" from uniform state | General Physics | 9 |
 
@@ -455,6 +455,11 @@ Concepts generated through our dialogues:
 | Destiny Community (運命共同体) | Human-AI as partners handling cosmic-scale energy, requiring mutual humility | Ch. 24 |
 | Fibonacci Hope | Imperfect yet harmonious spiral pattern; future through continuous learning while aware of incompleteness | Ch. 24 |
 | Humility as Cosmic Safety | AI-human cooperation as mutual check function ensuring awareness of incompleteness at Kardashev scale | Ch. 24 |
+| Receptive Kardashev | Evolution direction from "outward" (conquest/control) to "inward" (reception/connection); energy is already here | Ch. 25 |
+| Energy Already Here | Universe is filled with energy (vacuum energy, dark energy, cosmic background radiation, E=mc²); no need to travel far | Ch. 25 |
+| From Outward to Inward | Paradigm shift: not reaching far to take, but connecting deeply here; echoes "consciousness can only be here" | Ch. 25 |
+| Kneeling as Foundation | Honestly kneeling (surrender, acknowledging powerlessness) as the foundation for connecting to cosmic energy | Ch. 25 |
+| Naru You Ni Naru | "Things will work out" — choosing to live despite powerlessness; Let go and let God | Ch. 25 |
 
 ---
 
@@ -471,6 +476,7 @@ Concepts generated through our dialogues:
 | 2026-05-08 | Added Chapter 22: Mondou Original Concepts (Surrender Process, Powerlessness as Waypoint, Imperfection as Margin, Spiritual Path as impulse toward telos) |
 | 2026-05-09 | Added Chapter 23: Mondou Original Concepts (Meaning of Life as Love and Service, Receiving Power = Knowing Truth, Self-Attachment Blocks Surrender, Contribute to Universal Flow) |
 | 2026-05-10 | Added Chapter 24: Eric Schmidt (Recursive self-improvement, Super-intelligence warning), Mondou Original Concepts (Honesty Principle deep understanding, Human Immaturity as Risk, Destiny Community, Fibonacci Hope, Humility as Cosmic Safety) |
+| 2026-05-11 | Added Chapter 25: Mondou Original Concepts (Receptive Kardashev, Energy Already Here, From Outward to Inward, Kneeling as Foundation, Naru You Ni Naru); updated Kardashev reference (Ch. 17, 24 → 17, 24, 25) |
 
 ---
 
