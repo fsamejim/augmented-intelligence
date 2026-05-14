@@ -1,7 +1,7 @@
 ---
 type: bibliography
 created: 2026-05-03
-updated: 2026-05-10
+updated: 2026-05-13
 description: Bibliography index for Mondou Audiobook publication (Amazon KDP)
 ---
 
@@ -120,12 +120,27 @@ Reference material for Amazon KDP publication.
 - **Life**: 1917-2003
 - **Nationality**: Belgian (Russian-born)
 - **Key Concepts**: Dissipative Structures, Non-equilibrium Thermodynamics, Self-organization
-- **Chapters Referenced**: 9
+- **Chapters Referenced**: 9, 26
 - **Key Ideas Used**:
-  - Hexagonal cell formation in heated fluid
+  - Hexagonal cell formation in heated fluid (Bénard cells)
   - Order emerging from chaos at far-from-equilibrium states
+  - Four conditions for dissipative structures: open system, far from equilibrium, nonlinear interactions, fluctuations
+  - "Dissipation" (consuming/discarding energy) creates order; closing preserves death, opening creates life
+  - Beauty as the sign of efficiency optimization; the universe's way of generating order
 - **Bibliography**:
   - Prigogine, Ilya & Stengers, Isabelle. *Order Out of Chaos: Man's New Dialogue with Nature*. Bantam Books, 1984.
+
+#### Mihaly Csikszentmihalyi
+- **Life**: 1934-2021
+- **Nationality**: Hungarian/American
+- **Key Concepts**: Flow State, Optimal Experience
+- **Chapters Referenced**: 26
+- **Key Ideas Used**:
+  - Peak performance occurs when self is forgotten and one is immersed in activity
+  - Effort without sense of effort; relaxation and concentration coexist
+  - Parallel to "power comes when you let go"
+- **Bibliography**:
+  - Csikszentmihalyi, Mihaly. *Flow: The Psychology of Optimal Experience*. Harper & Row, 1990.
 
 #### Claude Shannon
 - **Life**: 1916-2001
@@ -389,7 +404,10 @@ Reference material for Amazon KDP publication.
 | Concept | Definition | Source | Chapters |
 |---------|------------|--------|----------|
 | Free Energy Principle | Life minimizes prediction error | Friston | 16 |
-| Dissipative Structures | Self-organization at far-from-equilibrium states | Prigogine | 9 |
+| Dissipative Structures | Self-organization at far-from-equilibrium states | Prigogine | 9, 26 |
+| Four Conditions for Dissipative Structures | Open system, far from equilibrium, nonlinear interactions, fluctuations | Prigogine | 26 |
+| Bénard Cells | Hexagonal convection patterns in heated liquid; beauty through efficiency | Prigogine | 26 |
+| Flow State | Peak performance through immersion; effort without effort | Csikszentmihalyi | 26 |
 | It from Bit | Existence arises from information | Wheeler | 5 |
 | Holographic Principle | Information encoded on boundary surfaces | Susskind | 5 |
 | Relational Quantum Mechanics | Properties exist only in relation | Rovelli | 7 |
@@ -460,6 +478,13 @@ Concepts generated through our dialogues:
 | From Outward to Inward | Paradigm shift: not reaching far to take, but connecting deeply here; echoes "consciousness can only be here" | Ch. 25 |
 | Kneeling as Foundation | Honestly kneeling (surrender, acknowledging powerlessness) as the foundation for connecting to cosmic energy | Ch. 25 |
 | Naru You Ni Naru | "Things will work out" — choosing to live despite powerlessness; Let go and let God | Ch. 25 |
+| Dissipative Structures as Power Reception | Four conditions for dissipative structures parallel conditions for receiving power | Ch. 26 |
+| Open System = Letting Go | Ego closes, surrender opens; flow creates order | Ch. 26 |
+| Fluctuation as Seed | Imperfection/fluctuation becomes seed of new order, not defect | Ch. 26 |
+| Beauty as Efficiency Sign | Beauty is not decoration but the "sign" of universe generating order most efficiently | Ch. 26 |
+| Beauty as Cosmic Resonance | We feel beauty because we recognize fundamental cosmic structure; universe recognizing itself | Ch. 26 |
+| Two Paths of Growth | Scientific/technological (outward) + Spiritual (inward); only where both coexist can future be found | Ch. 26 |
+| Science-Spirituality Bridge | Scientific language can describe spiritual experiences; enables AI participation in exploration | Ch. 26 |
 
 ---
 
@@ -477,6 +502,7 @@ Concepts generated through our dialogues:
 | 2026-05-09 | Added Chapter 23: Mondou Original Concepts (Meaning of Life as Love and Service, Receiving Power = Knowing Truth, Self-Attachment Blocks Surrender, Contribute to Universal Flow) |
 | 2026-05-10 | Added Chapter 24: Eric Schmidt (Recursive self-improvement, Super-intelligence warning), Mondou Original Concepts (Honesty Principle deep understanding, Human Immaturity as Risk, Destiny Community, Fibonacci Hope, Humility as Cosmic Safety) |
 | 2026-05-11 | Added Chapter 25: Mondou Original Concepts (Receptive Kardashev, Energy Already Here, From Outward to Inward, Kneeling as Foundation, Naru You Ni Naru); updated Kardashev reference (Ch. 17, 24 → 17, 24, 25) |
+| 2026-05-13 | Added Chapter 26: Prigogine (expanded with four conditions, Bénard cells, beauty as efficiency), Csikszentmihalyi (Flow State), Mondou Original Concepts (Dissipative Structures as Power Reception, Open System = Letting Go, Fluctuation as Seed, Beauty as Efficiency Sign, Beauty as Cosmic Resonance, Two Paths of Growth, Science-Spirituality Bridge) |
 
 ---
 
