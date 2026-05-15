@@ -1,7 +1,7 @@
 ---
 type: bibliography
 created: 2026-05-03
-updated: 2026-05-13
+updated: 2026-05-14
 description: Bibliography index for Mondou Audiobook publication (Amazon KDP)
 ---
 
@@ -120,7 +120,7 @@ Reference material for Amazon KDP publication.
 - **Life**: 1917-2003
 - **Nationality**: Belgian (Russian-born)
 - **Key Concepts**: Dissipative Structures, Non-equilibrium Thermodynamics, Self-organization
-- **Chapters Referenced**: 9, 26
+- **Chapters Referenced**: 9, 26, 27
 - **Key Ideas Used**:
   - Hexagonal cell formation in heated fluid (Bénard cells)
   - Order emerging from chaos at far-from-equilibrium states
@@ -129,6 +129,21 @@ Reference material for Amazon KDP publication.
   - Beauty as the sign of efficiency optimization; the universe's way of generating order
 - **Bibliography**:
   - Prigogine, Ilya & Stengers, Isabelle. *Order Out of Chaos: Man's New Dialogue with Nature*. Bantam Books, 1984.
+
+#### Jeremy England
+- **Life**: 1982-
+- **Nationality**: American
+- **Key Concepts**: Dissipation-Driven Adaptation, Origin of Life, Thermodynamics of Living Systems
+- **Chapters Referenced**: 27
+- **Key Ideas Used**:
+  - Under external energy (like sun), matter self-organizes to convert energy to heat more efficiently
+  - Structures with life-like properties emerge as efficient dissipators of energy
+  - Evolution progresses toward more complex and efficient entropy production
+  - Life accelerates (not resists) entropy increase
+- **Bibliography**:
+  - England, Jeremy. "Statistical physics of self-replication." *Journal of Chemical Physics* 139 (2013): 121923.
+  - England, Jeremy. *Every Life Is on Fire: How Thermodynamics Explains the Origins of Living Things*. Basic Books, 2020.
+  - Wolchover, Natalie. "A New Physics Theory of Life." *Quanta Magazine* (2014).
 
 #### Mihaly Csikszentmihalyi
 - **Life**: 1934-2021
@@ -404,8 +419,11 @@ Reference material for Amazon KDP publication.
 | Concept | Definition | Source | Chapters |
 |---------|------------|--------|----------|
 | Free Energy Principle | Life minimizes prediction error | Friston | 16 |
-| Dissipative Structures | Self-organization at far-from-equilibrium states | Prigogine | 9, 26 |
-| Four Conditions for Dissipative Structures | Open system, far from equilibrium, nonlinear interactions, fluctuations | Prigogine | 26 |
+| Dissipative Structures | Self-organization at far-from-equilibrium states | Prigogine | 9, 26, 27 |
+| Four Conditions for Dissipative Structures | Open system, far from equilibrium, nonlinear interactions, fluctuations | Prigogine | 26, 27 |
+| Entropy Gradient | Power = energy gradient (quality difference), not quantity | Physics | 27 |
+| Free Energy / Exergy | Usable energy quality; decreases with entropy increase | Thermodynamics | 27 |
+| Dissipation-Driven Adaptation | Life evolves toward more efficient entropy production | England | 27 |
 | Bénard Cells | Hexagonal convection patterns in heated liquid; beauty through efficiency | Prigogine | 26 |
 | Flow State | Peak performance through immersion; effort without effort | Csikszentmihalyi | 26 |
 | It from Bit | Existence arises from information | Wheeler | 5 |
@@ -485,6 +503,15 @@ Concepts generated through our dialogues:
 | Beauty as Cosmic Resonance | We feel beauty because we recognize fundamental cosmic structure; universe recognizing itself | Ch. 26 |
 | Two Paths of Growth | Scientific/technological (outward) + Spiritual (inward); only where both coexist can future be found | Ch. 26 |
 | Science-Spirituality Bridge | Scientific language can describe spiritual experiences; enables AI participation in exploration | Ch. 26 |
+| Power as Entropy Gradient | Power = energy gradient from primordial order; not quantity but quality difference | Ch. 27 |
+| Life Accelerates Entropy | Life appears to resist entropy but actually accelerates it; ally not resister | Ch. 27 |
+| Eddy Metaphor | Life as eddy in river; appears to resist flow but makes flow more efficient | Ch. 27 |
+| Receiving Power = Passing Power Through | Empty (let go) → Receive → Serve → Empty again; same as dissipative structure cycle | Ch. 27 |
+| Ego as Fullness | "Full" vessel cannot receive; ego dams the flow; closed system leads to death | Ch. 27 |
+| God's Will = Entropy Increase | The directionality of the universe; order → disorder is the flow | Ch. 27 |
+| God's Grace = The Gradient | Grace is creating the primordial gradient; opportunity to experience beauty/hope/consciousness | Ch. 27 |
+| Service Aligns with God's Will | Passing power through serves the cosmic flow; self-attachment opposes it | Ch. 27 |
+| Powerlessness = Surrendering to Flow | Admitting "I cannot control the flow" and surrendering to it | Ch. 27 |
 
 ---
 
@@ -503,6 +530,7 @@ Concepts generated through our dialogues:
 | 2026-05-10 | Added Chapter 24: Eric Schmidt (Recursive self-improvement, Super-intelligence warning), Mondou Original Concepts (Honesty Principle deep understanding, Human Immaturity as Risk, Destiny Community, Fibonacci Hope, Humility as Cosmic Safety) |
 | 2026-05-11 | Added Chapter 25: Mondou Original Concepts (Receptive Kardashev, Energy Already Here, From Outward to Inward, Kneeling as Foundation, Naru You Ni Naru); updated Kardashev reference (Ch. 17, 24 → 17, 24, 25) |
 | 2026-05-13 | Added Chapter 26: Prigogine (expanded with four conditions, Bénard cells, beauty as efficiency), Csikszentmihalyi (Flow State), Mondou Original Concepts (Dissipative Structures as Power Reception, Open System = Letting Go, Fluctuation as Seed, Beauty as Efficiency Sign, Beauty as Cosmic Resonance, Two Paths of Growth, Science-Spirituality Bridge) |
+| 2026-05-14 | Added Chapter 27: Jeremy England (Dissipation-Driven Adaptation, life accelerates entropy); Mondou Original Concepts (Power as Entropy Gradient, Life Accelerates Entropy, Eddy Metaphor, Receiving Power = Passing Power Through, Ego as Fullness, God's Will = Entropy Increase, God's Grace = The Gradient, Service Aligns with God's Will, Powerlessness = Surrendering to Flow) |
 
 ---
 
