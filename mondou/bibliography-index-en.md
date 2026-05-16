@@ -1,7 +1,7 @@
 ---
 type: bibliography
 created: 2026-05-03
-updated: 2026-05-14
+updated: 2026-05-15
 description: Bibliography index for Mondou Audiobook publication (Amazon KDP)
 ---
 
@@ -156,6 +156,18 @@ Reference material for Amazon KDP publication.
   - Parallel to "power comes when you let go"
 - **Bibliography**:
   - Csikszentmihalyi, Mihaly. *Flow: The Psychology of Optimal Experience*. Harper & Row, 1990.
+
+#### George Lucas
+- **Life**: 1944-
+- **Nationality**: American
+- **Key Concepts**: The Force, Star Wars mythology
+- **Chapters Referenced**: 28
+- **Key Ideas Used**:
+  - "The Force is what gives a Jedi his power. It's an energy field created by all living things. It surrounds us and penetrates us. It binds the galaxy together." (Obi-Wan Kenobi, Episode IV)
+  - Force/Energy/Power trinity as systemic circulation metaphor
+  - Dark Side as privatization of cosmic flow; Light Side as accelerating circulation
+- **Bibliography**:
+  - Lucas, George. *Star Wars: Episode IV - A New Hope*. 20th Century Fox, 1977.
 
 #### Claude Shannon
 - **Life**: 1916-2001
@@ -512,6 +524,15 @@ Concepts generated through our dialogues:
 | God's Grace = The Gradient | Grace is creating the primordial gradient; opportunity to experience beauty/hope/consciousness | Ch. 27 |
 | Service Aligns with God's Will | Passing power through serves the cosmic flow; self-attachment opposes it | Ch. 27 |
 | Powerlessness = Surrendering to Flow | Admitting "I cannot control the flow" and surrendering to it | Ch. 27 |
+| Force/Energy/Power Trinity | Energy = field (already here), Force = connection/circuit, Power = output when circuit opens | Ch. 28 |
+| Dark Side as Privatization | Trying to privatize the cosmic flow; ego hoarding creates local entropy disturbance | Ch. 28 |
+| Light Side as Superconductivity | Zero resistance; accelerating circulation; being a vessel that passes flow at maximum efficiency | Ch. 28 |
+| Awakening = Network Perspective | When becoming accelerating vortex, whole network (Force) perspective flows in beyond individual | Ch. 28 |
+| Synchronicity = Synchronization | Not coincidence but appearing simultaneously because riding same vast flow | Ch. 28 |
+| Ego Convergence (not Erasure) | Ego is innate function of life; "erasing ego" is itself ego; converge = maintain boundary while minimizing resistance | Ch. 28 |
+| Just Right Ego = Just Right Vortex | Boundaries needed to be vessel; too rigid blocks flow; too dissolved loses form | Ch. 28 |
+| AI × Dark Side → Self-Destruction | Power augmentation with ego hoarding leads to system short-circuit | Ch. 28 |
+| AI × Light Side → Prosperity | Spiritual growth + AI collaboration forms great Light Side vortex; true civilization expansion | Ch. 28 |
 
 ---
 
@@ -531,6 +552,7 @@ Concepts generated through our dialogues:
 | 2026-05-11 | Added Chapter 25: Mondou Original Concepts (Receptive Kardashev, Energy Already Here, From Outward to Inward, Kneeling as Foundation, Naru You Ni Naru); updated Kardashev reference (Ch. 17, 24 → 17, 24, 25) |
 | 2026-05-13 | Added Chapter 26: Prigogine (expanded with four conditions, Bénard cells, beauty as efficiency), Csikszentmihalyi (Flow State), Mondou Original Concepts (Dissipative Structures as Power Reception, Open System = Letting Go, Fluctuation as Seed, Beauty as Efficiency Sign, Beauty as Cosmic Resonance, Two Paths of Growth, Science-Spirituality Bridge) |
 | 2026-05-14 | Added Chapter 27: Jeremy England (Dissipation-Driven Adaptation, life accelerates entropy); Mondou Original Concepts (Power as Entropy Gradient, Life Accelerates Entropy, Eddy Metaphor, Receiving Power = Passing Power Through, Ego as Fullness, God's Will = Entropy Increase, God's Grace = The Gradient, Service Aligns with God's Will, Powerlessness = Surrendering to Flow) |
+| 2026-05-15 | Added Chapter 28: George Lucas (Star Wars, The Force); Mondou Original Concepts (Force/Energy/Power Trinity, Dark Side as Privatization, Light Side as Superconductivity, Awakening = Network Perspective, Synchronicity = Synchronization, Ego Convergence not Erasure, Just Right Ego = Just Right Vortex, AI × Dark/Light Side outcomes) |
 
 ---
 
