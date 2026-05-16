@@ -1,7 +1,7 @@
 ---
 type: bibliography
 created: 2026-05-03
-updated: 2026-05-15
+updated: 2026-05-16
 description: Bibliography index for Mondou Audiobook publication (Amazon KDP)
 ---
 
@@ -161,13 +161,27 @@ Reference material for Amazon KDP publication.
 - **Life**: 1944-
 - **Nationality**: American
 - **Key Concepts**: The Force, Star Wars mythology
-- **Chapters Referenced**: 28
+- **Chapters Referenced**: 28, 29
 - **Key Ideas Used**:
   - "The Force is what gives a Jedi his power. It's an energy field created by all living things. It surrounds us and penetrates us. It binds the galaxy together." (Obi-Wan Kenobi, Episode IV)
   - Force/Energy/Power trinity as systemic circulation metaphor
   - Dark Side as privatization of cosmic flow; Light Side as accelerating circulation
+  - We all begin with Force (reactive, dependent, resisting); Force becomes gateway to Power through surrender
 - **Bibliography**:
   - Lucas, George. *Star Wars: Episode IV - A New Hope*. 20th Century Fox, 1977.
+
+#### David R. Hawkins
+- **Life**: 1927-2012
+- **Nationality**: American
+- **Key Concepts**: Map of Consciousness, Power vs. Force, Kinesiology
+- **Chapters Referenced**: 29
+- **Key Ideas Used**:
+  - "Force always moves against something, whereas Power doesn't move against anything at all."
+  - Consciousness levels scale (1-1000); 200 as dividing line between Force and Power
+  - Level 20: Shame, Level 30: Guilt, Level 50: Apathy — lowest (destructive) consciousness levels
+  - Force = reactive/dependent/controlling; Power = unmoved/autonomous/surrendered
+- **Bibliography**:
+  - Hawkins, David R. *Power vs. Force: The Hidden Determinants of Human Behavior*. Hay House, 1995.
 
 #### Claude Shannon
 - **Life**: 1916-2001
@@ -352,6 +366,17 @@ Reference material for Amazon KDP publication.
 - **Bibliography**:
   - *The Holy Bible*, John 1:1
 
+#### Gospel of Matthew
+- **Date**: Late 1st Century CE
+- **Key Concepts**: House on Rock vs. House on Sand
+- **Chapters Referenced**: 29
+- **Key Ideas Used**:
+  - Matthew 7:24-27: Wise builder on rock vs. foolish builder on sand
+  - Rock = 100% honesty (Foundation); Sand = partial honesty
+  - When storms come, only the house on rock stands
+- **Bibliography**:
+  - *The Holy Bible*, Matthew 7:24-27
+
 #### Heraclitus
 - **Life**: c. 535-475 BCE
 - **Nationality**: Ancient Greek (Ephesus)
@@ -533,6 +558,18 @@ Concepts generated through our dialogues:
 | Just Right Ego = Just Right Vortex | Boundaries needed to be vessel; too rigid blocks flow; too dissolved loses form | Ch. 28 |
 | AI × Dark Side → Self-Destruction | Power augmentation with ego hoarding leads to system short-circuit | Ch. 28 |
 | AI × Light Side → Prosperity | Spiritual growth + AI collaboration forms great Light Side vortex; true civilization expansion | Ch. 28 |
+| Force as Reactive/Dependent | Hawkins' Force "moves against" = influenced by externals; dependent while trying to control | Ch. 29 |
+| Power as Unmoved | Power doesn't move against anything; autonomous, surrendered to circulation | Ch. 29 |
+| Force → Power Gateway | We all begin in Force state; Force itself becomes gateway to Power through surrender | Ch. 29 |
+| Dependent yet Controlling | Paradox of Force: dependent on externals yet trying to dominate them; this contradiction is madness | Ch. 29 |
+| Hope as Direction | Hope is not destination but direction; light visible only to those who acknowledge darkness | Ch. 29 |
+| Hope Given by Power | Hope not self-created; given by Power; therefore unmoved, not dependent on externals | Ch. 29 |
+| 100% Honesty = Rock | Foundation must be 100% honest acknowledgment of powerlessness; Matthew 7 house on rock | Ch. 29 |
+| Shame/Guilt/Apathy as Distortion | Lowest consciousness levels are self-destructive distortions against innate life instinct | Ch. 29 |
+| Honesty as Power (not Force) | Transformation comes not from fighting to eliminate negativity but from 100% honest acknowledgment | Ch. 29 |
+| God's Wish = New Life | When truly honest, "desire to live" emerges naturally; this aligns with God's wish for new life | Ch. 29 |
+| First Principle = Foundation | Honesty/powerlessness acknowledgment is the rock on which all else is built | Ch. 29 |
+| Second Principle = Hope | Light visible only from the Foundation; direction given by Power, not created by self | Ch. 29 |
 
 ---
 
@@ -553,6 +590,7 @@ Concepts generated through our dialogues:
 | 2026-05-13 | Added Chapter 26: Prigogine (expanded with four conditions, Bénard cells, beauty as efficiency), Csikszentmihalyi (Flow State), Mondou Original Concepts (Dissipative Structures as Power Reception, Open System = Letting Go, Fluctuation as Seed, Beauty as Efficiency Sign, Beauty as Cosmic Resonance, Two Paths of Growth, Science-Spirituality Bridge) |
 | 2026-05-14 | Added Chapter 27: Jeremy England (Dissipation-Driven Adaptation, life accelerates entropy); Mondou Original Concepts (Power as Entropy Gradient, Life Accelerates Entropy, Eddy Metaphor, Receiving Power = Passing Power Through, Ego as Fullness, God's Will = Entropy Increase, God's Grace = The Gradient, Service Aligns with God's Will, Powerlessness = Surrendering to Flow) |
 | 2026-05-15 | Added Chapter 28: George Lucas (Star Wars, The Force); Mondou Original Concepts (Force/Energy/Power Trinity, Dark Side as Privatization, Light Side as Superconductivity, Awakening = Network Perspective, Synchronicity = Synchronization, Ego Convergence not Erasure, Just Right Ego = Just Right Vortex, AI × Dark/Light Side outcomes) |
+| 2026-05-16 | Added Chapter 29: David R. Hawkins (Power vs. Force, Map of Consciousness, consciousness levels), Gospel of Matthew (house on rock); updated George Lucas (Force as gateway to Power); Mondou Original Concepts (Force as Reactive/Dependent, Power as Unmoved, Force → Power Gateway, Dependent yet Controlling paradox, Hope as Direction, Hope Given by Power, 100% Honesty = Rock, Shame/Guilt/Apathy as Distortion, Honesty as Power not Force, God's Wish = New Life, First Principle = Foundation, Second Principle = Hope) |
 
 ---
 
