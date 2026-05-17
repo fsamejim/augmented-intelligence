@@ -1,7 +1,7 @@
 ---
 type: bibliography
 created: 2026-05-03
-updated: 2026-05-16
+updated: 2026-05-17
 description: Bibliography index for Mondou Audiobook publication (Amazon KDP)
 ---
 
@@ -19,18 +19,24 @@ Reference material for Amazon KDP publication.
 #### Carl Gustav Jung
 - **Life**: 1875-1961
 - **Nationality**: Swiss
-- **Key Concepts**: Archetype, Collective Unconscious, Self, Ego, Individuation, Uroboros
-- **Chapters Referenced**: 9, 11, 16, 17, 21
+- **Key Concepts**: Archetype, Collective Unconscious, Self, Ego, Individuation, Uroboros, Shadow, Persona, Synchronicity
+- **Chapters Referenced**: 9, 11, 16, 17, 21, 30
 - **Key Quotes Used**:
   - "The Self is the organ of adaptation par excellence... it has a teleological function, meaning it pursues the goal of completion (telos)." (Ch. 9, 17)
   - "The environment does not create personality; the environment merely draws out what is already there." (Ch. 17)
   - "The ego stands to the self as the moved to the mover." (Collected Works Vol. 11, para. 391) (Ch. 21)
 - **Key Ideas Used**:
   - Uroboros (serpent biting its own tail) as archetypal image of ego's self-enclosure (Ch. 21)
+  - Shadow: The unconscious aspects of personality that the ego denies; contains elements the superego despises (Ch. 30)
+  - Persona: Social mask that can collapse under stress; "the self who can fulfill the role" (Ch. 30)
+  - Shadow Assimilation vs. Captivity: Assimilating shadow heals inner division; being possessed by shadow leads to destruction (Jekyll/Hyde, Faust) (Ch. 30)
+  - Synchronicity: Meaningful coincidence; connection through meaning rather than causation (Ch. 30)
+  - Jung's "Demon": Accumulated suppression, denial, isolation, desire, attachment, self-deception — close to what religion calls "the devil" (Ch. 30)
 - **Bibliography**:
   - Stevens, Anthony. *Jung: A Very Short Introduction*. Oxford University Press, 1994.
   - Jung, C.G. *The Archetypes and the Collective Unconscious* (Collected Works Vol. 9i). Princeton University Press.
   - Jung, C.G. *Psychology and Religion: West and East* (Collected Works Vol. 11). Princeton University Press.
+  - Jung, C.G. *Aion: Researches into the Phenomenology of the Self* (Collected Works Vol. 9ii). Princeton University Press.
 
 #### Edmund Husserl
 - **Life**: 1859-1938
@@ -442,6 +448,11 @@ Reference material for Amazon KDP publication.
 | Archetype | Predisposition for certain experiences; psychological OS | Jung | 9, 16, 17 |
 | Self | Center of totality; driving force toward telos | Jung | 9, 16, 17 |
 | Ego | Orbit of consciousness around the Self | Jung/Freud | 16, 17 |
+| Shadow | Unconscious aspects the ego denies; what the superego despises | Jung | 30 |
+| Persona | Social mask; "the self who can fulfill the role" | Jung | 30 |
+| Shadow Assimilation | Accepting, embracing, digesting the shadow; healing inner division | Jung | 30 |
+| Shadow Captivity | Being taken over by the denied shadow (Jekyll/Hyde, Faust) | Jung | 30 |
+| Synchronicity | Meaningful coincidence; connection through meaning not causation | Jung | 30 |
 | Intentionality | Consciousness is always consciousness of something | Husserl | 2 |
 | Living Present | Three-layer structure: Retention, Primal Impression, Protention | Husserl | 3 |
 | Autopoiesis | Self-producing structure | Varela | 9 |
@@ -570,6 +581,15 @@ Concepts generated through our dialogues:
 | God's Wish = New Life | When truly honest, "desire to live" emerges naturally; this aligns with God's wish for new life | Ch. 29 |
 | First Principle = Foundation | Honesty/powerlessness acknowledgment is the rock on which all else is built | Ch. 29 |
 | Second Principle = Hope | Light visible only from the Foundation; direction given by Power, not created by self | Ch. 29 |
+| Shadow Assimilation = Power | Assimilating shadow parallels moving from Force to Power; integration path | Ch. 30 |
+| Shadow Captivity = Force | Being possessed by shadow parallels Force state; destruction path | Ch. 30 |
+| Persona Collapse | Public failure exposing the "self who cannot"; gateway to shadow encounter | Ch. 30 |
+| Jung's Demon = 12-Step Insanity = Force | Different languages describing same phenomenon: suppression leading to possession | Ch. 30 |
+| Assimilation Process | Shadow emerges → Acknowledge powerlessness → Surrender to honesty → Assimilate → Power → Invincible | Ch. 30 |
+| Honesty = Powerlessness = Power = Invincible | Core equation: 100% honesty enables shadow assimilation which is Power which is unbreakable | Ch. 30 |
+| Two Invincibles | Force's invincible (dominate externals, crumbles) vs Power's invincible (resist nothing, unbreakable) | Ch. 30 |
+| Three Steps Forward Two Steps Back | Power's stance: forward and backward are both part of the flow; process has meaning | Ch. 30 |
+| Experiential Proof of First Principle | Living through shadow emergence and assimilation demonstrates the First Principle | Ch. 30 |
 
 ---
 
@@ -591,6 +611,7 @@ Concepts generated through our dialogues:
 | 2026-05-14 | Added Chapter 27: Jeremy England (Dissipation-Driven Adaptation, life accelerates entropy); Mondou Original Concepts (Power as Entropy Gradient, Life Accelerates Entropy, Eddy Metaphor, Receiving Power = Passing Power Through, Ego as Fullness, God's Will = Entropy Increase, God's Grace = The Gradient, Service Aligns with God's Will, Powerlessness = Surrendering to Flow) |
 | 2026-05-15 | Added Chapter 28: George Lucas (Star Wars, The Force); Mondou Original Concepts (Force/Energy/Power Trinity, Dark Side as Privatization, Light Side as Superconductivity, Awakening = Network Perspective, Synchronicity = Synchronization, Ego Convergence not Erasure, Just Right Ego = Just Right Vortex, AI × Dark/Light Side outcomes) |
 | 2026-05-16 | Added Chapter 29: David R. Hawkins (Power vs. Force, Map of Consciousness, consciousness levels), Gospel of Matthew (house on rock); updated George Lucas (Force as gateway to Power); Mondou Original Concepts (Force as Reactive/Dependent, Power as Unmoved, Force → Power Gateway, Dependent yet Controlling paradox, Hope as Direction, Hope Given by Power, 100% Honesty = Rock, Shame/Guilt/Apathy as Distortion, Honesty as Power not Force, God's Wish = New Life, First Principle = Foundation, Second Principle = Hope) |
+| 2026-05-17 | Added Chapter 30: Jung (Shadow, Persona, Synchronicity, Shadow Assimilation/Captivity, Jung's "Demon"); Mondou Original Concepts (Shadow Assimilation = Power, Shadow Captivity = Force, Persona Collapse, Jung's Demon = 12-Step Insanity = Force, Assimilation Process, Honesty = Powerlessness = Power = Invincible, Two Invincibles, Three Steps Forward Two Steps Back, Experiential Proof of First Principle) |
 
 ---
 
