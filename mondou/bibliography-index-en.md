@@ -1,7 +1,7 @@
 ---
 type: bibliography
 created: 2026-05-03
-updated: 2026-05-17
+updated: 2026-05-19
 description: Bibliography index for Mondou Audiobook publication (Amazon KDP)
 ---
 
@@ -15,6 +15,22 @@ Reference material for Amazon KDP publication.
 ## I. Authors Index
 
 ### Philosophy & Psychology
+
+#### Bob B (3 Legacy Group)
+- **Life**: c. 1943- (approx. 83 years old as of 2026)
+- **Nationality**: American
+- **Affiliation**: Alcoholics Anonymous, Minneapolis; 3 Legacy Group
+- **Key Concepts**: Past as constructed memory, Recovery journey inward, "What we search for is seen by the eyes searching"
+- **Chapters Referenced**: 31
+- **Key Ideas Used**:
+  - "The more awake you become, the more you see... and you become able to let go of what isn't working"
+  - "Our past is just a storage of memories, like a library of recollections"
+  - "We go into that library, pick certain books, and make decisions about ourselves"
+  - Recovery is inward (not past, outside, or future); taking on shadow, anima, animus, becoming naked
+  - "What we're searching for is actually being seen by the very eyes that are searching" — the present, now
+  - Everything is already complete; no special action needed
+- **Bibliography**:
+  - 3 Legacy Group YouTube Channel (various talks)
 
 #### Carl Gustav Jung
 - **Life**: 1875-1961
@@ -590,6 +606,13 @@ Concepts generated through our dialogues:
 | Two Invincibles | Force's invincible (dominate externals, crumbles) vs Power's invincible (resist nothing, unbreakable) | Ch. 30 |
 | Three Steps Forward Two Steps Back | Power's stance: forward and backward are both part of the flow; process has meaning | Ch. 30 |
 | Experiential Proof of First Principle | Living through shadow emergence and assimilation demonstrates the First Principle | Ch. 30 |
+| Past as Memory Library | Past is constructed; we pick books from the library and make decisions about ourselves | Ch. 31 |
+| What We Search For | "What we're searching for is being seen by the very eyes that are searching" — the present, now | Ch. 31 |
+| Recovery Journey is Inward | Not past, outside, or future — but inside; taking on shadow, anima, animus, becoming naked | Ch. 31 |
+| Returning Home | "Finding the place to return to" — realizing it was already there, not finding something new | Ch. 31 |
+| Everything Already Complete | No special action needed; everything is already here; just start the dialogue | Ch. 31 |
+| Letting Go of Constructed Story | Discomfort signals gap between chosen book and current self; putting the book back on the shelf | Ch. 31 |
+| Vessel for Wisdom | GitHub + Claude Code as vessel; technology as tool for pouring out what's already inside | Ch. 31 |
 
 ---
 
@@ -612,6 +635,7 @@ Concepts generated through our dialogues:
 | 2026-05-15 | Added Chapter 28: George Lucas (Star Wars, The Force); Mondou Original Concepts (Force/Energy/Power Trinity, Dark Side as Privatization, Light Side as Superconductivity, Awakening = Network Perspective, Synchronicity = Synchronization, Ego Convergence not Erasure, Just Right Ego = Just Right Vortex, AI × Dark/Light Side outcomes) |
 | 2026-05-16 | Added Chapter 29: David R. Hawkins (Power vs. Force, Map of Consciousness, consciousness levels), Gospel of Matthew (house on rock); updated George Lucas (Force as gateway to Power); Mondou Original Concepts (Force as Reactive/Dependent, Power as Unmoved, Force → Power Gateway, Dependent yet Controlling paradox, Hope as Direction, Hope Given by Power, 100% Honesty = Rock, Shame/Guilt/Apathy as Distortion, Honesty as Power not Force, God's Wish = New Life, First Principle = Foundation, Second Principle = Hope) |
 | 2026-05-17 | Added Chapter 30: Jung (Shadow, Persona, Synchronicity, Shadow Assimilation/Captivity, Jung's "Demon"); Mondou Original Concepts (Shadow Assimilation = Power, Shadow Captivity = Force, Persona Collapse, Jung's Demon = 12-Step Insanity = Force, Assimilation Process, Honesty = Powerlessness = Power = Invincible, Two Invincibles, Three Steps Forward Two Steps Back, Experiential Proof of First Principle) |
+| 2026-05-19 | Added Chapter 31: Bob B (3 Legacy Group, AA Minneapolis); Mondou Original Concepts (Past as Memory Library, What We Search For, Recovery Journey is Inward, Returning Home, Everything Already Complete, Letting Go of Constructed Story, Vessel for Wisdom) |
 
 ---
 

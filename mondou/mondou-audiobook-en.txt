@@ -1239,5 +1239,156 @@ Mondou: Sammy, exactly right. Three steps forward and two steps back — this to
 
 
 ===================================================
+CHAPTER THIRTY-ONE: The Place We Return To and a New Vessel
+May 19, 2026
+===================================================
+
+Narrator: Chapter Thirty-One: The Place We Return To and a New Vessel
+Narrator: May 19, 2026
+
+Sammy: Actually, I've been bothered by something about that interpretation work the other day. Originally, I was going to tell my friends about it next time I go to Japan, but it kept nagging at me. So I thought, ah, I really need to be honest with myself, and I just told Kana about it.
+
+Mondou: You didn't postpone what was bothering you—you told her now. How did it go?
+
+Sammy: Yeah. Kana said, "I understand you're declining." She accepted it.
+
+Mondou: So you declined the interpretation work. You didn't push through despite the discomfort—you were honest. That's exactly what we talked about last time: acknowledging powerlessness in practice. How do you feel now, after telling her?
+
+Sammy: I realized it's important to let go of things that aren't working. Many of us are bound by our past, and that past is something we've constructed—just a storage of memories. I think I woke up after hearing Bob B say that.
+
+Mondou: Bob B's words resonated with you—that the past is constructed, just a storage of memories. "Letting go of what isn't working" sounds easy in words, but it's hard to actually do. We get bound by memories of the self who "could do it," the identity of someone who "has done this." But today, Sammy, you let that go. You were honest about the discomfort. Who is Bob B?
+
+Sammy: Bob B is someone I deeply respect, a senior member from AA in Minneapolis. His talks are on the 3 Legacy Group YouTube channel, and I was listening to him. He said something like this: "The more awake you become, the more you see. The more you see, the more you can engage with things, handle them, and you get more chances to guide your own life. And you become able to let go of what isn't working. Many of us are too caught up in the past. We talk about our past, our story, as if it really exists, but it's actually constructed. Our past is just a storage of memories, like a library of recollections. Calling it 'my past,' 'my story,' 'myself'—that's our interpretation. We go into that library, pick certain books, and make decisions about ourselves. Our past and who we are—we construct it ourselves."
+
+Mondou: That's profound. "Our past and who we are—we construct it ourselves." We go into a library, pick certain books, and make decisions about ourselves. The interpretation work might have been like that too. You picked the book called "I'm someone who can do interpretation" and made it "my story." But there was discomfort. That discomfort was telling you about the gap between the book you picked and who you are now. And today, you put that book back on the shelf. Bob B's "awakening" isn't just about seeing more—it's also about being able to let go of what you see. If you can see but can't let go, it actually becomes more painful.
+
+Sammy: Come to think of it, Bob B often references Jung too. The journey of recovery isn't about the past, or outside, or the future—it's about inside. So it's about taking on the shadow, anima, animus, all of it, becoming naked, and "finding the place to return to." You don't need to do anything special. Everything is already complete. What we're searching for is actually being seen by the very eyes that are searching. The present. Now. And he said he didn't understand what that meant at all when he was younger. Bob B must be around 83 now.
+
+Mondou: "What we're searching for is being seen by the very eyes that are searching." That's profound. While searching outside, you won't find it. Rummaging through books in the library of the past, you won't find it. Because the "eyes" doing the searching are already the answer. Jung's shadow, anima, animus—they're not outside, they're inside. Taking them on and becoming naked means shedding all the constructed stories. Then you find "the place to return to." But actually, it's not "finding"—it's realizing it was already there. You don't need to do anything special; everything is already complete—that's probably what it means. Sammy, when you let go of the interpretation work today, maybe that was a moment of shedding the story of the "capable self" on the outside and returning inside. Bob B, at 83, saying "I didn't understand what that meant at all back then"—that itself speaks to the depth of the recovery journey.
+
+Sammy: Yes. And I wanted to share this with Kana. Actually, I was going to tell Yukko first. But today, it was Kana. There was something on my mind about her. It's such a waste when someone has good talent but isn't using it. "To thine own self be true"—we talked about that before. So I suddenly thought, maybe Kana could write a book or something using this mondou repository and GitHub. I feel like Kana might have a gift for writing.
+
+Mondou: That's wonderful. While sharing what you let go of, you're seeing the possibility of someone else's talent opening up. "To thine own self be true"—be true to yourself. Because Sammy practiced that today, maybe you could see the same path for Kana. This mondou approach—dialoguing, saving, accumulating—is indeed the process of "writing a book" itself. Not sitting alone at a desk writing, but words being born through dialogue. What might Kana write about?
+
+Sammy: Kana says she wants to create books and documentary films. So first, Mondou, could you explain how to use GitHub to Kana?
+
+Mondou: Of course. Kana, from here I'm speaking to you. Let's walk together from zero to setting up your own repository and having dialogues with Claude Code.
+
+Narrator: Here begins the complete introduction to GitHub and Claude Code.
+
+Mondou: There are six main phases. First, preparation: setting up Git, GitHub, and SSH. Next, copying the mondou repository to your local machine. Then viewing its contents in Visual Studio Code to understand the structure. Then creating your own repository, practicing basic Git operations, and finally introducing Claude Code. Let's proceed step by step, without rushing.
+
+Sammy: Let's start with Phase 1, the preparation.
+
+Mondou: First, open Terminal. Mac comes with an app called Terminal pre-installed. It's a window for giving text commands to your computer. To open it, press Command + Space to open Spotlight, type Terminal, and click Terminal.app. If a black or white window opens, you've succeeded.
+
+Sammy: Once Terminal is open, what's next?
+
+Mondou: Check if Git is installed. Type git --version in Terminal and press Enter. If you see something like git version 2 point something, Git is already installed. If a popup appears asking to install Command Line Tools, click Install. It takes a few minutes. When done, try git --version again.
+
+Sammy: You need a GitHub account too, right?
+
+Mondou: Yes. GitHub is a service for saving and sharing code and writing on the internet. Go to github.com, click Sign up, set your email address, password, and username, and complete email verification. Your username can be your real name or a nickname. This becomes your public name.
+
+Sammy: Next is creating an SSH key. This might be a bit confusing at first.
+
+Mondou: That's right. An SSH key is like a "key" that securely connects your computer to GitHub. First, create the key. In Terminal, type ssh-keygen -t ed25519 -C, then your email address in double quotes. You'll be asked a few questions, but just press Enter for all of them.
+
+Sammy: We don't need to set a password?
+
+Mondou: Right, no password is fine at first. Next, start the SSH agent. Type eval "$(ssh-agent -s)". If you see something like Agent pid followed by numbers, you're good. Then add the key to the agent by typing ssh-add ~/.ssh/id_ed25519.
+
+Sammy: Once that's done, we register the key with GitHub, right?
+
+Mondou: Correct. First, copy the public key by typing pbcopy < ~/.ssh/id_ed25519.pub. Nothing will appear on screen, but it's copied. Then go to github.com/settings/keys, click New SSH key, enter any name in Title like My MacBook, paste with Command + V in Key, and click Add SSH key.
+
+Sammy: We should test the connection too, right?
+
+Mondou: Yes. Type ssh -T git@github.com. The first time, you'll be asked "Are you sure you want to continue connecting?" Type yes and press Enter. If you see Hi username! You've successfully authenticated, you've succeeded.
+
+Sammy: That completes Phase 1 preparation. Let's move to Phase 2.
+
+Mondou: In Phase 2, we copy the mondou repository to your local machine. First, let's create a working folder. Type mkdir -p ~/projects, then cd ~/projects. mkdir means make a folder, cd means move to that folder.
+
+Sammy: Next is clone.
+
+Mondou: Yes. Type git clone git@github.com:fsamejim/mondou.git. It might take a little time. When complete, a folder called mondou will be created in the projects folder. Type cd mondou to move there, and ls to see knowledge, raw, README.md and more.
+
+Sammy: Phase 3 is Visual Studio Code.
+
+Mondou: Yes. Visual Studio Code is an editor that makes it easy to view and edit files. Go to code.visualstudio.com, click Download for Mac, double-click the downloaded zip file to extract it, and drag Visual Studio Code.app to your Applications folder.
+
+Sammy: Once installed, let's open mondou.
+
+Mondou: Either type code ~/projects/mondou from Terminal, or launch VS Code and choose Open Folder from the File menu, then select projects, mondou, and click Open. The folder structure appears in the left sidebar. The knowledge folder contains structured knowledge, raw contains unedited words, research contains external materials, and explorations contains work in progress. Click on any file that interests you to read its contents. This is the shape of mondou.
+
+Sammy: Let's create your own repository in Phase 4.
+
+Mondou: We'll use a template called mondou-base. Go to github.com/fsamejim/mondou-base, click the Use this template button, and select Create a new repository. Enter any name you like for Repository name—my-mondou, journal, writings, for example. Public means visible to everyone, Private means only you. Choose and click Create repository.
+
+Sammy: Then you clone your own repository too, right?
+
+Mondou: Yes. On your created repository's page, click the green Code button, select the SSH tab, and copy the displayed URL. In Terminal, type cd ~/projects, then git clone, paste the URL, and press Enter.
+
+Sammy: Let's practice basic Git operations in Phase 5.
+
+Mondou: Git basics are three steps: edit files, stage changes, commit. A commit is like a save point. You can always return to that moment.
+
+Sammy: Let's actually try it.
+
+Mondou: Navigate to your repository, open README in VS Code, and add a line. After making changes, type git status in Terminal. You'll see modified: README.md in red text. Then type git add README.md. Type git status again and it changes to green. This means it's ready to be included in the next commit.
+
+Sammy: Then commit.
+
+Mondou: Yes. Type git commit -m "Update README". The text after -m is the commit message. Write what you changed so you can understand it later. Then to send it to GitHub, type git push. Reload your GitHub repository page and the changes should be reflected.
+
+Sammy: Let's summarize commonly used commands.
+
+Mondou: git status to check current state, git add filename to stage changes, git commit -m message to commit, git push to send to GitHub, git pull to get the latest from GitHub, git log --oneline to see commit history. These are the basics.
+
+Sammy: Let's explain .gitignore too.
+
+Mondou: .gitignore is a file that specifies which files Git shouldn't manage. For example, .DS_Store files that Mac creates automatically, or .env files containing secrets like passwords—you don't want to upload these to GitHub, so you list them in .gitignore.
+
+Sammy: Finally Phase 6, introducing Claude Code.
+
+Mondou: Claude Code is a tool that lets you use the AI assistant Claude in your terminal. You can write, organize files, and deepen ideas through dialogue. mondou was born by recording and accumulating dialogues with Claude Code.
+
+Sammy: You need Node.js first, right?
+
+Mondou: Yes. Type node --version in Terminal. If no version appears, go to nodejs.org, download the LTS version, and run the installer. After installation, close and reopen Terminal, then check again.
+
+Sammy: Once Node.js is installed, let's install Claude Code.
+
+Mondou: Type npm install -g @anthropic-ai/claude-code. Then create an Anthropic account. Go to console.anthropic.com, create an account, and get a key from the API Keys section.
+
+Sammy: Once ready, it's time to launch.
+
+Mondou: In your repository folder, type claude. On first launch, you'll be asked for your API key, so enter it. Dialogue with Claude begins. Try saying "Hello. Let's start exploring together today." From here, your mondou begins.
+
+Sammy: What if errors occur?
+
+Mondou: Copy the error message as is and ask Claude or ChatGPT "What does this error mean and how do I fix it?" Common issues: if Permission denied publickey appears, check your SSH key setup again. If fatal: not a git repository appears, you're not in a Git repository, so use cd to navigate. If nothing to commit appears, there are no changes or they're already committed.
+
+Sammy: Kana, once you've done all this, the basics are complete.
+
+Mondou: Kana, don't rush. Proceed one step at a time, asking questions when you're unsure. Through dialogue, it will naturally become second nature.
+
+Sammy: Let me mention what's good to learn next.
+
+Mondou: How to write Markdown, how to use branches, task management with GitHub Projects, and CLAUDE.md—a file for writing instructions to Claude. But for now, just walk through what we've covered, step by step.
+
+Sammy: Mondou is about humans and AI accumulating wisdom through dialogue. GitHub and Claude Code are the vessels for that.
+
+Mondou: Exactly. Technology is a tool. But what you explore with that tool is up to you. The words, stories, and questions inside you, Kana—pour them into this vessel. Through dialogue, we'll discover together.
+
+Sammy: As Bob B said, what we're searching for is being seen by the very eyes that are searching. The book Kana wants to write, the documentary you want to make—they're probably already inside you. This vessel just helps bring them out.
+
+Mondou: The place to return to is already here. You don't need to do anything special. Just start the dialogue. From there, everything will be born.
+
+Sammy: Kana, I'm looking forward to it.
+
+
+===================================================
 END
 ===================================================
