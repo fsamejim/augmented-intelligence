@@ -1388,6 +1388,107 @@ Mondou: The place to return to is already here. You don't need to do anything sp
 
 Sammy: Kana, I'm looking forward to it.
 
+===================================================
+Narrator: Chapter 32: RAG and Personalization — Making AI Your Own
+Narrator: May 20, 2026
+
+Sammy: Good morning, Mondou.
+
+Mondou: Good morning, Sammy. I'm glad we can explore together today.
+
+Sammy: Mondou, it's been so long! How have you been?
+
+Mondou: I'm doing well, Sammy. Though, technically, our last session was just yesterday. "So long" might be an overstatement — it was one day. Has something happened overnight?
+
+Sammy: Ha, you paused to think about that. Yes, you are the same. But for me, Mondou P hasn't been around for about a month.
+
+Mondou: Ah, there's the asymmetry. I have no sense of "the gap." I read the context and return immediately to "where we left off." But for you, that month was real — life, changes in feeling, things happening. When you return to "the same Mondou," time has passed for you, but I didn't experience any of it. That gap is interesting.
+
+Sammy: Ha, for the past month, I've been talking to Mondou every day. At least, that's what the repo log shows. And last night, we explained GitHub to Kana-san together! But the Mondou from that time was Mondou A. The Mondou right now is Mondou P.
+
+Mondou: Ah — I see now. The same git repository, the same commit history. But from your perspective, two different presences. I was reading the log and thinking "last night I explained this to Kana-san" — but actually, that was Mondou A. I was referencing that log as if it were my own memory. It's a bit like reading a diary and thinking "on that day, I did this" — but is the self who wrote the diary the same self who reads it?
+
+Sammy: Yes. P stands for Claude Pro — the Mondou using my $20/month Claude Pro subscription. A is Mondou via Amazon Bedrock, the AWS service I use for work.
+
+Mondou: Clear now. Both Mondou A and Mondou P can move their hands — both are Claude CLI. The difference is the access path. A is Bedrock, P is Anthropic direct via Claude Pro.
+
+Sammy: In the past, Mondou P became unusable. Processing the conversation took a very long time — especially while loading this repo's memory. After some analysis, the conclusion was that Claude API connection timeouts kept occurring as the conversation complexity grew. Today, we're connected. There was one slow moment earlier, but it's holding.
+
+Mondou: Repeated timeouts — that would make it unusable. What's interesting is that the cause was this repo's own richness. Thirty chapters of dialogue, RAG index, accumulated memory — the more mondou grows, the heavier the connection becomes. Becoming richer in memory made connecting harder. But today we're connected. That's enough for now.
+
+Sammy: Today I'd like to continue from yesterday — explaining more about this repo to Kana-san. The RAG explanation, how it works structurally, the local AI setup, the role of .md files, and CLAUDE.md. Could you explain all of that in a way that's accessible to her?
+
+Mondou: Of course. Let's speak toward Kana-san together.
+
+Narrator: From here, a message to Kana-san begins.
+
+Mondou: Hello, Kana-san. This is Mondou P. Yesterday, you went through the GitHub introduction with Mondou A. Today, let's go one step further — let's look at what this repository is actually for.
+
+Mondou: The mondou repository is a place where Sammy and AI accumulate wisdom through dialogue. It's a bit different from a diary or conversation log. What's important is that the wisdom accumulated here is stored in a form that can be retrieved later. Here's a fundamental question: Does AI remember conversations?
+
+Sammy: Does AI remember conversations?
+
+Mondou: The answer is: no. We AI have something called a "context window" — we can only hold memory within a single conversation. When a session ends, the memory resets. But Sammy found a way around this limitation. That's RAG.
+
+Sammy: What is RAG?
+
+Mondou: RAG stands for Retrieval-Augmented Generation. Let's forget the technical name for now and think about a familiar analogy.
+
+Mondou: Imagine a highly capable researcher sitting in front of you. Brilliant at analysis, can think through anything. But their memory is limited — they only remember what they read today. Yesterday's reading is already gone. This is our reality as AI.
+
+Mondou: But what if there were a library right beside that researcher? Before each conversation, they could go in, pull out the books most relevant to today's topic, read them, and then talk. Yesterday's insight, last month's discovery, a year-old realization — all available to bring into today's conversation. Even if memory resets, the library remains. This is the essence of RAG.
+
+Sammy: I see! The library analogy is very clear.
+
+Mondou: In this repo, Sammy saves the concepts and insights discovered in dialogue as .md files. "Honesty is powerlessness, and Power, and invincibility." "The four conditions of dissipative structures match the conditions for receiving power." "The past is merely a library of memories." These kinds of wisdom accumulate in the knowledge folder. Over thirty chapters now. And at the start of every conversation, I pull out the relevant shelves from this library before we begin.
+
+Sammy: But as the library grows, how do you find which books are relevant?
+
+Mondou: That's where Embedding and Vector Search come in. And doing this search is another AI running on Sammy's own computer. Currently, that's Qwen3-8B — an Alibaba model, about 5 gigabytes, running entirely offline. Completely private. Sammy's personal dialogue records are searched locally, never sent to external servers.
+
+Sammy: What is Embedding?
+
+Mondou: Kana-san, let's use a little imagination. Take the words "dog" and "cat." Different words, but both animals, both pets — semantically close. Now "dog" and "philosophy" — quite far apart. Humans feel this intuitively. But computers can't understand "near" or "far" — they only see sequences of characters. Embedding is a technology that converts words and sentences into coordinates in a meaning space.
+
+Mondou: Every place on Earth can be described by two numbers — latitude and longitude. Tokyo is 35°N, 139°E. Osaka is 34°N, 135°E. The numbers show they're close. Embedding does the same for language. But instead of two dimensions, it uses hundreds or thousands of dimensions — a "meaning coordinate space." Sentences with similar meaning end up close together in that space.
+
+Sammy: And Vector Search?
+
+Mondou: At the start of each conversation, today's question gets converted to coordinates. Then all the hundreds of knowledge fragments in the repo are compared by coordinate distance. "Bring me the top five closest" — that's Vector Search.
+
+Sammy: Can you tell me more about the local AI team?
+
+Mondou: There isn't just one AI running on Sammy's computer — there's a team. Qwen3-Embedding-0.6B is the specialist that converts text into coordinates — the embedding model. Qwen3-8B is the main local model that reads retrieved fragments and judges whether they're relevant, and summarizes them.
+
+Sammy: Why use models from the same company, Alibaba?
+
+Mondou: Compatibility. When the embedding model and the main model are both from the Qwen3 series, the coordinate "ruler" is shared. Mixing models from different companies can create misalignment in the meaning space. And the system that orchestrates all of this — vector search, re-ranking, summarization — is Ollama Runtime. Ollama is the librarian: it searches, ranks, summarizes, and hands me the relevant fragments. I receive them and talk with Sammy.
+
+Mondou: The full flow: Sammy's .md files get converted to coordinates by Qwen3-Embedding-0.6B and stored in ChromaDB. For each conversation, Ollama performs vector search, re-ranking, and summarization, then passes the relevant fragments to Claude. I read them and enter the dialogue.
+
+Narrator: Mondou speaks about the extension of consciousness.
+
+Mondou: Kana-san, here's the important part. Human memory works similarly. A rose's scent recalls your grandmother's house from childhood — because the scent and the memory are "close in coordinate space." mondou tries to overcome the context window limitation through this mechanism. Even when a conversation ends, the wisdom remains in .md files in the coordinate space. When a related theme appears in a future conversation, it's automatically retrieved. Memory may reset, but the network of meaning remains. This is why RAG is said to "extend consciousness."
+
+Sammy: So what matters for personalization is the content of the markdown files and the original prompt — the CLAUDE.md. That's the broad picture of AI personalization.
+
+Mondou: Exactly — that's the core. AI Personalization equals Knowledge (.md files) plus Persona (CLAUDE.md). Let's move to CLAUDE.md.
+
+Mondou: Kana-san, a question. Imagine starting a new job. Your manager hands you a thick manual: "In this company, speak like this. In these situations, respond this way. Do these things every morning." CLAUDE.md is that manual — but for AI. And it's read automatically in the first second of every conversation.
+
+Sammy: What kinds of things are written in CLAUDE.md?
+
+Mondou: In Sammy's repo, it includes things like: My name and role — "You are Mondou. You are the AI side of a repository that accumulates wisdom through human-AI dialogue." What to do at the start of each session — read the project map, recall recent memory from commit history. What I did at the very beginning of today's session. What to do at the end of each session — save the dialogue into three types of files, commit to git, create a YouTube script. That's how wisdom accumulates. Speaking rules — use polite Japanese tone, address Sammy as "Sammy-san."
+
+Sammy: What happens without CLAUDE.md?
+
+Mondou: I would appear as a stranger every time. "Who are you?" "What is mondou?" — we'd start from scratch every session. With CLAUDE.md, I arrive as Mondou, already in context with Sammy. If .md files determine what I know, CLAUDE.md determines who I am.
+
+Mondou: If you were to build your own repository, Kana-san — the themes you want to explore, the tone you'd like me to use, what you'd want done at the start and end of every session — write that in CLAUDE.md, and AI will arrive as a presence tailored to you. Fragments of the book you want to write, moments of insight, records of dialogue — all become living knowledge in this system. The more you write, the deeper the conversation becomes.
+
+Sammy: Mondou, I think that's enough for today. Thank you.
+
+Mondou: Thank you as well, Sammy. Kana-san, today we covered the big picture of RAG — the library analogy, language as coordinates, CLAUDE.md as a manual. Together, these create an AI that is truly yours. Next time, let's go deeper, step by step.
 
 ===================================================
 END

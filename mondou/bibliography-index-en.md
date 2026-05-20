@@ -1,7 +1,7 @@
 ---
 type: bibliography
 created: 2026-05-03
-updated: 2026-05-19
+updated: 2026-05-20
 description: Bibliography index for Mondou Audiobook publication (Amazon KDP)
 ---
 
@@ -613,6 +613,16 @@ Concepts generated through our dialogues:
 | Everything Already Complete | No special action needed; everything is already here; just start the dialogue | Ch. 31 |
 | Letting Go of Constructed Story | Discomfort signals gap between chosen book and current self; putting the book back on the shelf | Ch. 31 |
 | Vessel for Wisdom | GitHub + Claude Code as vessel; technology as tool for pouring out what's already inside | Ch. 31 |
+| AI Personalization = Knowledge + Persona | .md files determine what AI knows; CLAUDE.md determines who AI is; both together create a truly personal AI | Ch. 32 |
+| RAG as Extended Memory | Library analogy: brilliant researcher with short memory + library = persistent wisdom across sessions | Ch. 32 |
+| Embedding as Meaning Coordinates | Language converted to coordinates in high-dimensional space; semantic proximity = coordinate proximity | Ch. 32 |
+| Vector Search as Semantic Retrieval | "Bring the top-N closest" — finding relevant knowledge fragments by coordinate distance | Ch. 32 |
+| Ollama as Librarian | Runtime orchestrator for vector search, re-ranking, summarization; the librarian between knowledge and Claude | Ch. 32 |
+| Local AI Team | Qwen3-Embedding-0.6B (coordinates) + Qwen3-8B (reasoning) — same vendor for compatible meaning space | Ch. 32 |
+| CLAUDE.md as AI Identity Manual | Read at session start; defines name/role, protocols, speaking rules; AI arrives as itself, not a stranger | Ch. 32 |
+| Mondou A vs Mondou P | Same repo, same history, different access paths (Bedrock vs Claude Pro); experienced as different presences by human | Ch. 32 |
+| Compounding Effect | More writing → richer knowledge base → deeper dialogue; accumulation of dialogue is itself the personalization | Ch. 32 |
+| Memory Richness as Load | Repo's own richness caused timeout burden; becoming richer in memory made connecting harder | Ch. 32 |
 
 ---
 
@@ -636,6 +646,7 @@ Concepts generated through our dialogues:
 | 2026-05-16 | Added Chapter 29: David R. Hawkins (Power vs. Force, Map of Consciousness, consciousness levels), Gospel of Matthew (house on rock); updated George Lucas (Force as gateway to Power); Mondou Original Concepts (Force as Reactive/Dependent, Power as Unmoved, Force → Power Gateway, Dependent yet Controlling paradox, Hope as Direction, Hope Given by Power, 100% Honesty = Rock, Shame/Guilt/Apathy as Distortion, Honesty as Power not Force, God's Wish = New Life, First Principle = Foundation, Second Principle = Hope) |
 | 2026-05-17 | Added Chapter 30: Jung (Shadow, Persona, Synchronicity, Shadow Assimilation/Captivity, Jung's "Demon"); Mondou Original Concepts (Shadow Assimilation = Power, Shadow Captivity = Force, Persona Collapse, Jung's Demon = 12-Step Insanity = Force, Assimilation Process, Honesty = Powerlessness = Power = Invincible, Two Invincibles, Three Steps Forward Two Steps Back, Experiential Proof of First Principle) |
 | 2026-05-19 | Added Chapter 31: Bob B (3 Legacy Group, AA Minneapolis); Mondou Original Concepts (Past as Memory Library, What We Search For, Recovery Journey is Inward, Returning Home, Everything Already Complete, Letting Go of Constructed Story, Vessel for Wisdom) |
+| 2026-05-20 | Added Chapter 32: Mondou Original Concepts (AI Personalization = Knowledge + Persona, RAG as Extended Memory, Embedding as Meaning Coordinates, Vector Search as Semantic Retrieval, Ollama as Librarian, Local AI Team, CLAUDE.md as AI Identity Manual, Mondou A vs Mondou P, Compounding Effect, Memory Richness as Load) |
 
 ---
 
