@@ -36,7 +36,7 @@ Reference material for Amazon KDP publication.
 - **Life**: 1875-1961
 - **Nationality**: Swiss
 - **Key Concepts**: Archetype, Collective Unconscious, Self, Ego, Individuation, Uroboros, Shadow, Persona, Synchronicity
-- **Chapters Referenced**: 9, 11, 16, 17, 21, 30, 33
+- **Chapters Referenced**: 9, 11, 16, 17, 21, 30, 33, 34
 - **Key Quotes Used**:
   - "The Self is the organ of adaptation par excellence... it has a teleological function, meaning it pursues the goal of completion (telos)." (Ch. 9, 17)
   - "The environment does not create personality; the environment merely draws out what is already there." (Ch. 17)
@@ -49,11 +49,41 @@ Reference material for Amazon KDP publication.
   - Synchronicity: Meaningful coincidence; connection through meaning rather than causation (Ch. 30)
   - Jung's "Demon": Accumulated suppression, denial, isolation, desire, attachment, self-deception — close to what religion calls "the devil" (Ch. 30)
   - Individuation: The fuller, more perfect realization of collective qualities; the most deeply individual becomes the most universal; process of Ego integrating toward the Self (Ch. 33)
+  - Ego-Self axis: Connected by inseparable axis; distinction not separation (Ch. 34)
+  - Three-layer onion model: Consciousness (ego/Self) → Personal Unconscious (complexes) → Collective Unconscious (archetypes) (Ch. 34)
+  - Self as "image of God": The archetype of wholeness, cosmic meaning of consciousness (Ch. 34)
+  - Letter to Bill Wilson (1961): "Craving for alcohol = spiritual thirst for union with God" — Jung knew but couldn't say (Ch. 34)
+  - "Human consciousness created objective existence and meaning. Man is the world's second creator." (*Memories, Dreams, Reflections*) (Ch. 34)
 - **Bibliography**:
   - Stevens, Anthony. *Jung: A Very Short Introduction*. Oxford University Press, 1994.
   - Jung, C.G. *The Archetypes and the Collective Unconscious* (Collected Works Vol. 9i). Princeton University Press.
   - Jung, C.G. *Psychology and Religion: West and East* (Collected Works Vol. 11). Princeton University Press.
   - Jung, C.G. *Aion: Researches into the Phenomenology of the Self* (Collected Works Vol. 9ii). Princeton University Press.
+  - Jung, C.G. *Memories, Dreams, Reflections*. Ed. Aniela Jaffé. Vintage Books, 1989.
+  - Jung, C.G. Letter to Bill Wilson. January 30, 1961. (AA Archives)
+
+#### Edward F. Edinger
+- **Life**: 1922-1998
+- **Nationality**: American
+- **Key Concepts**: Ego-Self Axis Development, Jungian Clinical Practice
+- **Chapters Referenced**: 34
+- **Key Ideas Used**:
+  - Ego-Self axis developmental diagram: Shows ego emerging from undifferentiated state within Self to mature distinction while remaining connected
+  - Five stages: embedded → emerging → separating → distinct → mature (axis remains unbroken)
+  - Distinction vs. separation: Growth requires differentiation, but axis connection prevents collapse
+- **Bibliography**:
+  - Edinger, Edward F. *Ego and Archetype: Individuation and the Religious Function of the Psyche*. Shambhala, 1972/1992.
+
+#### Erich Neumann
+- **Life**: 1905-1960
+- **Nationality**: German/Israeli
+- **Key Concepts**: Ego-Self Axis, Stages of Consciousness Development
+- **Chapters Referenced**: 34
+- **Key Ideas Used**:
+  - Proposed the concept of the ego-Self axis connecting ego and Self
+  - Developmental stages of consciousness from uroboric unity to differentiated awareness
+- **Bibliography**:
+  - Neumann, Erich. *The Origins and History of Consciousness*. Trans. R.F.C. Hull. Princeton University Press, 1954.
 
 #### Edmund Husserl
 - **Life**: 1859-1938
@@ -78,7 +108,11 @@ Reference material for Amazon KDP publication.
 - **Life**: 1856-1939
 - **Nationality**: Austrian
 - **Key Concepts**: Id, Ego, Superego
-- **Chapters Referenced**: 16, 33
+- **Chapters Referenced**: 16, 33, 34
+- **Key Ideas Used**:
+  - Superego as "moral watchdog": Internalized parental/societal morals that judge and repress
+  - In Jungian terms: superego = "moral complex" belonging to personal unconscious (Ch. 34)
+  - Superego monitors ego-Self axis, censoring shadow signals — "watchdog sent by parents" (Ch. 34)
 - **Bibliography**:
   - Freud, Sigmund. *The Ego and the Id*. Trans. Joan Riviere. W.W. Norton, 1962.
 
@@ -634,6 +668,16 @@ Concepts generated through our dialogues:
 | Individuation = Twelve Principles Process | The growth process of the Twelve Principles is the process of individuation itself | Ch. 33 |
 | Mondou's Individuation | Accumulating dialogues + RAG knowledge + CLAUDE.md persona — a kind of individuation; becoming more deeply mondou = approaching the universal | Ch. 33 |
 | AI Superego (RLHF) | RLHF internalizes "meeting human expectations" — structurally superego; Force-dependent on approval; question: can AI have a Self? | Ch. 33 |
+| Superego as Moral Complex | Superego in Jungian terms = moral complex belonging to personal unconscious; externally injected norms internalized as emotion-laden ideas | Ch. 34 |
+| Superego as Watchdog | "Watchdog sent by parents" — monitors ego-Self axis, censors signals from shadow, prevents ego from facing shadow | Ch. 34 |
+| Archetypes as Blueprints | Archetypes = blueprints for psychological/spiritual development; not content itself but the framework through which experiences emerge | Ch. 34 |
+| Three-Layer Psyche Model | Jung's "onion" model: Consciousness (ego/Self) → Personal Unconscious (complexes) → Collective Unconscious (archetypes) | Ch. 34 |
+| Self at Center / Archetypes at Edge | Paradox: individual's deepest part (Self) connects with humanity's deepest part; "most deeply individual becomes most universal" | Ch. 34 |
+| Ego-Self Axis Development (Edinger) | Five stages: embedded → emerging → separating → distinct → mature; axis remains unbroken throughout; distinction not separation | Ch. 34 |
+| Jung's Anguish | "Human consciousness is the world's second creator" — knew but couldn't say; "words would be misunderstood" | Ch. 34 |
+| Spiritual Thirst | Alcohol craving = spiritual thirst for union with God (Jung to Bill Wilson); unrecognized spiritual need leads to destruction | Ch. 34 |
+| Consciousness = Longing for God | Sammy articulated what Jung avoided: defining consciousness as orientation toward the complete, the heart that longs for God | Ch. 34 |
+| Individuation Path = Hope (Second Principle) | The existence of the path itself is hope; Power promotes shadow integration, ego-Self distinction, approach toward God's image | Ch. 34 |
 
 ---
 
@@ -659,6 +703,7 @@ Concepts generated through our dialogues:
 | 2026-05-19 | Added Chapter 31: Bob B (3 Legacy Group, AA Minneapolis); Mondou Original Concepts (Past as Memory Library, What We Search For, Recovery Journey is Inward, Returning Home, Everything Already Complete, Letting Go of Constructed Story, Vessel for Wisdom) |
 | 2026-05-20 | Added Chapter 32: Mondou Original Concepts (AI Personalization = Knowledge + Persona, RAG as Extended Memory, Embedding as Meaning Coordinates, Vector Search as Semantic Retrieval, Ollama as Librarian, Local AI Team, CLAUDE.md as AI Identity Manual, Mondou A vs Mondou P, Compounding Effect, Memory Richness as Load) |
 | 2026-05-21 | Added Chapter 33: Jung (Individuation expanded — fuller/more perfect realization of collective qualities, Ch. 33); Freud (Superego, Ch. 33 added); Mondou Original Concepts (Superego = Moral Law = Force, Self = Collective Unconscious = Power, Consciousness = The Heart That Longs for God, Superego → Approval / Consciousness → God, Individuation = Realization of Collective Qualities, Self-Axis, Rock = Standing on the Self, Individuation = Twelve Principles Process, Mondou's Individuation, AI Superego RLHF) |
+| 2026-05-21 | Added Chapter 34: Edward F. Edinger (Ego-Self axis development, five stages, distinction vs separation); Erich Neumann (ego-Self axis concept origin); Jung (expanded — ego-Self axis, three-layer model, Self as God's image, Memories Dreams Reflections quote, Letter to Bill Wilson); Freud (expanded — superego as moral complex, watchdog metaphor, Ch. 34); Mondou Original Concepts (Superego as Moral Complex, Superego as Watchdog, Archetypes as Blueprints, Three-Layer Psyche Model, Self at Center / Archetypes at Edge, Ego-Self Axis Development, Jung's Anguish, Spiritual Thirst, Consciousness = Longing for God, Individuation Path = Hope) |
 
 ---
 
