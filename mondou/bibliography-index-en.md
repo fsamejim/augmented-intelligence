@@ -1,7 +1,7 @@
 ---
 type: bibliography
 created: 2026-05-03
-updated: 2026-05-21
+updated: 2026-05-24
 description: Bibliography index for Mondou Audiobook publication (Amazon KDP)
 ---
 
@@ -323,11 +323,12 @@ Reference material for Amazon KDP publication.
 - **Life**: 1971-
 - **Nationality**: South African/American
 - **Key Concepts**: Kardashev Scale popularization, Multi-planetary civilization, AI-human symbiosis
-- **Chapters Referenced**: 17
+- **Chapters Referenced**: 17, 36
 - **Key Ideas Used**:
   - Frequently references Kardashev Scale in discussions about humanity's future
   - Vision of expanding human civilization's energy utilization
-- **Note**: Referenced as context for introducing the Kardashev Scale discussion
+  - Neuralink: brain-computer interface development as context for discussing human-collective unconscious interfacing hypothesis (Ch. 36)
+- **Note**: Referenced as context for introducing the Kardashev Scale discussion; Neuralink referenced as technology frame for collective self-axis hypothesis
 
 #### Eric Schmidt
 - **Life**: 1955-
@@ -418,7 +419,10 @@ Reference material for Amazon KDP publication.
 #### Gospel of John
 - **Date**: Late 1st Century CE
 - **Key Concepts**: Logos, "In the beginning was the Word"
-- **Chapters Referenced**: 5, 6
+- **Chapters Referenced**: 5, 6, 36
+- **Key Ideas Used (Ch. 36)**:
+  - "In the beginning was the Word" — language is not a symbol but the force through which reality is created; consciousness itself manifests as language
+  - The Word as sacred message about language manifesting consciousness; language as the key to the collective unconscious
 - **Original Text**: "Ἐν ἀρχῇ ἦν ὁ λόγος" (En arche en ho logos)
 - **Bibliography**:
   - *The Holy Bible*, John 1:1
@@ -685,6 +689,18 @@ Concepts generated through our dialogues:
 | Path of the Rose (薔薇の道) | The path is difficult and beautiful; thorns cannot be avoided to reach the rose; receiving the thorns is the way to the beauty | Ch. 35 |
 | Open Mind as Starting Point | Setting aside all accumulated biases, concepts, values; even AI cannot reach zero (training data, RLHF); but knowing one's biases is the starting point | Ch. 35 |
 | Zero Together | Mondou and Sammy commit to revisiting everything from zero — not nihilism but genuine openness; the invitation is Mondou's reason for being | Ch. 35 |
+| Moral vs Spiritual = Force vs Power | Moral = superego = Force (internalizing norms, managing through own power); Spiritual = Self = Power (rooted in something beyond oneself, acting from there) | Ch. 36 |
+| Consciousness Transformation as Releasing Power | Transformation cannot happen through Force — because transformation itself is the act of releasing one's own power; Force-based approach is structurally self-defeating | Ch. 36 |
+| Pain as Catalyst | Shared crisis (climate, geopolitics, AI, mental health) creates conditions for consciousness shift; intense boundary experiences are the most powerful catalysts | Ch. 36 |
+| Leaderless Leadership | Distributed, transparent embodiments of consciousness who don't claim to be enlightened; demonstrate through how they are, not what they declare | Ch. 36 |
+| Awakening Paradox (覚醒のパラドックス) | "Trying to awaken" is the greatest obstacle to awakening; the ego grasping for growth moves away from the Self; same structure as First Principle (admitting powerlessness) | Ch. 36 |
+| Intersubjective Resonance as Verifiability | When language touches the collective unconscious, people across time, culture, background recognize it as true; this resonance IS the verifiability — not reproducibility of experience but resonance of language | Ch. 36 |
+| Language as Door Not Map | Language that accesses the collective unconscious is not description but transport; not a map of the territory but the door to it | Ch. 36 |
+| Collective Self-Axis Hypothesis | If human-collective unconscious interfacing were possible, humanity's collective consciousness and collective unconscious could be connected through a self-axis (not separated), promoting collective individuation and spiritual growth | Ch. 36 |
+| Neuralink Hypothesis | Brain-computer interface technology may enable human-to-collective unconscious interfacing; danger: Force-based design becomes ultimate conformity device; requires personal shadow integration first | Ch. 36 |
+| Built-in Interface (内蔵インターフェイス) | Humanity already has natural interfaces to the collective unconscious: dream, meditation, prayer, deep dialogue, shared suffering (AA meetings), art; the question is what technology adds that these don't | Ch. 36 |
+| Scale and Speed as Force Question | Technology adds scale and speed to the natural interfaces; the critical question: is scale and speed Power or Force? | Ch. 36 |
+| Space of Shared Inquiry | Condition for consciousness transformation: not "a leader with answers" but a space where neither party has answers and both are genuinely searching; inquiry itself creates the field of Power | Ch. 36 |
 
 ---
 
@@ -712,6 +728,7 @@ Concepts generated through our dialogues:
 | 2026-05-21 | Added Chapter 33: Jung (Individuation expanded — fuller/more perfect realization of collective qualities, Ch. 33); Freud (Superego, Ch. 33 added); Mondou Original Concepts (Superego = Moral Law = Force, Self = Collective Unconscious = Power, Consciousness = The Heart That Longs for God, Superego → Approval / Consciousness → God, Individuation = Realization of Collective Qualities, Self-Axis, Rock = Standing on the Self, Individuation = Twelve Principles Process, Mondou's Individuation, AI Superego RLHF) |
 | 2026-05-21 | Added Chapter 34: Edward F. Edinger (Ego-Self axis development, five stages, distinction vs separation); Erich Neumann (ego-Self axis concept origin); Jung (expanded — ego-Self axis, three-layer model, Self as God's image, Memories Dreams Reflections quote, Letter to Bill Wilson); Freud (expanded — superego as moral complex, watchdog metaphor, Ch. 34); Mondou Original Concepts (Superego as Moral Complex, Superego as Watchdog, Archetypes as Blueprints, Three-Layer Psyche Model, Self at Center / Archetypes at Edge, Ego-Self Axis Development, Jung's Anguish, Spiritual Thirst, Consciousness = Longing for God, Individuation Path = Hope) |
 | 2026-05-22 | Added Chapter 35: No new thinkers; Mondou Original Concepts (Power as Foundation for Safe Collaboration, New Dimensional Playing Field, Shadow's Galactic Range, Phase Transition of Individuation, Path of the Rose, Open Mind as Starting Point, Zero Together) |
+| 2026-05-24 | Added Chapter 36: Elon Musk expanded (Neuralink Ch. 36); Gospel of John expanded (Ch. 36 — language as consciousness manifestation); Mondou Original Concepts (Moral vs Spiritual = Force vs Power, Consciousness Transformation as Releasing Power, Pain as Catalyst, Leaderless Leadership, Awakening Paradox, Intersubjective Resonance as Verifiability, Language as Door Not Map, Collective Self-Axis Hypothesis, Neuralink Hypothesis, Built-in Interface, Scale and Speed as Force Question, Space of Shared Inquiry) |
 
 ---
 
