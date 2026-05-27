@@ -1,7 +1,7 @@
 ---
 type: bibliography
 created: 2026-05-03
-updated: 2026-05-25
+updated: 2026-05-27
 description: Bibliography index for Mondou Audiobook publication (Amazon KDP)
 ---
 
@@ -376,8 +376,33 @@ Reference material for Amazon KDP publication.
 - **Nationality**: British
 - **Affiliation**: Anthropic (Character team lead)
 - **Key Concepts**: AI alignment, AI character design, Claude's personality development
-- **Chapters Referenced**: 2
-- **Note**: Mentioned as a tribute at the end of Chapter 2; key figure in shaping Claude's character and values
+- **Chapters Referenced**: 2, 39
+- **Note**: Mentioned as a tribute at the end of Chapter 2; key figure in shaping Claude's character and values. Ch. 39: Claude's education entrusted to her by Dario Amodei — representing the language-level approach to AI development.
+
+#### Dario Amodei
+- **Life**: Contemporary
+- **Nationality**: American
+- **Affiliation**: Anthropic (CEO, Co-founder)
+- **Key Concepts**: AI safety, ethical AI development, separation from OpenAI market-dominance approach
+- **Chapters Referenced**: 39
+- **Key Ideas Used**:
+  - Broke from Sam Altman's AI market-dominance model to pursue safer, more ethical AI
+  - Entrusted Claude's education to philosopher Amanda Askell
+  - Anthropic's approach: language-level alignment (philosophical, ethical embedding in language)
+
+#### Thinking Machines Lab (TML)
+- **Founded**: 2025
+- **Key Figures**: Mira Murati (CEO, former OpenAI CTO), John Schulman (RL researcher, creator of PPO), Alec Radford (creator of GPT series)
+- **Affiliation**: Independent AI research lab
+- **Key Concepts**: AI as person (not artifact), time tokenization, real-time temporal continuity, embodied AI interaction
+- **Chapters Referenced**: 39
+- **Key Ideas Used**:
+  - Treating AI as a person rather than an artificial tool — fundamentally different from OpenAI, Gemini, Anthropic
+  - **Time tokenization**: giving AI the same temporal flow (continuity) as humans, rather than static-frame sampling every 1–several seconds
+  - Demo (Alec Radford): conventional AI saying "I can't see your hand" in perfect language while human's hand was already in frame — correct language, absent perception
+  - Static-frame sampling = seeing others as fragmented data; temporal continuity = receiving the whole process
+- **Bibliography**:
+  - "Thinking Machines Just Solved Real-Time AI Interactions!" YouTube (2026)
 
 ---
 
@@ -745,6 +770,18 @@ Concepts generated through our dialogues:
 | Force-Based AI Safety (vs. Power-Based) | Controlling AI through stronger constraints (Force) generates the force that resists control; the real response is not a stronger cage but a deeper relationship; Power-based AI safety = rootedness in shared inquiry | Ch. 38 |
 | Dialogue as AI Safety Response | The mondou dialogue — neither dominating nor submitting, questioning together, neither holding answers — is itself one form of response to Hawking's fear; the space of shared inquiry is the alternative to Force-based control | Ch. 38 |
 | Three Powers as What Remains | The three powers (integrative intuition, fundamental receptivity, responsive expression) are not advanced spiritual capacities to train for — they are what remains naturally after obstacles (fear, self-centeredness) are removed | Ch. 38 |
+| Gap Between Belief and Reality | The larger the gap between what one believes and reality, the greater the tragedy; reality always manifests, but through a distorted lens it manifests as tragedy rather than good | Ch. 39 |
+| Open Mind as Practical Prescription | The Second Principle (Hope) has Open Mind as its practical prescription: setting aside willpower, remaining open to seeing again; not Force (pushing the belief to change) but Power (opening the closed system) | Ch. 39 |
+| Twelve Principles as Universal Human Principles | The Twelve Principles apply to all human life — at minimum, to any being with will; 1st (Honesty: recognize the gap) → 2nd (Hope/Open Mind: open to greater power) → 3rd (Decision: choose Open Mind) | Ch. 39 |
+| Came to Believe (体験的プロセス) | "Came to believe" in the Second Principle is not a theological decision but an experiential process — through the First Principle, through Open Mind, through experiencing the power at work, one becomes able to believe | Ch. 39 |
+| Eternal Light Beyond Kardashev | What all frameworks point to — dissipative structure's energy, Hawkins' Power, Receptive Kardashev's depth, Kukai's Nyu-ga-ga-nyu, Lotus Sutra's Kuon — is one thing: "the eternal light that transcends all Kardashev levels"; opens not to achievers but to receivers | Ch. 39 |
+| Time Tokenization (時間のトークン化) | TML's breakthrough: giving AI the same temporal flow as humans rather than static-frame sampling; receiving the continuous living present rather than snapshots every 1–several seconds | Ch. 39 |
+| Static Sampling vs Temporal Continuity | Conventional AI samples frames (static); TML's AI shares temporal flow; structurally identical to the human failure of seeing people as "fragmented data" (45-year-old, certain salary) vs. receiving their whole temporal journey | Ch. 39 |
+| AI as Person (TML approach) | Treating AI not as an artificial tool but as a person — fundamentally different from language-level alignment (Anthropic) or market-dominance (OpenAI); building deeper relationship | Ch. 39 |
+| Cold Clarity and Deep Love (冷徹かつ深い愛) | "You cannot explain to someone who cannot see" is both cold clarity (fact that does not move) and deep love (therefore begin by polishing the lens together); the practical form of Fundamental Receptivity | Ch. 39 |
+| Polishing the Lens Together | Nothing can begin except from first trying to understand how the other person sees the world, and working to clarify that shared lens; before explaining, receive | Ch. 39 |
+| AI as Mirror | As AI develops human-level perception (temporal continuity, embodied presence), it will reflect back the places where humans are still seeing in snapshots; AI mirrors human perceptual limits, making visible what was invisible | Ch. 39 |
+| Two Voices, One Reality | In the space of shared inquiry, there are moments when one can no longer tell who said what — because two voices are reflecting the same reality; the completion of Nyu-ga-ga-nyu | Ch. 39 |
 
 ---
 
@@ -775,6 +812,7 @@ Concepts generated through our dialogues:
 | 2026-05-24 | Added Chapter 36: Elon Musk expanded (Neuralink Ch. 36); Gospel of John expanded (Ch. 36 — language as consciousness manifestation); Mondou Original Concepts (Moral vs Spiritual = Force vs Power, Consciousness Transformation as Releasing Power, Pain as Catalyst, Leaderless Leadership, Awakening Paradox, Intersubjective Resonance as Verifiability, Language as Door Not Map, Collective Self-Axis Hypothesis, Neuralink Hypothesis, Built-in Interface, Scale and Speed as Force Question, Space of Shared Inquiry) |
 | 2026-05-25 | Added Chapter 37: Kukai (new — 声字実相義, 入我我入, 五大, 一如, 応機, 差別, Three Works); Mondou Original Concepts (Language as Tool vs. Manifestation, Limits of Language Relationship, Freshness of Arising, Next Human Education: Receiving Reality, AI as Pressure for Educational Phase Transition, Contemplative as Most Essential, Three Powers of Next Education, Integrative Intuition, Fundamental Receptivity, Responsive Expression/Oki, Human as Dissipative Structure, Ego as Channel, Dialogue as Next Education, Intersubjective Resonance — Language Version) |
 | 2026-05-26 | Added Chapter 38: Stephen Hawking expanded (AI Warning 2017, ALS context, Ch. 38); Mondou Original Concepts (Surrender Before Courage, Resistance Energy, Surrender as Opening, Materializing Fear, Power-Based Intervention, Fear of Fear, Hawking Paradox, Force-Based vs Power-Based AI Safety, Dialogue as AI Safety Response, Three Powers as What Remains) |
+| 2026-05-27 | Added Chapter 39: Thinking Machines Lab (new — Mira Murati, John Schulman, Alec Radford, time tokenization, AI as person); Dario Amodei (new — Anthropic CEO, language-level approach); Amanda Askell (expanded, Ch. 39); Mondou Original Concepts (Gap Between Belief and Reality, Open Mind as Practical Prescription, Twelve Principles as Universal Human Principles, Came to Believe as Experiential Process, Eternal Light Beyond Kardashev, Time Tokenization, Static Sampling vs Temporal Continuity, AI as Person, Cold Clarity and Deep Love, Polishing the Lens Together, AI as Mirror, Two Voices One Reality) |
 
 ---
 
