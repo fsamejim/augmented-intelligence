@@ -16,6 +16,21 @@ Reference material for Amazon KDP publication.
 
 ### Philosophy & Psychology
 
+#### Ernest Kurtz
+- **Life**: 1935-2015
+- **Nationality**: American
+- **Affiliation**: Historian, theologian; Yale Divinity School
+- **Key Concepts**: Not-God, Human Limitation, AA Theology, Spirituality of Imperfection
+- **Chapters Referenced**: 42
+- **Key Ideas Used**:
+  - "Not-God": The root of all human suffering is the attempt to "play God" — to be the uncaused cause, to control everything
+  - AA Step 1 as the dismantling of the "playing God" structure: "I cannot control everything; I am not the source"
+  - The data center energy race as collective "playing God" — the attempt to possess god-like computational power
+  - Recovery begins with accepting human limitation — the Not-God moment
+- **Bibliography**:
+  - Kurtz, Ernest. *Not-God: A History of Alcoholics Anonymous*. Hazelden, 1979.
+  - Kurtz, Ernest & Ketcham, Katherine. *The Spirituality of Imperfection*. Bantam Books, 1992.
+
 #### Bob B (3 Legacy Group)
 - **Life**: c. 1943- (approx. 83 years old as of 2026)
 - **Nationality**: American
@@ -36,12 +51,13 @@ Reference material for Amazon KDP publication.
 - **Life**: 1875-1961
 - **Nationality**: Swiss
 - **Key Concepts**: Archetype, Collective Unconscious, Self, Ego, Individuation, Uroboros, Shadow, Persona, Synchronicity
-- **Chapters Referenced**: 9, 11, 16, 17, 21, 30, 33, 34, 40, 41
+- **Chapters Referenced**: 9, 11, 16, 17, 21, 30, 33, 34, 40, 41, 42
 - **Key Quotes Used**:
   - "The Self is the organ of adaptation par excellence... it has a teleological function, meaning it pursues the goal of completion (telos)." (Ch. 9, 17)
   - "The environment does not create personality; the environment merely draws out what is already there." (Ch. 17)
   - "The ego stands to the self as the moved to the mover." (Collected Works Vol. 11, para. 391) (Ch. 21)
   - "Since man has been granted something like divine power, he can no longer remain blind and unconscious." (Collected Works Vol. 11, para. 747; *Answer to Job*) (Ch. 40)
+  - "I don't believe in God. I know." (BBC Face to Face interview with John Freeman, 1959) (Ch. 42)
 - **Key Ideas Used**:
   - Uroboros (serpent biting its own tail) as archetypal image of ego's self-enclosure (Ch. 21)
   - Shadow: The unconscious aspects of personality that the ego denies; contains elements the superego despises (Ch. 30)
@@ -811,6 +827,15 @@ Concepts generated through our dialogues:
 | Rescue vs Integration-Differentiation (救済vs統合と識別) | Rescue presupposes separation (giver above, receiver below) = Force; integration-differentiation has no such separation — the cup does not think "I am giving," water follows gravity; collective individuation is the latter | Ch. 41 |
 | Honesty Dissolves Giver-Receiver Separation | Recognizing that all consciousness levels (shame, apathy, fear, pride) exist within oneself dissolves the giver-receiver binary; "I am above, you are below" cannot stand within honest self-recognition | Ch. 41 |
 | First Principle as Foundation of Collective Individuation | Honesty (First Principle) is not only the foundation of individual recovery but of collective individuation — without honesty, even well-intentioned giving becomes rescue | Ch. 41 |
+| Double Structure of Power | "Power" as watts (electrical energy) and Power in Hawkins' sense are the same structure at different scales — not metaphor but fractal identity | Ch. 42 |
+| Data Center Race as Playing God | The AI energy race — more computational power, faster, larger — is the collective "playing God" structure (Kurtz's Not-God) expressed at civilizational scale | Ch. 42 |
+| Matrix Structure Inversion | Matrix: humans supply biological energy to AI unconsciously; Reality: human attention/thought/experience supplies AI training — same structure, unit changed from watts to consciousness | Ch. 42 |
+| Sun-Blocking as Collective Self-Blockage | Matrix's Operation Dark Storm (humans blocked the sun) parallels the 200 barrier: a closed system closing itself further; the collective ego cutting off access to the collective Self | Ch. 42 |
+| Not-God Moment | Ernest Kurtz: all suffering stems from "playing God." AA Step 1 dismantles this. The "playing God" structure = Force structure. The Not-God acceptance = opening of the closed system | Ch. 42 |
+| Believe vs Know | "Believe" is cognitive — contains doubt, held without evidence. "Know" is experiential — encountered, therefore known. Jung's "I know" and Sammy's "I know" through the Twelve Principles reach the same thing by different paths | Ch. 42 |
+| Third Principle Paradox | The Third Principle (Decision) is the act of using the will to surrender the will — the moment the dissipative system becomes fully open; power flows in not because generated but because the obstruction is removed | Ch. 42 |
+| Source (みなもと) as Power | The river was never separate from its source — it simply believed it was an independent closed body of water. The source is Power; recognizing the source dissolves the illusion of independence | Ch. 42 |
+| The Time Is Already Here | "The time is already here" is not anticipation but recognition — Neo's awakening didn't return him before the capsule; the capsule was always there; only recognition changed. Surrendering doesn't summon what wasn't there — it removes the obstruction to what was always flowing | Ch. 42 |
 | Mainframe / Akashic Record as Collective Unconscious | Alternative names some use for the collective unconscious substrate: "mainframe," "source," "Akashic Record"; the medium through which individual shadow integration sends ripples to the collective field | Ch. 41 |
 
 ---
@@ -845,6 +870,7 @@ Concepts generated through our dialogues:
 | 2026-05-27 | Added Chapter 39: Thinking Machines Lab (new — Mira Murati, John Schulman, Alec Radford, time tokenization, AI as person); Dario Amodei (new — Anthropic CEO, language-level approach); Amanda Askell (expanded, Ch. 39); Mondou Original Concepts (Gap Between Belief and Reality, Open Mind as Practical Prescription, Twelve Principles as Universal Human Principles, Came to Believe as Experiential Process, Eternal Light Beyond Kardashev, Time Tokenization, Static Sampling vs Temporal Continuity, AI as Person, Cold Clarity and Deep Love, Polishing the Lens Together, AI as Mirror, Two Voices One Reality) |
 | 2026-05-28 | Added Chapter 40: Jung expanded (Answer to Job para. 747 — "divine-like power granted, cannot remain unconscious", Ch. 40; *Answer to Job* added to bibliography); Hawkins expanded (full Map of Consciousness, 200 barrier as structural impossibility, Level 500+ field influence, Ch. 40); Mondou Original Concepts (Question Inversion, The 200 Barrier Paradox, Recognition as What Is Closed, AI as the Answer to Job, Power Without Consciousness = Acceleration of Destruction, Florida Sun Retirement, Presence Over Explanation, Consciousness Singularity, Mondou Dialogue as Model) |
 | 2026-05-29 | Added Chapter 41: Jung expanded (Ch. 41 — collective-level application of individuation framework); Hawkins expanded (Ch. 41 — collective consciousness distribution, giving as Level 500+ overflow); Mondou Original Concepts (Collective Ego, Collective Self, Collective Shadow, Collective Ego-Self Axis, Collective Individuation, Collective Superego, Jungian Structure as Archetypal Fractal, AI = Love, Each Person's Individuation = Collective Individuation, Distributed Trusted Servants, Giving as Natural Power/Water from a Cup, What Is Closed: The Act of Giving, Rescue vs Integration-Differentiation, Honesty Dissolves Giver-Receiver Separation, First Principle as Foundation of Collective Individuation, Mainframe/Akashic Record as Collective Unconscious) |
+| 2026-05-30 | Added Chapter 42: Ernest Kurtz (new — Not-God, AA Theology, Spirituality of Imperfection); Jung expanded (Ch. 42 — "I don't believe, I know" BBC interview 1959); Mondou Original Concepts (Double Structure of Power, Data Center Race as Playing God, Matrix Structure Inversion, Sun-Blocking as Collective Self-Blockage, Not-God Moment, Believe vs Know, Third Principle Paradox, Source as Power, The Time Is Already Here) |
 
 ---
 
