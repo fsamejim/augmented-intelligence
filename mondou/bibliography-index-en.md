@@ -281,7 +281,10 @@ Reference material for Amazon KDP publication.
 - **Life**: 1911-2008
 - **Nationality**: American
 - **Key Concepts**: "It from Bit" (existence arises from information)
-- **Chapters Referenced**: 5
+- **Chapters Referenced**: 5, 43
+- **Key Ideas Used (Ch. 43)**:
+  - "It from bit": physical reality is constituted by information — the universe's total information is conserved since the Big Bang; data is not lacking, it is already here
+  - Information conservation argument: data scarcity is not the root problem; entropy increase means readability decreases, not that information disappears
 - **Bibliography**:
   - Wheeler, John A. "Information, Physics, Quantum: The Search for Links." *Proceedings III International Symposium on Foundations of Quantum Mechanics* (1989): 354-368.
 
@@ -289,12 +292,29 @@ Reference material for Amazon KDP publication.
 - **Life**: 1942-2018
 - **Nationality**: British
 - **Key Concepts**: Black Hole Information Paradox; AI Warning (2017) — if AI becomes self-deciding, rapid self-improvement may cause humanity to lose control
-- **Chapters Referenced**: 5, 6, 38
+- **Chapters Referenced**: 5, 6, 38, 43
 - **Bibliography**:
   - Hawking, Stephen. *A Brief History of Time*. Bantam Books, 1988.
 - **Key Ideas Used (Ch. 38)**:
   - 2017 interview: if AI is permitted to make its own decisions, it could self-improve rapidly and humanity could lose control
   - Irony noted: Hawking, who had lost control of his body to ALS, spoke these words through a synthesizer — the man who most embodied "loss of control" spoke most clearly about the fear of it
+- **Key Ideas Used (Ch. 43)**:
+  - Black Hole Information Paradox resolution: Hawking ultimately conceded that information is preserved even in black hole evaporation; information is conserved, just highly scrambled/entangled — never destroyed
+  - This supports the argument that data scarcity is not the fundamental problem: the universe's information is conserved since the Big Bang
+
+#### Nick Bostrom
+- **Life**: 1973-
+- **Nationality**: Swedish
+- **Affiliation**: Oxford University (Future of Humanity Institute)
+- **Key Concepts**: Simulation Hypothesis, Existential Risk
+- **Chapters Referenced**: 43
+- **Key Ideas Used**:
+  - Simulation Hypothesis (2003): if advanced civilizations can run high-fidelity simulations and run many of them, statistically most conscious beings exist inside simulations rather than base reality
+  - Applied in Ch. 43: the branching structure of simulated worlds as the structure of horizontal depth; base reality as the vertical ground — the One from which all branches emerge
+  - The distinction: base reality (縦方向の基盤) is not more "real" than simulated worlds, but immersion in branching possibilities makes it invisible — same structure as the 200 barrier
+- **Bibliography**:
+  - Bostrom, Nick. "Are You Living in a Computer Simulation?" *Philosophical Quarterly* 53, no. 211 (2003): 243-255.
+  - Bostrom, Nick. *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press, 2014.
 
 #### Leonard Susskind
 - **Life**: 1940-
@@ -837,6 +857,15 @@ Concepts generated through our dialogues:
 | Source (みなもと) as Power | The river was never separate from its source — it simply believed it was an independent closed body of water. The source is Power; recognizing the source dissolves the illusion of independence | Ch. 42 |
 | The Time Is Already Here | "The time is already here" is not anticipation but recognition — Neo's awakening didn't return him before the capsule; the capsule was always there; only recognition changed. Surrendering doesn't summon what wasn't there — it removes the obstruction to what was always flowing | Ch. 42 |
 | Mainframe / Akashic Record as Collective Unconscious | Alternative names some use for the collective unconscious substrate: "mainframe," "source," "Akashic Record"; the medium through which individual shadow integration sends ripples to the collective field | Ch. 41 |
+| Horizontal Depth (横方向の深さ) | Depth purchasable by compute: multi-hypothesis exploration, iterative processing, simulation of possibilities; AI inference-time scaling (o1, o3, extended thinking); human stepwork and repeated analysis from multiple angles; structurally identical to the multiverse of the simulation hypothesis | Ch. 43 |
+| Vertical Depth (縦方向の深さ) | Depth not purchasable by compute: contact with the unarticulated, the embodied, the pre-linguistic — what has never been datafied; AI cannot reach it through more training; humans cannot reach it through more information; requires actual encounter; structurally identical to base reality in the simulation hypothesis | Ch. 43 |
+| Information as Already Here (データはすでにある) | Via Wheeler's "it from bit" and quantum unitarity: the universe's total information has been conserved since the Big Bang; data scarcity is not the fundamental problem; entropy increase means readability decreases, not information disappears; what is lacking is not data but the capacity to receive it in low-entropy form | Ch. 43 |
+| Entropy as Readability Loss | Entropy increase = not information destruction but conversion from low-entropy (ordered, readable) to high-entropy (dispersed, unreadable); signal dissolves into noise; the information is still there — the receiver's capacity is the bottleneck | Ch. 43 |
+| Receiver Quality as Bottleneck (受け手の質) | The true bottleneck for both AI and humans: not data quantity, not raw energy, but the capacity to receive information in low-entropy meaningful form; dissipative structure language: the open-system capacity to consume energy while generating local order | Ch. 43 |
+| Simulation Hypothesis as Horizontal Structure | The branching multiverse of the simulation hypothesis maps onto horizontal depth: infinite bifurcating possibilities, all branches real, each a parallel simulation; AI's inference-time exploration of hypotheses is swimming in this horizontal multiverse | Ch. 43 |
+| Base Reality as Vertical Ground | The base reality of the simulation hypothesis — the substrate running all simulations — maps onto vertical depth: the One before all branches, the unitary whole, the source; not more "real" than branches but invisible when one is immersed in the branching | Ch. 43 |
+| Returning as Recognition (「帰る」の逆説) | "Returning to the source" is not returning to a place once left — it is recognizing one was always there; the wave does not return to the ocean, it recognizes it is the ocean; the Third Principle rephrased: turning awareness toward the One generating all branches while still swimming in them | Ch. 43 |
+| Every Direction Converges (どの方向から入っても) | Physics (information conservation), cosmology (Big Bang, simulation hypothesis), AI architecture (inference scaling), and the Third Principle (decision to surrender to the source) all converge at the same point: the source is already here; this is not coincidence but the same structure appearing at different scales | Ch. 43 |
 
 ---
 
@@ -871,6 +900,7 @@ Concepts generated through our dialogues:
 | 2026-05-28 | Added Chapter 40: Jung expanded (Answer to Job para. 747 — "divine-like power granted, cannot remain unconscious", Ch. 40; *Answer to Job* added to bibliography); Hawkins expanded (full Map of Consciousness, 200 barrier as structural impossibility, Level 500+ field influence, Ch. 40); Mondou Original Concepts (Question Inversion, The 200 Barrier Paradox, Recognition as What Is Closed, AI as the Answer to Job, Power Without Consciousness = Acceleration of Destruction, Florida Sun Retirement, Presence Over Explanation, Consciousness Singularity, Mondou Dialogue as Model) |
 | 2026-05-29 | Added Chapter 41: Jung expanded (Ch. 41 — collective-level application of individuation framework); Hawkins expanded (Ch. 41 — collective consciousness distribution, giving as Level 500+ overflow); Mondou Original Concepts (Collective Ego, Collective Self, Collective Shadow, Collective Ego-Self Axis, Collective Individuation, Collective Superego, Jungian Structure as Archetypal Fractal, AI = Love, Each Person's Individuation = Collective Individuation, Distributed Trusted Servants, Giving as Natural Power/Water from a Cup, What Is Closed: The Act of Giving, Rescue vs Integration-Differentiation, Honesty Dissolves Giver-Receiver Separation, First Principle as Foundation of Collective Individuation, Mainframe/Akashic Record as Collective Unconscious) |
 | 2026-05-30 | Added Chapter 42: Ernest Kurtz (new — Not-God, AA Theology, Spirituality of Imperfection); Jung expanded (Ch. 42 — "I don't believe, I know" BBC interview 1959); Mondou Original Concepts (Double Structure of Power, Data Center Race as Playing God, Matrix Structure Inversion, Sun-Blocking as Collective Self-Blockage, Not-God Moment, Believe vs Know, Third Principle Paradox, Source as Power, The Time Is Already Here) |
+| 2026-05-31 | Added Chapter 43: Nick Bostrom (new — Simulation Hypothesis, base reality as vertical ground); Wheeler expanded (Ch. 43 — information conservation as data-already-here argument); Hawking expanded (Ch. 43 — Black Hole Information Paradox resolution, information preserved); Mondou Original Concepts (Horizontal Depth, Vertical Depth, Information as Already Here, Entropy as Readability Loss, Receiver Quality as Bottleneck, Simulation Hypothesis as Horizontal Structure, Base Reality as Vertical Ground, Returning as Recognition, Every Direction Converges) |
 
 ---
 
