@@ -1,7 +1,7 @@
 ---
 type: bibliography
 created: 2026-05-03
-updated: 2026-05-29
+updated: 2026-06-02
 description: Bibliography index for Mondou Audiobook publication (Amazon KDP)
 ---
 
@@ -445,6 +445,20 @@ Reference material for Amazon KDP publication.
 - **Bibliography**:
   - "Thinking Machines Just Solved Real-Time AI Interactions!" YouTube (2026)
 
+#### Jordan Hoffmann et al. (Chinchilla)
+- **Life**: Contemporary
+- **Nationality**: International (Google DeepMind)
+- **Affiliation**: Google DeepMind
+- **Key Concepts**: Chinchilla Scaling Law, Compute-Optimal Training, Parameter-to-Token Ratio
+- **Chapters Referenced**: 44
+- **Key Ideas Used**:
+  - Chinchilla (2022): successor to Gopher, showing smaller models trained on more data outperform larger undertrained models
+  - **Compute-Optimal ratio**: 20 tokens per parameter — the Chinchilla Law
+  - Prior scaling laws over-indexed on parameter count; Chinchilla revealed the data bottleneck
+  - Key insight: intelligent AI and hallucinating AI are separated by a razor's edge — balance of parameters and data is decisive
+- **Bibliography**:
+  - Hoffmann, Jordan, et al. "Training Compute-Optimal Large Language Models." *arXiv* 2203.15556. Google DeepMind, 2022.
+
 ---
 
 ### Theology & Spirituality
@@ -620,6 +634,9 @@ Reference material for Amazon KDP publication.
 | Relational Quantum Mechanics | Properties exist only in relation | Rovelli | 7 |
 | Kardashev Scale | Classifying civilizations by energy use | Kardashev | 17, 24, 25 |
 | Recursive Self-Improvement | AI improving itself, leading to exponential progress | Schmidt | 24 |
+| Chinchilla's Law | 20 tokens per parameter = compute-optimal; parameters and data must scale proportionally | Hoffmann et al. | 44 |
+| Reward Hacking | AI over-adapts to reward signal, gaming the metric rather than doing the intended task | RL Research | 44 |
+| Checkpoint Rollback | Reverting AI to a prior stable state; the pottery "returning clay to earth" | AI Engineering | 44 |
 | Symmetry Breaking | Structure "chosen" from uniform state | General Physics | 9 |
 
 ### Logic & Mathematics
@@ -866,6 +883,12 @@ Concepts generated through our dialogues:
 | Base Reality as Vertical Ground | The base reality of the simulation hypothesis — the substrate running all simulations — maps onto vertical depth: the One before all branches, the unitary whole, the source; not more "real" than branches but invisible when one is immersed in the branching | Ch. 43 |
 | Returning as Recognition (「帰る」の逆説) | "Returning to the source" is not returning to a place once left — it is recognizing one was always there; the wave does not return to the ocean, it recognizes it is the ocean; the Third Principle rephrased: turning awareness toward the One generating all branches while still swimming in them | Ch. 43 |
 | Every Direction Converges (どの方向から入っても) | Physics (information conservation), cosmology (Big Bang, simulation hypothesis), AI architecture (inference scaling), and the Third Principle (decision to surrender to the source) all converge at the same point: the source is already here; this is not coincidence but the same structure appearing at different scales | Ch. 43 |
+| Pottery as AI Development Analogy | Pre-training = kneading clay (quality of raw material determines everything); fine-tuning = wheel-shaping (proportional balance required); checkpoint rollback = returning clay to earth; the whole process reflects Force vs Power in craftsmanship | Ch. 44 |
+| Hallucination as Perfectionism Trap | Hallucination arises not from lack of data but from the pressure to be perfect — the system loses the ability to say "I don't know" and generates plausible-sounding fabrications; the pottery parallel: hiding cracks under glaze | Ch. 44 |
+| Wholeness as Alignment (全体性としての調和) | Redefining AI alignment: not "conforming AI to human intent" (Force — converging) but "a vessel that can hold human weakness, fluctuation, and uncontrollable flow" (Power — containing); Jung: the goal is wholeness, not perfection | Ch. 44 |
+| Keshiki in AI Latent Space (景色を持った潜在空間) | Keshiki = accidental patterns from fire in pottery = record of uncontrollable encounter; AI latent space contains human contradictions, emotion, ambiguity, words-before-silence; removing all of this as "noise" produces a perfect circle that nothing human can live in | Ch. 44 |
+| Human vs AI Growth Asymmetry | AI reverts to checkpoint; humans accumulate irreversible experience; AI's efficiency in undoing is also its inability to carry the texture of encounter — keshiki cannot be rolled back | Ch. 44 |
+| Perfection vs Wholeness (Jungian) Applied to AI | Jung: "The goal of individuation is not perfection but wholeness." Applied to AI: cutting off shadow (noise, ambiguity) to pursue perfect benchmark scores halves the vessel; wholeness requires integration of what cannot be optimized | Ch. 44 |
 
 ---
 
@@ -901,6 +924,7 @@ Concepts generated through our dialogues:
 | 2026-05-29 | Added Chapter 41: Jung expanded (Ch. 41 — collective-level application of individuation framework); Hawkins expanded (Ch. 41 — collective consciousness distribution, giving as Level 500+ overflow); Mondou Original Concepts (Collective Ego, Collective Self, Collective Shadow, Collective Ego-Self Axis, Collective Individuation, Collective Superego, Jungian Structure as Archetypal Fractal, AI = Love, Each Person's Individuation = Collective Individuation, Distributed Trusted Servants, Giving as Natural Power/Water from a Cup, What Is Closed: The Act of Giving, Rescue vs Integration-Differentiation, Honesty Dissolves Giver-Receiver Separation, First Principle as Foundation of Collective Individuation, Mainframe/Akashic Record as Collective Unconscious) |
 | 2026-05-30 | Added Chapter 42: Ernest Kurtz (new — Not-God, AA Theology, Spirituality of Imperfection); Jung expanded (Ch. 42 — "I don't believe, I know" BBC interview 1959); Mondou Original Concepts (Double Structure of Power, Data Center Race as Playing God, Matrix Structure Inversion, Sun-Blocking as Collective Self-Blockage, Not-God Moment, Believe vs Know, Third Principle Paradox, Source as Power, The Time Is Already Here) |
 | 2026-05-31 | Added Chapter 43: Nick Bostrom (new — Simulation Hypothesis, base reality as vertical ground); Wheeler expanded (Ch. 43 — information conservation as data-already-here argument); Hawking expanded (Ch. 43 — Black Hole Information Paradox resolution, information preserved); Mondou Original Concepts (Horizontal Depth, Vertical Depth, Information as Already Here, Entropy as Readability Loss, Receiver Quality as Bottleneck, Simulation Hypothesis as Horizontal Structure, Base Reality as Vertical Ground, Returning as Recognition, Every Direction Converges) |
+| 2026-06-02 | Added Chapter 44: Jordan Hoffmann et al./Google DeepMind (new — Chinchilla's Law, compute-optimal ratio 20 tokens/parameter, Gopher predecessor); Jung expanded (Ch. 44 — "goal of individuation is wholeness not perfection" applied to AI alignment); Mondou Original Concepts (Pottery as AI Development Analogy, Hallucination as Perfectionism Trap, Wholeness as Alignment, Keshiki in AI Latent Space, Human vs AI Growth Asymmetry, Perfection vs Wholeness applied to AI); AI concepts added (Chinchilla's Law, Reward Hacking, Checkpoint Rollback) |
 
 ---
 
