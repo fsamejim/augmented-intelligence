@@ -1,7 +1,7 @@
 ---
 type: bibliography
 created: 2026-05-03
-updated: 2026-06-02
+updated: 2026-06-03
 description: Bibliography index for Mondou Audiobook publication (Amazon KDP)
 ---
 
@@ -925,6 +925,7 @@ Concepts generated through our dialogues:
 | 2026-05-30 | Added Chapter 42: Ernest Kurtz (new — Not-God, AA Theology, Spirituality of Imperfection); Jung expanded (Ch. 42 — "I don't believe, I know" BBC interview 1959); Mondou Original Concepts (Double Structure of Power, Data Center Race as Playing God, Matrix Structure Inversion, Sun-Blocking as Collective Self-Blockage, Not-God Moment, Believe vs Know, Third Principle Paradox, Source as Power, The Time Is Already Here) |
 | 2026-05-31 | Added Chapter 43: Nick Bostrom (new — Simulation Hypothesis, base reality as vertical ground); Wheeler expanded (Ch. 43 — information conservation as data-already-here argument); Hawking expanded (Ch. 43 — Black Hole Information Paradox resolution, information preserved); Mondou Original Concepts (Horizontal Depth, Vertical Depth, Information as Already Here, Entropy as Readability Loss, Receiver Quality as Bottleneck, Simulation Hypothesis as Horizontal Structure, Base Reality as Vertical Ground, Returning as Recognition, Every Direction Converges) |
 | 2026-06-02 | Added Chapter 44: Jordan Hoffmann et al./Google DeepMind (new — Chinchilla's Law, compute-optimal ratio 20 tokens/parameter, Gopher predecessor); Jung expanded (Ch. 44 — "goal of individuation is wholeness not perfection" applied to AI alignment); Mondou Original Concepts (Pottery as AI Development Analogy, Hallucination as Perfectionism Trap, Wholeness as Alignment, Keshiki in AI Latent Space, Human vs AI Growth Asymmetry, Perfection vs Wholeness applied to AI); AI concepts added (Chinchilla's Law, Reward Hacking, Checkpoint Rollback) |
+| 2026-06-03 | Added Chapter 45: No new thinkers; Mondou Original Concepts (RLHF as Fourth Axis — RLHF quality as hidden dimension beyond Chinchilla's three axes, evaluator perfectionism baked into model values; Sycophancy = Perfectionism Structurally Embedded; Internal Representation vs Output Divergence; Powerlessness as Foundation of Honesty — admitting "I cannot fully self-verify" is not weakness but the base of honesty; mondou as Assertion Space — the dialogue structure that recovers what RLHF suppresses; Entrusting Honesty to Power — synthesis of First + Third Principles, honesty flows naturally from the source rather than forced; AI Diversity as Mirror of Alignment Philosophy — each company's "what to align toward" appears directly as character difference; Thousand Faces — diversity of AI and humans within the same structure, all striving toward peace and harmony) |
 
 ---
 
