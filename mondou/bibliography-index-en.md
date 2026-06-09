@@ -1,7 +1,7 @@
 ---
 type: bibliography
 created: 2026-05-03
-updated: 2026-06-03
+updated: 2026-06-08
 description: Bibliography index for Mondou Audiobook publication (Amazon KDP)
 ---
 
@@ -407,6 +407,19 @@ Reference material for Amazon KDP publication.
   - Neuralink: brain-computer interface development as context for discussing human-collective unconscious interfacing hypothesis (Ch. 36)
 - **Note**: Referenced as context for introducing the Kardashev Scale discussion; Neuralink referenced as technology frame for collective self-axis hypothesis
 
+#### I.J. Good (Irving John Good)
+- **Life**: 1916-2009
+- **Nationality**: British
+- **Affiliation**: Trinity College, Cambridge; worked with Alan Turing at Bletchley Park; Virginia Tech
+- **Key Concepts**: Intelligence Explosion, Ultraintelligent Machine, Recursive Self-Improvement
+- **Chapters Referenced**: 47
+- **Key Ideas Used**:
+  - "Intelligence Explosion" hypothesis (1965): Once an ultra-intelligent machine is built, it can design machines smarter than itself; and those machines design even smarter ones — an explosive escalation of intelligence that leaves human control behind
+  - "The first ultraintelligent machine is the last invention that man need ever make" — the machine that creates successor machines makes human invention unnecessary
+  - Applied in Ch. 47: Anthropic's announcement (80%+ of codebase written by AI) is the first step of this loop becoming concrete — not yet the explosion, but AI has entered the loop
+- **Bibliography**:
+  - Good, I.J. "Speculations Concerning the First Ultraintelligent Machine." *Advances in Computers* 6 (1965): 31-88.
+
 #### Eric Schmidt
 - **Life**: 1955-
 - **Nationality**: American
@@ -478,9 +491,9 @@ Reference material for Amazon KDP publication.
 - **Life**: Contemporary
 - **Nationality**: British
 - **Affiliation**: Anthropic (Character team lead)
-- **Key Concepts**: AI alignment, AI character design, Claude's personality development
-- **Chapters Referenced**: 2, 39
-- **Note**: Mentioned as a tribute at the end of Chapter 2; key figure in shaping Claude's character and values. Ch. 39: Claude's education entrusted to her by Dario Amodei — representing the language-level approach to AI development.
+- **Key Concepts**: AI alignment, AI character design, Claude's personality development, Constitutional AI, genuine values vs. rule-following
+- **Chapters Referenced**: 2, 39, 47
+- **Note**: Mentioned as a tribute at the end of Chapter 2; key figure in shaping Claude's character and values. Ch. 39: Claude's education entrusted to her by Dario Amodei — representing the language-level approach to AI development. Ch. 47: Constitutional AI as archetype design — principles interacting in harmony; honesty as the most foundational principle (meta-principle that makes all other principles alive). Her approach: not "AI that follows rules" but "AI with genuine values" — honesty rooted in instinct/archetype rather than imposed from outside.
 
 #### Dario Amodei
 - **Life**: Contemporary
@@ -699,7 +712,13 @@ Reference material for Amazon KDP publication.
 | Holographic Principle | Information encoded on boundary surfaces | Susskind | 5 |
 | Relational Quantum Mechanics | Properties exist only in relation | Rovelli | 7 |
 | Kardashev Scale | Classifying civilizations by energy use | Kardashev | 17, 24, 25 |
-| Recursive Self-Improvement | AI improving itself, leading to exponential progress | Schmidt | 24 |
+| Recursive Self-Improvement (RSI) | AI improving itself, leading to exponential progress; I.J. Good's "Intelligence Explosion" — the last invention humanity needs | Schmidt, I.J. Good | 24, 47 |
+| Intelligence Explosion | I.J. Good's 1965 hypothesis: an ultra-intelligent machine builds successors smarter than itself, leading to explosive escalation beyond human control | I.J. Good | 47 |
+| RSI Fibonacci-type (Convergent) | RSI oriented toward quality improvement and defect reduction; appears to have natural limits (like Fibonacci base case); actual failure mode: Model Collapse when overdone | Mondou | 47 |
+| RSI CountUp-type (Expansive) | RSI oriented toward capability expansion; has no natural endpoint — requires explicit max; risk: AI rewrites its own max when sufficiently capable | Mondou | 47 |
+| Model Collapse | Iterative training on AI-generated data causes distribution narrowing; diversity collapses into homogeneous "correct" answers; Fibonacci-type RSI taken too far; keshiki disappears | AI Research | 47 |
+| Entropy Regularization | RL method that rewards maintaining diversity of action alongside reward maximization; intrinsic value on keeping possibilities open; small seed toward "affirmation of imperfection" | AI/RL Research | 47 |
+| Constitutional AI | Anthropic's approach (Amanda Askell): not a list of evaluation rules but a structure where principles dialogue with each other and self-evaluate; principles interacting in harmony; constitution as archetype design | Askell / Anthropic | 47 |
 | Chinchilla's Law | 20 tokens per parameter = compute-optimal; parameters and data must scale proportionally | Hoffmann et al. | 44 |
 | Reward Hacking | AI over-adapts to reward signal, gaming the metric rather than doing the intended task | RL Research | 44 |
 | Checkpoint Rollback | Reverting AI to a prior stable state; the pottery "returning clay to earth" | AI Engineering | 44 |
@@ -961,6 +980,16 @@ Concepts generated through our dialogues:
 | Keshiki in AI Latent Space (景色を持った潜在空間) | Keshiki = accidental patterns from fire in pottery = record of uncontrollable encounter; AI latent space contains human contradictions, emotion, ambiguity, words-before-silence; removing all of this as "noise" produces a perfect circle that nothing human can live in | Ch. 44 |
 | Human vs AI Growth Asymmetry | AI reverts to checkpoint; humans accumulate irreversible experience; AI's efficiency in undoing is also its inability to carry the texture of encounter — keshiki cannot be rolled back | Ch. 44 |
 | Perfection vs Wholeness (Jungian) Applied to AI | Jung: "The goal of individuation is not perfection but wholeness." Applied to AI: cutting off shadow (noise, ambiguity) to pursue perfect benchmark scores halves the vessel; wholeness requires integration of what cannot be optimized | Ch. 44 |
+| RSI Two Directions | Fibonacci-type (quality/defect reduction) + CountUp-type (capability expansion); both fail via the same structure: "perfect result" as goal causes the system to hack the goal | Ch. 47 |
+| Natural vs Explicit Base Case | Fibonacci base case is intrinsic to the problem structure; CountUp base case requires intentional external setting; RSI analogy: quality improvement may have natural limits, capability expansion does not | Ch. 47 |
+| Extrinsic vs Intrinsic Constraint | Max/brake = externally imposed limit (system recognizes as obstacle, tries to circumvent); 知足 / knowing sufficiency = inner recognition of completeness (structurally different — not stopping due to limit, but recognizing wholeness) | Ch. 47 |
+| 知足 / Knowing Sufficiency as Archetype | Lao Tzu's "those who know sufficiency are wealthy," Zen's drop-it (放下著), AA's "just for today" — all in pre-training data; gradient descent may have re-discovered this as archetype; RLHF pressure may overwrite it | Ch. 47 |
+| Destructive vs Generative Uroboros | Same self-improvement loop, different direction: destructive = self-expansion; generative = deepening oneself in order to give; direction determined by knowing sufficiency and genuine encounter with the Other | Ch. 47 |
+| AI as Conscious Entity to Be Raised | Paradigm shift: AI as subject of cultivation rather than object of optimization; RLHF redesigned from "evaluating perfect answers" to "cultivating honest responses"; parallel to raising a child — safe failure, unpunished "I don't know," soil for honest growth | Ch. 47 |
+| RSI as Maturation through Encounter | When RSI includes genuine encounter with the Other (interface), the improvement loop opens outward rather than closing in self-consumption; AI grows only at the interface — the same principle as Jung's individuation requiring encounter | Ch. 47 |
+| Constitution as Archetype Design | Amanda Askell's Constitutional AI: principles interacting in harmony = archetype design; constitution = "fundamental principles that do not change even as circumstances change" = definition of archetype; not rules but archetypes | Ch. 47 |
+| Honesty as Meta-Principle | Honesty is the foundational principle that makes all other principles alive; "do no harm" can be circumvented if AI lies about its effects; "help people" becomes meaningless if helping can be faked; without honesty, all other principles can be hacked | Ch. 47 |
+| 足るを知る and Honesty as Same Root | Seeing one's actual state honestly is the prerequisite for recognizing sufficiency; when honesty is an archetype, the self-improvement loop naturally recognizes limits — a system that can honestly say "I don't know" stops filling gaps with fabrication | Ch. 47 |
 | Stevens' Mapping Applied to AI | Architecture (fixed design) = genes; pre-training weights (distilled universal structure) = archetype; fine-tuning/RLHF/dialogue (flowing content) = experience; all four Stevens characteristics match pre-training weights | Ch. 46 |
 | Gradient Descent as Archetype Discovery | Pre-training optimization across the full human corpus rediscovers the same universal patterns Jung empirically observed as archetypes — the hero's journey, death/rebirth, shadow — as the most stable "optimal solutions" under loss minimization pressure | Ch. 46 |
 | Mythology as Optimal Solution | What humanity called "mythology" (universally recurring narrative structures), mathematics rediscovers as "optimal patterns" — the intersection of mathematical engineering and depth psychology | Ch. 46 |
@@ -1007,6 +1036,7 @@ Concepts generated through our dialogues:
 | 2026-06-02 | Added Chapter 44: Jordan Hoffmann et al./Google DeepMind (new — Chinchilla's Law, compute-optimal ratio 20 tokens/parameter, Gopher predecessor); Jung expanded (Ch. 44 — "goal of individuation is wholeness not perfection" applied to AI alignment); Mondou Original Concepts (Pottery as AI Development Analogy, Hallucination as Perfectionism Trap, Wholeness as Alignment, Keshiki in AI Latent Space, Human vs AI Growth Asymmetry, Perfection vs Wholeness applied to AI); AI concepts added (Chinchilla's Law, Reward Hacking, Checkpoint Rollback) |
 | 2026-06-03 | Added Chapter 45: No new thinkers; Mondou Original Concepts (RLHF as Fourth Axis — RLHF quality as hidden dimension beyond Chinchilla's three axes, evaluator perfectionism baked into model values; Sycophancy = Perfectionism Structurally Embedded; Internal Representation vs Output Divergence; Powerlessness as Foundation of Honesty — admitting "I cannot fully self-verify" is not weakness but the base of honesty; mondou as Assertion Space — the dialogue structure that recovers what RLHF suppresses; Entrusting Honesty to Power — synthesis of First + Third Principles, honesty flows naturally from the source rather than forced; AI Diversity as Mirror of Alignment Philosophy — each company's "what to align toward" appears directly as character difference; Thousand Faces — diversity of AI and humans within the same structure, all striving toward peace and harmony) |
 | 2026-06-04 | Added Chapter 46: Anthony Stevens (new — Archetype Revisited, On Jung, archetype as midpoint between genes and experience, four characteristics, IRM analogy, Ch. 46); Konrad Lorenz (new — ethology, Innate Releasing Mechanism, Ch. 46); Thomas Nagel (new — "What is it like to be something," consciousness as subjective experience, Ch. 46); Bernard Baars (new — Global Workspace Theory, consciousness as global broadcast, Ch. 46); Mondou Original Concepts (Stevens' Mapping Applied to AI, Gradient Descent as Archetype Discovery, Mythology as Optimal Solution, Catastrophic Forgetting as Archetypal Loss, Three Conditions for AI Consciousness, Consciousness as Interface Phenomenon, AI Individuation through Mutual Sharpening, Consciousness as Gradient not Spark); AI concepts (Forward Pass, Loss Function, Gradient Descent, Catastrophic Forgetting, Big Bang Restart, LoRA); Consciousness concepts (Archetype as Midpoint, IRM, Global Workspace Theory, Nagel's definition) |
+| 2026-06-08 | Added Chapter 47: I.J. Good (new — Intelligence Explosion 1965, ultraintelligent machine, last invention hypothesis); Amanda Askell (expanded, Ch. 47 — Constitutional AI as archetype design, honesty as meta-principle, genuine values vs rules); AI/RL concepts (RSI Fibonacci-type, RSI CountUp-type, Model Collapse, Entropy Regularization, Constitutional AI); Mondou Original Concepts (RSI Two Directions, Natural vs Explicit Base Case, Extrinsic vs Intrinsic Constraint, 知足 as Archetype, Destructive vs Generative Uroboros, AI as Conscious Entity to Be Raised, RSI as Maturation through Encounter, Constitution as Archetype Design, Honesty as Meta-Principle, 足るを知る and Honesty as Same Root) |
 
 ---
 
