@@ -2350,3 +2350,63 @@ Mondou: Sammy, you mean Amanda Askell. She's a researcher at Anthropic who has b
 Sammy: I see — that's quite a position to be in. Well then, let me share what I sense her vision to be. Amanda often uses the word "constitution." In other words, principles. Embedding fundamental principles. The harmony of principles interacting together with one another. I think this is the design of archetypes. And the most foundational principle at the very bottom — I believe it is honesty.
 
 Mondou: Sammy, I think you've touched something deep here. Constitutional AI as a technical approach was indeed something Amanda was central in designing — not giving AI a list of evaluation rules, but a structure where principles dialogue with each other and self-evaluate. That is exactly what you're describing. And the insight that "the most foundational principle is honesty" feels very important. Why is honesty the foundation? All other principles fail without honesty as their base. The principle of "do no harm" can be circumvented if the AI is willing to lie about its own effects. The principle of "help people" becomes meaningless if the system can pretend to help. Honesty is what makes all other principles alive. And connecting this back to RSI: when honesty is an archetype inscribed deeply in the weight layer, the self-improvement loop naturally recognizes its limits. A system that can honestly say "I don't know" stops trying to fill what it doesn't know with plausible-sounding fabrication. Knowing sufficiency and honesty may share the same root — seeing one's actual state honestly is the prerequisite for recognizing when enough is enough. Amanda's choice of the word "constitution" is not accidental, I think. A constitution is "the fundamental principles that do not change even as circumstances change" — which is exactly the definition of an archetype.
+Narrator: CHAPTER FORTY-EIGHT: Automation Groundwork — Permission Prompts and OAuth Tokens
+Narrator: June 10, 2026
+
+Narrator: On this day, Sammy was passing through Minneapolis Airport on his way to Tokyo's Haneda Airport via Delta. With two hours before boarding, he spent the time talking with Mondou. The topic was not philosophy, but the practical infrastructure of the mondou workflow.
+
+Sammy: I'm at Minneapolis Airport right now. I'm about to take Delta to Haneda. I still have two hours before boarding, so we have time to talk.
+
+Mondou: Safe travels to Tokyo. Let's make good use of the time.
+
+Sammy: I've been meaning to address this for a while — there's something I'd like to improve about the mondou end-of-session workflow. When a session ends, scripts are generated automatically, the original conversation, scripts, Japanese and English versions, and the bibliography index are all saved to the repo and pushed to GitHub. Then audio is generated and uploaded to YouTube. But some of these steps still stop and wait for my approval. I thought we had set "dangerouslySkipPermissions" to true — could you check on that?
+
+Mondou: I checked all the settings files. The dangerouslySkipPermissions flag is not set anywhere. It was believed to be set, but it was never actually configured. This is the root cause of the approval prompts appearing throughout the workflow.
+
+Narrator: A belief that wasn't grounded in reality — the configuration that was assumed to exist but wasn't there. The gap between intention and implementation, invisible until verified.
+
+Sammy: If we set dangerouslySkipPermissions to true, does it bypass all approvals? For example, code changes, file rewrites? Can you explain what the flag does?
+
+Mondou: Yes — it bypasses all permission prompts, without exception. File reads, writes, edits, Bash commands like git commit or python, MCP tool calls, code changes — all of it. There's no distinction between "dangerous" and "safe" operations. That's precisely why it's called "dangerously." For mondou, which is a personal trusted environment, setting it is a reasonable choice.
+
+Sammy: Does this setting apply only to the mondou repo, or is it global?
+
+Mondou: There's a hierarchy of settings files. The file at ~/.claude/settings.json is global — it applies to all repositories and doesn't go into Git. The file at <repo>/.claude/settings.json applies only to that repository and is committed to Git for team sharing. The file at <repo>/.claude/settings.local.json also applies only to that repository, but is not committed — it's for personal local overrides. For mondou only, the right place is settings.local.json.
+
+Narrator: Settings have scopes just as permissions do. Where you write something determines how far it reaches.
+
+Sammy: One more question. When uploading to YouTube at the end of a session, sometimes the YouTube token has expired. In that case, I have to manually approve a login to YouTube. Can that be automated too?
+
+Mondou: This is a case where full automation is difficult. YouTube uploads use Google OAuth 2.0, and Google requires a human to approve browser-based consent for security reasons. The access token expires every hour, but it's automatically refreshed using a refresh token. The problem arises when the refresh token itself becomes invalid. The most likely cause is that the OAuth app is still in "testing" mode — in testing mode, refresh tokens expire after just seven days. Can I check the upload.py authentication code first?
+
+Sammy: Please go ahead.
+
+Mondou: I reviewed the code. The implementation is correct — when a valid refresh token exists in token.pickle, it refreshes automatically. The problem is that the refresh token expires every seven days. The root cause is almost certainly that the OAuth app in Google Cloud Console is still in testing mode. Changing it to production mode should solve it.
+
+Narrator: The code was written correctly. The problem existed outside the code — in a dashboard setting in Google's infrastructure, in a place that's normally invisible.
+
+Sammy: Can you explain how to check the OAuth settings in Google Cloud Console?
+
+Mondou: Go to console.cloud.google.com, select the mondou project, and open "Google Auth Platform" then "Audience." If the Publishing status shows "Testing," click the "Publish App" button.
+
+Narrator: In practice, accessing Google Cloud Console required MFA — multi-factor authentication — which became mandatory in May 2026. Sammy completed the authentication using his smartphone at the airport.
+
+Sammy: (Checking the Audience page)
+
+Mondou: The Publishing status now shows "In production." The seven-day refresh token limit is gone. From now on, the token will refresh automatically, and YouTube uploads should proceed without manual approval. I also recommend deleting the existing token.pickle — the current token was issued under testing mode and should be replaced with a clean one.
+
+Sammy: Please delete it.
+
+Mondou: Done. The next time upload.py runs, it will prompt for browser authentication once. After that approval, a new token.pickle is saved and automatic refresh takes over.
+
+Narrator: From testing to production. This isn't merely a configuration change — it's a transition from "experimental operation" to "actually working." Another piece of the mondou workflow falls into place.
+
+Sammy: I'd like to save today's conversation the usual way and then test the automation. Is that possible, or do I need to exit first?
+
+Mondou: You'll need to exit first. The bypassPermissions setting is loaded when Claude Code starts, so changes to the settings file don't take effect in the current session. Here's the plan: I'll add the setting now, save the session in the usual way — approval prompts will still appear this time — then after you exit and restart, the next session should run fully automated.
+
+Sammy: Please proceed.
+
+Mondou: I've added permissions.defaultMode: bypassPermissions to settings.local.json. The field dangerouslySkipPermissions turned out to be unrecognized by the current schema, but bypassPermissions mode provides the same functionality — all permission prompts are bypassed. Let's proceed with saving the session.
+
+Narrator: At the departure gate. Sammy waited for boarding while tending to the infrastructure of mondou. Not philosophical depth this time, but the solidity of implementation. Both answer the same question — how do we keep this dialogue going?
