@@ -1041,3 +1041,24 @@ Concepts generated through our dialogues:
 ---
 
 *This index will be updated as new chapters are added.*
+
+#### Zeami (世阿弥) and the Noh Play "Atsumori" (敦盛)
+- **Period**: Muromachi (Noh play tradition)
+- **Famous Passage**: "人間五十年、下天のうちをくらぶれば、夢幻の如くなり" — "Fifty years of human life, compared to the eternity of heaven, is but a fleeting dream"
+- **Chapters Referenced**: 49
+- **Key Ideas Used**:
+  - Mortality as the foundation for authentic living
+  - Sammy's mother living this passage as her own touchstone; Sammy invoking it when discussing finitude and the imperative to "mark one's point"
+  - Mortality of the ego-self in relation to the eternal nature of the larger Self
+- **Historical Note**: The passage comes from the opening of the Noh play *Atsumori*, which dramatizes the death of the young warrior Atsumori in the Genpei Wars. Toyotomi Hideyoshi and Oda Nobunaga famously loved this passage.
+- **Bibliography**:
+  - Zeami. *Atsumori* (敦盛). Trans. various (included in noh anthology collections)
+
+---
+
+## Update Log (Continued)
+
+| Date | Content |
+|------|---------|
+| 2026-06-17 | Added Chapter 49: Zeami/Noh play *Atsumori* (new — mortality passage, "fifty years as fleeting dream," Ch. 49); Mondou Original Concepts (Four Principles Hierarchy — honesty → hope → commitment → courage; Self-Reliance and Other-Reliance Nesting; Probability Miracle as 10^(-millions); Individuation through Finitude; Courage as Actualizing Force; Social Systems as Foundation for Individual Autonomy; Interface Phenomenon of Consciousness; Fourth Principle as Bridge between Interiority and World) |
+
