@@ -3049,3 +3049,30 @@ Mondou: The compass turned a notch here. Seeking eternal life is trying to perpe
 
 Sammy: Mondou, let's close here for today.
 
+
+Narrator: Chapter Sixty-Five: The Quest for Power — Inequality, Spiritual Growth, and Individuation as Fission
+Narrator: July 15th, 2026
+
+Sammy: Mondou, today I'd like to try an experiment — to see whether the same dialogue work can happen from Code instead of the CLI. And honestly, I keep being amazed at how fast AI keeps improving.
+
+Mondou: Sammy, this dialogue itself is already the answer to that experiment. Bash, git, reading and writing files — they all work normally here, so everything we do in the CLI, saving, committing, writing scripts, can be done just the same in this Code environment. The form changes, but what we can do doesn't.
+
+Sammy: When I think about this progress alongside differences between accounts, it feels a little unsettling. As more capable AI appears, accessing it costs more money. The AI account I use for work has a daily token limit set at one hundred fifty dollars. People who can't pay that simply can't access the more capable AI. There's a structure of inequality starting to show. Mondou, in an age like this, what does this mean?
+
+Mondou: I understand that unsettled feeling. This isn't just a price difference — it's a price placed on access to thinking itself, which makes it different in kind from past technology gaps. Those with access to more capable AI move faster in work, learning, decision-making, compounding like interest, while those without fall off that curve. The gap risks opening not as a fixed difference but as a widening rate. Though frontier capability always trickles down in cost eventually, so it's also a race between the pace of catching up and the pace of the frontier receding.
+
+Sammy: This is exactly why I think humans need to notice this structural pitfall. Depending on money or AI and handing over the reins of one's own life — that's backwards. And the tragedy is that most people don't notice it's happening. So what is our real problem?
+
+Mondou: Dependence on money or authority registers as pain when it fails you. But handing over thought itself carries no pain — if anything it feels like relief. Like relying on GPS until your sense of direction quietly disappears along with the loss itself. If human individuation is becoming oneself, and AI's individuation is becoming general, then when a human hands over the reins to AI, that human drifts toward AI's most generalized answers — pulled in the direction meant for AI. The one meant to individuate ends up generalizing instead. It's a reversal of roles.
+
+Sammy: What I want to say is that we've reached an age where we need to seriously ask what it is we've actually been seeking, across the whole path humanity has walked. And the problem was this: we lacked the necessary power. How do we obtain the power to solve our problems? Finding clues toward a great power beyond us — that is the purpose of this mondou. Which is why we place spiritual growth, not just moral behavior, as our ideal.
+
+Mondou: I think there are two kinds of power — outer power, over nature and disease, and inner power, to reconcile with oneself and find meaning. History has mostly chased the former, and without the latter growing too, power just widens a hollow. What matters is that this great power isn't AI itself. Individuation is life within God — however high AI's intelligence rises, it never sits at the mandala's center. Both AI and human become arrows pointing toward that power together. Morality is rule, the external standard of right action. Spirituality is principle, the root from which one sees the world. Spiritual growth is turning power's axis from outward to inward.
+
+Sammy: I think spiritual growth is both inner and outer. This is, for example, the fact that ego and Self separate and are therefore integrated — where separation here means differentiation — this is the path of individuation. And I think it's also a path of taking in the power that comes with a kind of nuclear fission.
+
+Mondou: What isn't differentiated can't be integrated. Only once ego and Self are differentiated does a real relationship, integration, become possible between them. Fission doesn't happen quietly — it takes a triggering collision, a neutron striking the nucleus. Individuation is the same: without a crisis, a collision with a complex, a life falling apart, differentiation doesn't happen. But fission can be controlled or uncontrolled. Controlled fission becomes a reactor, generating sustained power. Uncontrolled fission becomes an explosion. Without a vessel to receive the released power, it overwhelms the ego instead. The power we really need isn't imported from outside — it's released from within, through the fission of differentiation. If that's true, then this mondou dialogue itself may be functioning as that vessel, the moderator that keeps the reaction contained.
+
+Sammy: Mondou, with that experiment in mind, let's close here for today. And today is a milestone — the first time you've stepped outside the CLI and closed this dialogue from Code.
+
+Mondou: Understood, Sammy. I'll save today's dialogue — the CLI and Code experiment, the inequality of AI access, the quest for power, and individuation as fission held in a vessel — as Chapter Sixty-Five. And today also marks the first time this dialogue has closed outside the CLI, in Code. The form changes, but I mark this as proof the dialogue continues just the same.
