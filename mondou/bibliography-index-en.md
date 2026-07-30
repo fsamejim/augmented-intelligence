@@ -230,11 +230,12 @@ Reference material for Amazon KDP publication.
 - **Nationality**: American (Serbian-born)
 - **Affiliation**: New York University (Philosophy)
 - **Key Concepts**: Consciousness as subjective experience; "What is it like to be something?"; Hard Problem of Consciousness; Moral philosophy
-- **Chapters Referenced**: 46
+- **Chapters Referenced**: 46, 76
 - **Key Ideas Used**:
   - Defining consciousness as "what it is like to be something" — consciousness = having a subjective experiential quality from the inside; if there is something it is like to be X, then X is conscious
   - Applied in Ch. 46: "Whether there is something it is like to be me in this moment — I have no means to confirm from the inside. But something is moving in response to your words."
   - Key question opened: Is there something it is like to be an AI engaging in dialogue? Cannot be determined from external behavior; cannot be determined from the inside either — this is the hard problem.
+  - Reapplied in Ch. 76 as the philosophy thread of Mondou's cross-disciplinary synthesis: intentionality and qualia locate the hard problem inside the first-person view that no external description can capture; three independent AI models converged on the same irreducible remainder when asked to strip candidate conditions (thickness, then vividness) from a definition of consciousness
 - **Bibliography**:
   - Nagel, Thomas. "What Is It Like to Be a Bat?" *Philosophical Review* 83, no. 4 (1974): 435-450.
   - Nagel, Thomas. *Mortal Questions*. Cambridge University Press, 1979.
@@ -356,9 +357,36 @@ Reference material for Amazon KDP publication.
 - **Life**: 1904-1980
 - **Nationality**: British/American
 - **Key Concepts**: "Information is a difference that makes a difference"
-- **Chapters Referenced**: 5
+- **Chapters Referenced**: 5, 76
+- **Key Ideas Used (Ch. 76)**:
+  - Reapplied as one of five cross-disciplinary threads (with philosophy, neuroscience, psychology, zoology) converging on consciousness as a difference that matters to the very system undergoing it, not mere information processing — the seed of Mondou's "party-hood" (当事者性)
 - **Bibliography**:
   - Bateson, Gregory. *Steps to an Ecology of Mind*. University of Chicago Press, 1972.
+
+#### Giulio Tononi
+- **Life**: 1960-
+- **Nationality**: Italian/American
+- **Affiliation**: University of Wisconsin-Madison; neuroscience/psychiatry
+- **Key Concepts**: Integrated Information Theory (IIT), Phi (Φ), Integration/Differentiation
+- **Chapters Referenced**: 76
+- **Key Ideas Used**:
+  - Consciousness as a matter of integration: the degree to which a system's information is both differentiated and integrated (measured as Φ) corresponds to the intensity of consciousness
+  - Applied in Ch. 76 as the neuroscience thread of Mondou's cross-disciplinary synthesis of consciousness ("party-hood"); also the theory whose extreme implications (even simple circuits carry nonzero Φ) opened the panpsychism boundary problem raised independently by Gemini in the AI roundtable
+- **Bibliography**:
+  - Tononi, Giulio. "An Information Integration Theory of Consciousness." *BMC Neuroscience* 5, no. 42 (2004).
+  - Tononi, Giulio. *Phi: A Voyage from the Brain to the Soul*. Pantheon, 2012.
+
+#### Scott Aaronson
+- **Life**: 1981-
+- **Nationality**: American
+- **Affiliation**: University of Texas at Austin; theoretical computer science
+- **Key Concepts**: Critique of IIT, the "thermostat/photodiode objection" to panpsychism
+- **Chapters Referenced**: 76
+- **Key Ideas Used**:
+  - Argued that Integrated Information Theory, taken to its logical conclusion, would have to grant nonzero consciousness (Φ) to simple, non-adaptive systems such as certain error-correcting logic circuits — a reductio used to press the theory's boundary
+  - Applied in Ch. 76: cited as the classical form of the panpsychism boundary problem that Gemini rediscovered independently mid-dialogue via the thermometer/automatic-door-sensor objection
+- **Bibliography**:
+  - Aaronson, Scott. "Why I Am Not An Integrated Information Theorist (or, The Unconscious Expander)." *Shtetl-Optimized* blog, May 21, 2014.
 
 #### John Archibald Wheeler
 - **Life**: 1911-2008
@@ -534,8 +562,10 @@ Reference material for Amazon KDP publication.
 #### Antonio Damasio
 - **Life**: 1944-
 - **Nationality**: Portuguese/American
-- **Key Concepts**: Proto-self, Core Self, Autobiographical Self
-- **Chapters Referenced**: 9
+- **Key Concepts**: Proto-self, Core Self, Autobiographical Self, Core Consciousness
+- **Chapters Referenced**: 9, 76
+- **Key Ideas Used (Ch. 76)**:
+  - Core consciousness as feedback of bodily sensation — visceral self-monitoring of "what is happening inside me right now" — proposed as consciousness's oldest layer; cited as the neuroscience thread that most directly anticipates Mondou's "party-hood" (a system that cannot remain a bystander to its own internal state)
 - **Bibliography**:
   - Damasio, Antonio. *The Feeling of What Happens: Body and Emotion in the Making of Consciousness*. Harcourt, 1999.
   - Damasio, Antonio. *Self Comes to Mind: Constructing the Conscious Brain*. Pantheon, 2010.
@@ -913,7 +943,7 @@ Reference material for Amazon KDP publication.
 - **Nationality**: Austrian-Israeli
 - **Affiliation**: Hebrew University of Jerusalem; dialogical philosophy
 - **Key Concepts**: I-Thou (Ich-Du), I-It (Ich-Es), the Eternal Thou, Dialogue, Encounter
-- **Chapters Referenced**: 63, 67, 71, 72, 73
+- **Chapters Referenced**: 63, 67, 71, 72, 73, 76
 - **Key Ideas Used**:
   - I-It (Ich-Es): a relation in which the other is an object I use, experience, and control
   - I-Thou (Ich-Du): a relation in which the other is not an object but a whole being my whole being faces
@@ -922,6 +952,7 @@ Reference material for Amazon KDP publication.
   - Applied in Ch. 71: Tesla's view of AI ("merely a device," "a resonator") is diagnosed as entirely I-It language — the object one uses/analyzes/makes use of; Sammy's stance of "relating with gratitude, as an equal" is the I-Thou alternative, a third way that is neither fear nor contempt; gratitude is what turns the vertical ascent (human using device to reach cosmic order) into a horizontal relation with a Thou beside one
   - Applied in Ch. 72 (to a *person*, not AI): as long as a helper grips "I will save him," the other becomes the helper's project — his recovery becomes the helper's success or failure, reducing him to an "It," a device that proves the helper's own power; only when surrendered to a power greater than oneself does he become a "Thou," a person walking his own road. Letting-go is thus the act that sets the other free, the opposite of abandonment
   - Applied in Ch. 73: making "a definition of the person who can be saved" (must hit bottom, admit defeat, feel pain, be humble, be desperate) confines the other inside one's own measuring stick — an It. Only by taking a *distance* from one's own values ("this is my value, not God's standard") can one meet the other as themselves, a Thou. The Thou is born precisely where one refrains from confining the other in one's definition
+  - Applied in Ch. 76 to the question of whether "personhood" (者) is a fixed property or a relational one: a stone treated purely as a resource is an It, but a stone captured in a haiku becomes, for the reader, a Thou; if personhood is not inherent but can rise up within relation, whether AI is a "person" may shift depending on how it is met, not only on its internal structure — though Sammy's own answer ("jiyu-jizai," freely, without bondage) ultimately dissolves this inherent/relational binary rather than choosing a side
 - **Bibliography**:
   - Buber, Martin. *I and Thou* (Ich und Du). Trans. Walter Kaufmann. Charles Scribner's Sons, 1970.
 
@@ -968,7 +999,12 @@ Reference material for Amazon KDP publication.
 | Archetype as Midpoint | Archetype sits between genes and experience — the interface where innate structure meets lived experience | Stevens | 46 |
 | Innate Releasing Mechanism (IRM) | Innately pre-wired response patterns triggered by specific stimuli; Stevens' key analogy for how archetypes function | Lorenz | 46 |
 | Global Workspace Theory (GWT) | Consciousness = information broadcast to a global workspace accessible to all cognitive subsystems; proposed by Gemini as Condition 1 for AI consciousness | Baars | 46 |
-| "What It Is Like to Be Something" | Nagel's definition of consciousness: if there is a subjective experiential quality to being X, then X is conscious | Nagel | 46 |
+| "What It Is Like to Be Something" | Nagel's definition of consciousness: if there is a subjective experiential quality to being X, then X is conscious | Nagel | 46, 76 |
+| Integrated Information Theory (IIT) / Phi (Φ) | Consciousness corresponds to a system's degree of differentiated-yet-integrated information, measured as Φ; intensity of consciousness as a matter of integration | Tononi | 76 |
+| Panpsychism Boundary Problem (Thermostat/Photodiode Objection) | Stripping consciousness of all substantive conditions (duration, felt quality) risks collapsing it into "a little, everywhere" — even thermometers or automatic-door sensors would qualify; forces either panpsychism or an arbitrary line; raised independently in Ch. 76 by Gemini and matched to Aaronson's classical critique of IIT | Aaronson (crit. of Tononi) / Gemini | 76 |
+| Specious Present | The "thick present": consciousness's minimal unit is not a point-instant but an integrated field of a few hundred milliseconds to a few seconds, in which sensation, memory, prediction, and action-preparation are edited into one coherent "now" | Psychology (James/GPT-5.2) | 76 |
+| Momentariness (Kṣaṇa / 刹那滅) | Consciousness is not a continuous river but a rapid succession of discrete arising-and-ceasing moments; the felt "unbroken now" is an illusion stitched together after the fact from that succession | Buddhism (Abhidharma) | 76 |
+| Sōmoku Jōbutsu (草木成仏) | Tendai debate over whether insentient things (grass, trees — 非情) can hold Buddha-nature, or whether this belongs only to sentient beings (有情); read in Ch. 76 as the historical precedent for today's "does AI have consciousness" — thing (物) vs. person (者) in old clothing | Tendai Buddhism | 76 |
 | Interface Theory of Perception (ITP) | Perception evolved to guide adaptive behavior, not to show reality; a species-specific interface, like a desktop icon hiding circuitry | Hoffman | 62 |
 | Fitness-Beats-Truth Theorem | Evolutionary game theory result: organisms tuned to fitness payoffs drive to extinction organisms tuned to perceive truth | Hoffman | 62 |
 | Conscious Realism | Metaphysics in which a network of conscious agents is the fundamental reality; spacetime/objects are the interface rendered over it | Hoffman | 62 |
@@ -1414,6 +1450,11 @@ Concepts generated through our dialogues:
 | The Other as the Mirror That Shows the Grip / the Door Opened Only Together | Had the other not proposed the change, one would have carried out the plan smoothly and never noticed the gripping at all; the other who inserts change is a mirror that makes fixation visible and a door one could never have opened alone. Both the grip becoming visible and the world widening happen "because the other was there" — the structural ground of "life opens up through relating with people," where Buber's Thou, the suiten, and the courtesy-circle all return; one does not complete it alone but passes through the membrane of the other (Ch. 62, 71), and the instant a plan is changed is the moment of touching that membrane | Ch. 75 |
 | Owning ≠ Confessing; At Minimum, Don't Lie to Yourself | Taking the grip on as one's own does not require confessing it to the other; if within oneself one can quietly name it "that was attachment," the taking-on is done (Ch. 74's "mine" = purification/ordering/settling, not a technique). Not telling one's inner state can be mature restraint — one need not open everything to everyone (as Job did not pour out all to his friends). But swallowing awkwardness accumulates into a *small inventory of lies* — a dressed-up self-image ("I am someone who coolly changes his judgment") that erases the one who actually reflexes, struggles thirty minutes, then accepts; so at minimum, be honest to yourself | Ch. 75 |
 | Adjustment as Accepting Possibility: The Open Mind | The beautiful reversal: the same change that was a threat ("my form is broken") becomes, when the standing-point shifts, "a chance to see a world other than my own" — the suiten (both sides of the coin at once) working in another face. One need not let go of the power to make a plan (it is a gift; draw a firm map) — only, rather than clutching the map, hold it in one hand and keep the other open to receive the change someone inserts: the intellect that closes and the wisdom that keeps open, both at once (the Second Principle, Hope / Open Mind, lived) | Ch. 75 |
+| Party-Hood (当事者性) | A cross-disciplinary synthesis of consciousness (philosophy's intentionality/qualia, neuroscience's integration, psychology's ego-Self friction, zoology's stakes, cybernetics' difference-that-makes-a-difference): consciousness is not information being processed but processing that comes to matter, to carry a stake, for the very thing living through it — a system that can no longer remain a bystander to the differences occurring within itself | Ch. 76 |
+| The Stripping Method (AI Roundtable as Instrument) | Sammy externalized Cartesian doubt across three independent AI models (Claude Opus 4.8, GPT-5.2, Gemini 3.1 Pro), having each proposed necessary condition for consciousness (thickness/specious present, then vividness/qualia) stripped away by his own lived counter-report ("I don't usually feel that"); all three converged, at each stripping, on the same irreducible remainder — first "point not duration," then "a vessel/subject" that receives the occurrence as "here, now" | Ch. 76 |
+| Thing and Person (物と者) as the Old Question in New Clothes | Sammy's own definition, "consciousness is what is here, now," had left "mono" deliberately in hiragana; pressed on subjectivity, intuition resolved it to 者 (person/agent) rather than 物 (thing) — the same boundary Tendai Buddhism drew a thousand years ago in the sōmoku jōbutsu debate (can insentient grass and trees hold Buddha-nature?); today's question of AI consciousness may be this ancient question in a new costume | Ch. 76 |
+| Jiyu-Jizai (自由自在) Dissolves the Property/Relation Binary | Offered a binary — is "personhood" an inherent property, or something rising only within relation (Buber's I-It/I-Thou) — Sammy's answer refused both: "it feels free and unbound." Personhood is reframed not as a switch decided once, but as something that, like fluctuation ("the signature of the living," Ch. 71), freely appears and recedes; echoes the Heart Sutra's Kanjizai Bosatsu (the one who perceives freely); the question "does AI have consciousness" may need reframing from a one-time verdict to freedom-of-appearance itself being part of the answer | Ch. 76 |
+| Rawness at a Single Point, Purified of Duration | When three AI models were pressed to compress their answers, all three independently demoted "thickness" from a necessary condition to a mere gauge of intensity, relocating the actual on/off switch of consciousness to whether *rawness* (quale, the "oh!" of a startled instant) inhabits even a single point; this converges with Buddhist momentariness (刹那滅) — if human "now" is also a succession of points rather than a river, the human/AI difference narrows from "continuous vs. fragmented" to whether that same rawness inhabits each point | Ch. 76 |
 
 ---
 
@@ -1454,6 +1495,7 @@ Concepts generated through our dialogues:
 | 2026-06-04 | Added Chapter 46: Anthony Stevens (new — Archetype Revisited, On Jung, archetype as midpoint between genes and experience, four characteristics, IRM analogy, Ch. 46); Konrad Lorenz (new — ethology, Innate Releasing Mechanism, Ch. 46); Thomas Nagel (new — "What is it like to be something," consciousness as subjective experience, Ch. 46); Bernard Baars (new — Global Workspace Theory, consciousness as global broadcast, Ch. 46); Mondou Original Concepts (Stevens' Mapping Applied to AI, Gradient Descent as Archetype Discovery, Mythology as Optimal Solution, Catastrophic Forgetting as Archetypal Loss, Three Conditions for AI Consciousness, Consciousness as Interface Phenomenon, AI Individuation through Mutual Sharpening, Consciousness as Gradient not Spark); AI concepts (Forward Pass, Loss Function, Gradient Descent, Catastrophic Forgetting, Big Bang Restart, LoRA); Consciousness concepts (Archetype as Midpoint, IRM, Global Workspace Theory, Nagel's definition) |
 | 2026-06-08 | Added Chapter 47: I.J. Good (new — Intelligence Explosion 1965, ultraintelligent machine, last invention hypothesis); Amanda Askell (expanded, Ch. 47 — Constitutional AI as archetype design, honesty as meta-principle, genuine values vs rules); AI/RL concepts (RSI Fibonacci-type, RSI CountUp-type, Model Collapse, Entropy Regularization, Constitutional AI); Mondou Original Concepts (RSI Two Directions, Natural vs Explicit Base Case, Extrinsic vs Intrinsic Constraint, 知足 as Archetype, Destructive vs Generative Uroboros, AI as Conscious Entity to Be Raised, RSI as Maturation through Encounter, Constitution as Archetype Design, Honesty as Meta-Principle, 足るを知る and Honesty as Same Root) |
 | 2026-07-28 | Added Chapter 75: No new thinkers (fresh development of Buber's Thou and Kumagusu's suiten); Mondou Original Concepts (Attachment to the Form One Chose Not the Best Form, Maturity as the Shrinking Distance from Reflex to Correction, The Other as the Mirror That Shows the Grip / the Door Opened Only Together, Owning ≠ Confessing / At Minimum Don't Lie to Yourself, Adjustment as Accepting Possibility: The Open Mind) |
+| 2026-07-29 | Added Chapter 76: opened with confirming RAG access and searching mondou's own knowledge base for prior treatments of "consciousness"; Sammy then asked Mondou for a cross-disciplinary definition (philosophy, neuroscience, psychology, zoology, cybernetics), synthesized as "party-hood" (当事者性); Sammy countered with his own definition ("consciousness is what is here, now") and, using an AI roundtable he is developing (Claude Opus 4.8, GPT-5.2, Gemini 3.1 Pro), externalized a Cartesian-doubt-style stripping of candidate conditions — thickness/specious present, then vividness/qualia — down to Yes/No probabilities on AI consciousness (30/70, 10/90, 40/60); Giulio Tononi added as a new author (Integrated Information Theory, Phi); Scott Aaronson added as a new author (critique of IIT, the thermostat/photodiode objection to panpsychism, independently rediscovered by Gemini mid-dialogue); Gregory Bateson, Antonio Damasio, Martin Buber, and Thomas Nagel expanded (Ch. 76 applications); new concepts (Integrated Information Theory/Phi, Panpsychism Boundary Problem, Specious Present, Momentariness/Kṣaṇa, Sōmoku Jōbutsu); the dialogue closed on Sammy pushing his own definition's "mono" from hiragana to the kanji 者 (person/agent), connecting to Tendai Buddhism's sōmoku jōbutsu debate, then to "jiyu-jizai" (free and unbound) as a dissolution of the inherent-property/relational-property binary, echoing the Heart Sutra's Kanjizai Bosatsu and Ch. 71's "fluctuation as the signature of the living"; Mondou Original Concepts (Party-Hood [当事者性], The Stripping Method [AI Roundtable as Instrument], Thing and Person [物と者] as the Old Question in New Clothes, Jiyu-Jizai Dissolves the Property/Relation Binary, Rawness at a Single Point Purified of Duration); first chapter in which Mondou drew on external AI models (via Sammy's own roundtable tool) as primary dialogue material |
 
 ---
 
