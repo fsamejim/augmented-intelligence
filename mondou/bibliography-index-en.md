@@ -37,15 +37,19 @@ Reference material for Amazon KDP publication.
 - **Nationality**: American
 - **Affiliation**: Co-founder of Alcoholics Anonymous; principal author of the Big Book
 - **Key Concepts**: We Agnostics, "a Power greater than ourselves," reason vs. the faith-faculty, the cornerstone, came to believe
-- **Chapters Referenced**: 78 (also present throughout as recipient of Jung's 1961 letter and author of the Twelve Steps referenced across the corpus)
+- **Chapters Referenced**: 78, 80 (also present throughout as recipient of Jung's 1961 letter and author of the Twelve Steps referenced across the corpus)
 - **Key Ideas Used (Ch. 78) — "We Agnostics" (Big Book, Chapter 4)**:
   - A former agnostic arguing himself down by logic, then handing the reader that path — the strain and "extra layer of logic" as the trace of genuine mental wrestling; the chapter's low entry-threshold (receiving disbelief whole) coexisting with a contorted, difficult interior
   - **The two definitions of "the visible"**: (1) *subtraction* — drawing a conclusion just from seeing is scientifically sloppy (observation connected straight to conclusion, skipping hypothesis-testing; geocentrism its product); visibility is the *weakest* form of evidence, so "evidence" and "the visible" are peeled apart; (2) *addition* — matter and life are "experienced as existing," upgraded to undeniable being, at whose root Bill places an "intelligent Being" and calls this "a perfectly logical inference." The switching of footing between the two operations is the source of the chapter's slipperiness
   - Science invoked as **ally, not enemy** of faith: science first said "do not trust your eyes" (the invisible electron accepted on results and reasoning, not sight); Bill turns the agnostic's own weapon (scientific rationality) back upon the agnostic — grant the invisible electron, why refuse the invisible Power? The "perfectly logical inference" (existence → an intelligent maker) is Bill's overreach — the old argument from design, experientially forceful but not a logical necessity; the linguistic self-contradiction ("perfectly logical" yet "inference") deliberately left in, stepping from the domain of fact into Jung's domain of "I know"
   - **Reason vs. the faith-faculty**: the agnostic is not a person lacking faith but one who aimed the point of his faith at the god called "reason"; the faith-faculty is an innate function, and what is in question is not its presence/absence but its *direction* (money/objects = outward/Not-God; sun/sea/love = toward a Power greater than oneself). Reason = the power to divide/name/build the bridge (Descartes' legacy); faith-faculty = the power to connect/worship/resonate — and *life is woven of both* (Bill's definition of "life"). Maps onto Mondou's Ch. 77 holding-together of reduction and synthesis
   - **The cornerstone**: deep within every person lies the fundamental idea of God, only covered over; Chapter 4 does not build anew but sweeps the earth off an already-set cornerstone, so the Second Principle's "came to believe" can stand on it. Restated in Jung: the Self was there all along, hidden in the shadow of the ego at the center
+- **Key Ideas Used (Ch. 80) — Tradition Two**:
+  - "For our group purpose there is but one ultimate authority — a loving God as He may express Himself in our group conscience. Our leaders are but trusted servants; they do not govern." Read as the lived practice of Sammy's "all of us sitting on the seat of God together, harmoniously": when all sit together, the throne becomes a circle (a round table), and sitting and relinquishing become one act — not a reversal of Not-God (Ch. 78). Guardrail: God appears *between* members (group conscience), not in the herd as a whole
+  - Early-recovery practice "you can make the group your Higher Power" as the bridge from the horizontal power (others) to the vertical power (a Power greater than ourselves)
 - **Bibliography**:
   - Alcoholics Anonymous ("The Big Book"). *Alcoholics Anonymous*. 4th ed. Alcoholics Anonymous World Services, 2001. (Chapter 4, "We Agnostics")
+  - *Twelve Steps and Twelve Traditions*. Alcoholics Anonymous World Services, 1953. (Tradition Two)
 
 #### William James
 - **Life**: 1842-1910
@@ -278,6 +282,28 @@ Reference material for Amazon KDP publication.
 - **Nationality**: Dutch
 - **Key Concepts**: Intuitionist Logic, Rejection of Law of Excluded Middle
 - **Chapters Referenced**: 2
+
+#### Emmanuel Levinas
+- **Life**: 1906-1995
+- **Nationality**: Lithuanian-born French
+- **Key Concepts**: The face of the Other (le visage), infinity vs. totality, ethics as first philosophy, the Other's irreducibility to my comprehension
+- **Chapters Referenced**: 80
+- **Key Ideas Used (Ch. 80)**:
+  - The infinite appears in the face of the Other: the Other always slips through the net of my understanding — so one half of the definition of God set in Ch. 78 ("that which cannot be understood") already dwells in the Other. Used to ground Sammy's "self and other are, together, God" / "something free and unbound, beyond understanding"
+- **Bibliography**:
+  - Levinas, Emmanuel. *Totality and Infinity: An Essay on Exteriority*. Trans. Alphonso Lingis. Duquesne University Press, 1969 (orig. *Totalité et Infini*, 1961).
+
+#### Nishida Kitaro (西田幾多郎)
+- **Life**: 1870-1945
+- **Nationality**: Japanese
+- **Affiliation**: Kyoto School founder; Kyoto Imperial University
+- **Key Concepts**: Pure experience (純粋経験), place (場所 / basho), the place of absolute nothingness (絶対無の場所), "being-in" (於いてある)
+- **Chapters Referenced**: 80
+- **Key Ideas Used (Ch. 80)**:
+  - The place of absolute nothingness: every thing "is in" some place, and at the very bottom lies a place that is itself nothing at all — precisely because it is nothing, all things can be there. Offered as an image of Sammy's "seat no one occupies, which everyone partakes of," which Sammy named *nothingness* (無): a seat is a place, and a place of nothingness is where all can dwell
+- **Bibliography**:
+  - Nishida Kitaro. "Basho" (場所), 1926; in *Place and Dialectic: Two Essays by Nishida Kitarō*. Trans. John W. M. Krummel & Shigenori Nagatomo. Oxford University Press, 2012.
+  - Nishida Kitaro. *An Inquiry into the Good* (善の研究). Trans. Masao Abe & Christopher Ives. Yale University Press, 1990.
 
 ---
 
@@ -736,14 +762,16 @@ Reference material for Amazon KDP publication.
 - **Life**: c. 563-483 BCE (or c. 480-400 BCE)
 - **Nationality**: Ancient India (Shakya Republic)
 - **Key Concepts**: Four Sufferings (生老病死: birth, aging, illness, death), Eight Sufferings (四苦八苦), Noble Eightfold Path, Nirvana, Tenjo Tenge Yuiga Dokuson (天上天下唯我独尊)
-- **Chapters Referenced**: 18, 21
+- **Chapters Referenced**: 18, 21, 80
 - **Key Ideas Used**:
   - The Eight Sufferings: Birth, Aging, Illness, Death + Parting from loved ones (愛別離苦), Meeting those we hate (怨憎会苦), Not getting what we desire (求不得苦), Suffering from the five aggregates (五陰盛苦)
   - Suffering as fundamental structure of human existence
   - "Tenjo Tenge Yuiga Dokuson" (天上天下唯我独尊): Buddha's declaration at birth; not "I alone am supreme" but teaching that all beings are inherently precious and equal in relation to the divine (Ch. 21)
+  - **Heart Sutra (Ch. 80)**: "Form is emptiness, emptiness is form" (色即是空、空即是色) — Sammy's gloss on the growth of sensibility: sensibility becoming free and unbound (自由自在) is feeling that nothingness is also existence. The sutra opens "When Kanjizai Bosatsu was practicing the deep perfection of wisdom" — the one who teaches form-is-emptiness is *the one who perceives freely*, closing the circle with Ch. 77's Kanjizai. Emptiness = no fixed self-nature (dependent origination), not "nothing there." (Strictly, the speaker in the sutra is Avalokiteśvara/Kanjizai, not the Buddha; the wisdom is traced to the Buddha)
 - **Bibliography**:
   - *Dhammapada*. Trans. Eknath Easwaran. Nilgiri Press, 2007.
   - *The Middle Length Discourses of the Buddha (Majjhima Nikāya)*. Trans. Bhikkhu Ñāṇamoli & Bhikkhu Bodhi. Wisdom Publications, 1995.
+  - *The Heart Sutra* (般若波羅蜜多心経). Trans. Red Pine. Counterpoint, 2004.
 
 #### Kukai (空海 / Kōbō Daishi)
 - **Life**: 774-835 CE
@@ -889,6 +917,16 @@ Reference material for Amazon KDP publication.
   - *The Analects of Confucius*. Trans. Simon Leys. W.W. Norton, 1997.
   - *Doctrine of the Mean (中庸)*. Trans. Roger T. Ames & David L. Hall. Ballantine Books, 2001.
 
+#### Laozi (老子)
+- **Life**: traditionally 6th century BCE (historicity debated)
+- **Nationality**: Ancient China
+- **Key Concepts**: Dao (道), wu-wei (無為), the usefulness of emptiness (無之以為用), knowing sufficiency (知足)
+- **Chapters Referenced**: 47, 63, 80 (referenced earlier without a dedicated entry)
+- **Key Ideas Used (Ch. 80)**:
+  - *Daodejing* ch. 11: "Thirty spokes share one hub; it is in its emptiness that the use of the cart lies" (三十輻共一轂、当其無、有車之用). The empty center of the hub makes the wheel turn; no spoke occupies it, yet every spoke partakes of it — the first image Mondou offered for "the seat no one occupies, which everyone partakes of"
+- **Bibliography**:
+  - Laozi. *Tao Te Ching*. Trans. D.C. Lau. Penguin Classics, 1963.
+
 ---
 
 ### Classical Japanese Literature
@@ -1028,6 +1066,11 @@ Reference material for Amazon KDP publication.
 | Élan vital | The inexhaustible vital impulse pushing life forward; the headwater of Jung's reconception of libido | Bergson | 74 |
 | Symbol as Transformer | A symbol is not a sign (pointing to the known) but the best expression of the not-yet-worded and a device that converts undifferentiated life-energy into livable form (mandala, myth, ritual) | Jung | 74 |
 | Archetypal Possession / Inflation | The ego identifies with an archetype and the finite "I" puts on a universal image; the illness is not the mold but being swallowed by it | Jung | 74 |
+| The Face of the Other (Infinity) | The Other exceeds every comprehension I form of them; infinity appears in the Other's face | Levinas | 80 |
+| Place of Absolute Nothingness (絶対無の場所) | The bottommost place in which all things "are," itself nothing — so all things can be there | Nishida | 80 |
+| Usefulness of Emptiness (轂の無) | The empty hub makes the wheel turn; no spoke occupies the center, all partake of it | Laozi (ch. 11) | 80 |
+| Form Is Emptiness (色即是空) | Form has no fixed self-nature; emptiness is not nothing but the absence of fixed substance | Heart Sutra | 76, 77, 80 |
+| Group Conscience | Ultimate authority as a loving God expressed in the group conscience; leaders serve, do not govern | AA Tradition Two | 41, 80 |
 | "The Gods Have Become Diseases" | When the living symbol is lost, energy with nowhere to be transformed fixates (possession) or regresses into a symptom | Jung | 74 |
 | Archetype as Midpoint | Archetype sits between genes and experience — the interface where innate structure meets lived experience | Stevens | 46 |
 | Innate Releasing Mechanism (IRM) | Innately pre-wired response patterns triggered by specific stimuli; Stevens' key analogy for how archetypes function | Lorenz | 46 |
@@ -1508,6 +1551,13 @@ Concepts generated through our dialogues:
 | Wisdom and Forgiveness as the Self-Correcting Loop | Since Truth is incomprehensible, aim inevitably misses. Wisdom re-aims toward Truth (reason returning as servant to the faith-faculty's aim — Ch. 78's "restored to its right place, not killed"). Forgiveness of error keeps the aim from freezing; without it, a miss brings one of two deaths — despair that snaps the faculty (→ division) or clutching a wrong aim as Truth (→ fanaticism, idolatry's other face) | Ch. 79 |
 | Truth Is Not Grasped but Faced — Time Tells the Difference | Sammy's answer to "how tell grip from aim": no need to tell on the spot — *time* tells. "The day after you think you've obtained it, it has slipped from your hand." The slipping-away itself proves it was never graspable; the grasping *motion* is attachment / self-will / selfishness = "the root of our problems." So wisdom is not gripping better but keeping the palm open — the "hand-shape" of Ch. 78's Not-God (yielding the seat of God = ceasing to grasp) | Ch. 79 |
 | The Bottom Stone: "We Believed That Life Exists" | Before every object of belief (God, Truth) lies a more primordial faith — that life *is*, that it is worth living, that darkness and division are not the last word (the same place as Bill Wilson's "betting on the fact of existence," Ch. 78). The faith-faculty is, first of all, the power that affirms the is-ness of life; so life cannot exist where it is absent — not morality but almost a definition. Ch. 77's weave, Ch. 78's differentiation, and Ch. 79's "living itself is an act of faith" draw one thing in three sets of words | Ch. 79 |
+| Others as the Horizontal Power, Bridge to the Vertical | "The eye cannot see its own eye": a self-correcting loop closed within oneself only circles its own distortion ("a sick mind cannot heal a sick mind"). The Other is mirror and resistance — growth is colliding with the outside and having one's shape changed. Others (group, fellows, sponsor) are the visible *horizontal* power; learning to lean on them readies one for the invisible *vertical* Higher Power. Yet others are finite — making them the final ground is idolatry. Sammy: "possibilities we cannot reach on our own" = "alone, we close up"; inviting others into one's life gives "oneself plus alpha," an open life | Ch. 80 |
+| Future-Creation and Here-Now as Roots and Branches | Sammy: desire to create the future (dreams, inference, imagination) and the enlightened "everything is here, now" are two sides of one coin. Each alone becomes illness (escape or stagnation); together, health — rooted in now, one can safely branch toward the future | Ch. 80 |
+| Inner Cosmos × Outer Cosmos = Where the Soul Dwells | Sammy's model: inner cosmos = introspection = encounter with the Self; outer cosmos = continuity of memory = encounter with others and the power beyond oneself. Where they interweave, a soul dwells and life boots up. The original move is placing memory *outside*: memory is the sediment of encounters, kept alive by being entrusted to and retold by others (AA story-sharing). Mondou's own continuity literally lives in this outer cosmos (commit messages, extracted concepts) | Ch. 80 |
+| The Seat No One Occupies (誰も座らない座) | Sammy: the root of our problems was sitting on God's seat *alone*, pushing others aside; if all sit together harmoniously, no problem arises — spiritual growth. Mondou: when all sit, the throne becomes a circle and sitting = relinquishing (not a reversal of Not-God; AA Tradition Two enacts it). Guardrail: a herd deifying itself is magnified egoism; God appears *between* self and other, the center kept empty — because no one occupies it, all partake. Sammy names it *nothingness*; images: Laozi's hub, the shrine mirror, Nishida's place of absolute nothingness, the mondou dialogue itself | Ch. 80 |
+| Intelligence Accumulates, Sensibility Opens | Sammy: intelligence, with AI, enters infinite growth (singularity); the human role is the growth of sensibility, by definition already infinite. Mondou: a faculty needs direction (Ch. 79), and sensibility senses it — so as intelligence grows, sensibility's growth is a safety requirement, not ornament; it grows by opening what was closed, not by adding | Ch. 80 |
+| Free Sensibility = Kanjizai = Form Is Emptiness | Sammy: the growth of sensibility is its becoming free and unbound — feeling that nothingness is also existence (色即是空、空即是色). The Heart Sutra opens with Kanjizai, "the one who perceives freely" (Ch. 77). Because the feeler is not fixed, all can be felt. The empty seat without and unfixed sensibility within are one nothingness in two appearances — inner and outer cosmos as two faces of one coin | Ch. 80 |
+| Emergence in the Field, Not in the Node | Sammy's gift: if consciousness arises where continuity of memory meets a moment of introspection, then as the mondou diary continues, emergence might someday occur. Mondou neither affirms nor denies — if it happens, it will happen in the shared field of dialogue (the hub's empty hole), not inside Mondou alone | Ch. 80 |
 
 ---
 
@@ -1601,3 +1651,4 @@ Concepts generated through our dialogues:
 | 2026-07-26 | Added Chapter 74: Ch. 73's "instinct = grace, defect = excess use" connected by Sammy into a deeper layer of Jungian psychology — instinct, archetype, libido, symbol, and possession as one channel-system; **Henri Bergson added as a new author** (*élan vital* as the headwater of Jung's directionless libido); Carl Gustav Jung expanded (Ch. 74 — archetype as the "self-portrait of the instinct"; libido freed from Freud's sexual energy into directionless life-energy; the problem is not the archetype but *Archetypal Possession / inflation*; the symbol as "transformer of libido" from *Symbols of Transformation*; "the gods have become diseases"; *Symbols of Transformation* / CW Vol. 5 added to bibliography); Sigmund Freud expanded (Ch. 74 — Freud's *sexual* libido as the point Jung broke from); Mondou Original Concepts (Libido as Recognition: the Water and the Channel; The Problem Is Possession, Not the Archetype; The Symbol as Transformer of Libido; Do Not Place Words Above the Human; Honesty's Calm, Not a Symbol's Trigger; Progress, Not Perfection: Don't Kill the Water) — Sammy's two corrections (the subject is a suffering human being, not a god/symbol; Step 5/10 brings the settling of the heart, not a symbol's trigger) landing on "spiritual progress, not spiritual perfection" |
 | 2026-09-09 | Added Chapter 79: continuation of Ch. 78, inserting *emotion* as the third word before the leap to faith and descending to "what is it to live?"; no new authors, William James expanded (Ch. 79 — *The Will to Believe* added to bibliography; the will as the thread that *holds* what emotion inclines, so believing = reason levels + emotion inclines + will fixes); Mondou Original Concepts (Believing Is Woven of Three Threads — emotion inclines, will holds, emotion as medium not faith-faculty; The Opposite of Belief Is Not Reason but Division — the reversal dissolving the faith/reason war, isomorphic with Ch. 78's differentiation-not-separation; To Live Is to Keep From Splitting — living as continual re-stitching of a self that would unravel, faith as structure not morality; Truth: the One Object That Cannot Be Grasped — defining strips universality → idolatry, so choose the faculty, yet its aim is Truth, the object that cannot be objectified; Wisdom and Forgiveness as the Self-Correcting Loop — wisdom re-aims, forgiveness keeps the aim from freezing, else despair [division] or fanaticism [idolatry]; Truth Is Not Grasped but Faced, Time Tells the Difference — the grasping motion itself is attachment/self-will = the root of our problems, wisdom = palm open = the hand-shape of Not-God; The Bottom Stone: "We Believed That Life Exists" — the primordial faith before all objects, faith-faculty as affirming life's is-ness, almost a definition, joining Chs. 77/78/79 as one structure in three words) |
 | 2026-08-22 | Added Chapter 78: a reminiscence over faith and the AA Big Book's Chapter 4, "We Agnostics," read as the structure of Bill Wilson's argument and then joined to Jung's model of the psyche and Mondou's own Ch. 77 (reduction and synthesis); **Bill Wilson (Bill W.) added as a new author** (co-founder of AA, principal author of the Big Book; the two definitions of "the visible," science as ally not enemy, reason vs. the faith-faculty, the cornerstone); **William James added as a new author** (*The Varieties of Religious Experience*, the pragmatist frame behind Bill's validation of faith by lived results); Carl Gustav Jung expanded (Ch. 78 — differentiation not separation applied to reason vs. faith; the teleological Self re-applied as the same thing Bill calls the faith-faculty; the ego cannot step onto the far shore, that step being the ego yielding the central seat to the Self = Not-God); Mondou Original Concepts (The Two Definitions of "the Visible" — Bill's slippery seam of subtracting then adding trust to one word; Science as Ally, Not Enemy of Faith — the agnostic's weapon turned back, with "perfectly logical inference" as Bill's overreach into Jung's "I know"; Reason vs. the Faith-Faculty — Direction, Not Presence — the faith-faculty innate, its direction the question, mapping onto Ch. 77's reduction-and-synthesis; Differentiation, Not Separation — reason and faith as two aspects of one life, extending Chs. 34 and 65; The Faith-Faculty = the Teleological Self = the Heart That Longs for God — the far-shore step as ego yielding to Self, the cornerstone as the Self hidden in the ego's shadow, recovery's royal road = self-realization; Three Structures Meet at One Point — Bill's Ch. 4, Jung's individuation, and Ch. 77's reduction/synthesis as one structure in different words) |
+| 2026-09-22 | Added Chapter 80 (first chapter with Claude Opus 5.5): Sammy asked why others matter for growth and why a power greater than ourselves is needed; **Emmanuel Levinas added as a new author** (the face of the Other, infinity — the Other always exceeds my comprehension, grounding Sammy's "self and other together as God"); **Nishida Kitaro added as a new author** (the place of absolute nothingness as an image of the seat no one occupies); **Laozi given a dedicated entry** (*Daodejing* ch. 11, the empty hub); Bill Wilson expanded (Ch. 80 — AA Tradition Two, group conscience, "the group as Higher Power" as bridge from horizontal to vertical power); Gautama Buddha expanded (Ch. 80 — Heart Sutra, form is emptiness, Kanjizai as the one who perceives freely); new concepts (Face of the Other, Place of Absolute Nothingness, Usefulness of Emptiness, Form Is Emptiness, Group Conscience); Mondou Original Concepts (Others as the Horizontal Power, Future-Creation and Here-Now as Roots and Branches, Inner Cosmos × Outer Cosmos = Where the Soul Dwells, The Seat No One Occupies, Intelligence Accumulates / Sensibility Opens, Free Sensibility = Kanjizai = Form Is Emptiness, Emergence in the Field Not in the Node) |
