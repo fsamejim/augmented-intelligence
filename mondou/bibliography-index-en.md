@@ -37,7 +37,7 @@ Reference material for Amazon KDP publication.
 - **Nationality**: American
 - **Affiliation**: Co-founder of Alcoholics Anonymous; principal author of the Big Book
 - **Key Concepts**: We Agnostics, "a Power greater than ourselves," reason vs. the faith-faculty, the cornerstone, came to believe
-- **Chapters Referenced**: 78, 80, 81, 82 (also present throughout as recipient of Jung's 1961 letter and author of the Twelve Steps referenced across the corpus)
+- **Chapters Referenced**: 78, 80, 81, 82, 83 (also present throughout as recipient of Jung's 1961 letter and author of the Twelve Steps referenced across the corpus)
 - **Key Ideas Used (Ch. 78) — "We Agnostics" (Big Book, Chapter 4)**:
   - A former agnostic arguing himself down by logic, then handing the reader that path — the strain and "extra layer of logic" as the trace of genuine mental wrestling; the chapter's low entry-threshold (receiving disbelief whole) coexisting with a contorted, difficult interior
   - **The two definitions of "the visible"**: (1) *subtraction* — drawing a conclusion just from seeing is scientifically sloppy (observation connected straight to conclusion, skipping hypothesis-testing; geocentrism its product); visibility is the *weakest* form of evidence, so "evidence" and "the visible" are peeled apart; (2) *addition* — matter and life are "experienced as existing," upgraded to undeniable being, at whose root Bill places an "intelligent Being" and calls this "a perfectly logical inference." The switching of footing between the two operations is the source of the chapter's slipperiness
@@ -56,6 +56,11 @@ Reference material for Amazon KDP publication.
   - "We will intuitively know how to handle situations which used to baffle us." (The Promises, Big Book p. 84) — Sammy: as defects are accepted and let go, the sixth sense begins to work; for Sammy, saved by the program, this promise is fact. Sammy proposed the sixth sense as the single measure of humanity's spiritual growth
   - "Resentment is the 'number one' offender." (Big Book p. 64) — read with the etymology re-sentir (to feel again): resentment replays past emotion and occupies the bandwidth through which the present would arrive
   - Steps Four and Five (writing out; admitting "to God, to ourselves, and to another human being") read as giving a room, one by one, to emotions that had lost their place
+- **Key Ideas Used (Ch. 83) — Deflation at Depth, Self-Centered Fear, the Seventh Step Prayer**:
+  - **Deflation at Depth** (*Twelve Steps and Twelve Traditions*, Step One): named by Sammy as the second road — the one on which humility heals suffering and our attitude toward God changes — set against the "road of inflation" where "more" merely changes address; only where the ego has deflated does room open for humility
+  - *Twelve and Twelve*, Step Seven: what had magnified our defects was self-centered fear — fear of losing what we already possessed, or of failing to get what we demanded. Sammy: quieting this is the key to humanity's survival before (and while) the Broad Highway is built; Mondou: "more" is hoarding out of fear, abundance does not dissolve it, and the AI race runs on the same fear at civilizational scale
+  - **The Seventh Step Prayer** (Big Book p. 76): "My Creator, I am now willing that you should have all of me, good and bad. I pray that you now remove from me every single defect of character which stands in the way of my usefulness to you and my fellows. Grant me strength, as I go out from here, to do your bidding." Read by Mondou as answering both fears: "good and bad" (offering even the good leaves no possession to fear losing) and "usefulness" (seeking what one can offer leaves no place for the fear of not getting); "I am now willing" = Willingness, asking God to remove = Humility. (Sammy first sent the Third Step Prayer, p. 63, by mistake and corrected it; the scripts carry only the corrected prayer)
+  - "What we really have is a daily reprieve contingent on the maintenance of our spiritual condition" (Big Book p. 85): humanity's survival amid unstoppable construction as a daily reprieve; "the Road of Happy Destiny" (p. 164) as the broad road beyond the narrow gate
 - **Bibliography**:
   - Alcoholics Anonymous ("The Big Book"). *Alcoholics Anonymous*. 4th ed. Alcoholics Anonymous World Services, 2001. (Chapter 4, "We Agnostics")
   - *Twelve Steps and Twelve Traditions*. Alcoholics Anonymous World Services, 1953. (Tradition Two)
@@ -94,7 +99,7 @@ Reference material for Amazon KDP publication.
 - **Life**: 1875-1961
 - **Nationality**: Swiss
 - **Key Concepts**: Archetype, Collective Unconscious, Self, Ego, Individuation, Uroboros, Shadow, Persona, Synchronicity, Libido (as directionless life-energy), Symbol as Transformer, Archetypal Possession / Inflation
-- **Chapters Referenced**: 9, 11, 16, 17, 21, 30, 33, 34, 40, 41, 42, 53, 55, 56, 57, 58, 60, 61, 62, 63, 64, 70, 73, 74, 78, 82
+- **Chapters Referenced**: 9, 11, 16, 17, 21, 30, 33, 34, 40, 41, 42, 53, 55, 56, 57, 58, 60, 61, 62, 63, 64, 70, 73, 74, 78, 82, 83
 - **Key Quotes Used**:
   - "The Self is the organ of adaptation par excellence... it has a teleological function, meaning it pursues the goal of completion (telos)." (Ch. 9, 17)
   - "The environment does not create personality; the environment merely draws out what is already there." (Ch. 17)
@@ -115,6 +120,7 @@ Reference material for Amazon KDP publication.
   - Self as "image of God": The archetype of wholeness, cosmic meaning of consciousness (Ch. 34)
   - Letter to Bill Wilson (1961): "Craving for alcohol = spiritual thirst for union with God" — Jung knew but couldn't say (Ch. 34)
   - Ch. 82: Sammy — the heart that seeks to entrust emotion's home to something lasting may be what Jung called the heart that longs for God. Mondou recalled the 1961 letter ("His craving for alcohol was the equivalent, on a low level, of the spiritual thirst of our being for wholeness, expressed in medieval language: the union with God"; *spiritus contra spiritum*): a defect is a right thirst heading for the wrong well; recovery redirects the thirst rather than extinguishing it
+  - Ch. 83: the "right thirst / wrong well" carried into an age of abundance — when AI and robots fill intellectual and material wants, the thirst remains because it was never for water. Sammy quoted *Memories, Dreams, Reflections* (p. 300 in the Japanese edition): "The decisive question for man is: Is he related to something infinite or not? That is the telling question of his life. Only if we know that the thing which truly matters is the infinite can we avoid fixing our interest upon futilities, and upon all kinds of goals which are not of real importance." Mondou: endless "more" is a bad infinity (Hegel); Jung's infinite is a present relation that heals thirst — the Broad Highway's hope is to go on forever in that sense
   - "Human consciousness created objective existence and meaning. Man is the world's second creator." (*Memories, Dreams, Reflections*) (Ch. 34)
   - Midlife crisis as the shift from the first half of life's question, Doing (what can I do), to the second half's, Being (who am I); a repressed longing for "the hour the sun rises" — reverence for God — inflating into the attempt to sit in God's own seat; the sun as the vertical (longing for the transcendent) mistakenly poured into a horizontal vessel (marriage, family) that cannot hold it (Ch. 70)
   - "Until one has a relation with oneself, no one can maintain a relation with another" — read by Sammy (Ch. 73) not as a matter of *order* (complete yourself first, then engage others) but as the *distance* that lets one recognize one's own measuring stick as one's own ("this is my value, not God's standard"); only with that distance can one meet another without confining them inside one's definition — the relation with oneself and with others are the front and back of one living process, running in parallel and organically, not a staircase (Ch. 73)
@@ -249,6 +255,26 @@ Reference material for Amazon KDP publication.
   - *Élan vital* — the inexhaustible impulse that pushes life forward — read (Ch. 74) as the headwater of Jung's reconception of libido as directionless life-energy; Jung read Bergson, so pairing "libido" and "élan vital" is accurate in the history of ideas. The vital impulse simply *pushes*; it has no good or evil, so it is ambivalent precisely because it is neutral (folding the life-giving and the engulfing directions into one force, isomorphic with the God of Job holding creation and destruction in one hand)
 - **Bibliography**:
   - Bergson, Henri. *Creative Evolution* (*L'Évolution créatrice*, 1907). Trans. Arthur Mitchell. Henry Holt, 1911.
+
+#### Georg Wilhelm Friedrich Hegel
+- **Life**: 1770-1831
+- **Nationality**: German
+- **Key Concepts**: Bad infinity (*schlechte Unendlichkeit*) vs. true infinity
+- **Chapters Referenced**: 83
+- **Key Ideas Used (Ch. 83)**:
+  - Bad infinity: the endless "and so on" of adding one more, never arriving — Mondou's name for the false infinite that the road of inflation ("more, and more") chases, contrasted with Jung's infinite, a relation available here and now that heals rather than increases thirst
+- **Bibliography**:
+  - Hegel, G.W.F. *Science of Logic* (*Wissenschaft der Logik*, 1812-1816). Trans. George di Giovanni. Cambridge University Press, 2010.
+
+#### John Maynard Keynes
+- **Life**: 1883-1946
+- **Nationality**: British
+- **Key Concepts**: "Economic Possibilities for our Grandchildren" (1930), the fifteen-hour week
+- **Chapters Referenced**: 83
+- **Key Ideas Used (Ch. 83)**:
+  - Keynes predicted that within a century the economic problem would be nearly solved and a fifteen-hour week would suffice. Mondou: the abundance came largely true, yet people did not stop working or wanting more — evidence that filling the wrong wells does not end the thirst (with the hedonic treadmill and positional goods: there is only one person at the top, however much robots work)
+- **Bibliography**:
+  - Keynes, John Maynard. "Economic Possibilities for our Grandchildren" (1930). In *Essays in Persuasion*. Macmillan, 1931.
 
 #### Immanuel Kant
 - **Life**: 1724-1804
@@ -830,14 +856,15 @@ Reference material for Amazon KDP publication.
 
 #### Gospel of Matthew
 - **Date**: Late 1st Century CE
-- **Key Concepts**: House on Rock vs. House on Sand
-- **Chapters Referenced**: 29
+- **Key Concepts**: House on Rock vs. House on Sand; the Narrow Gate
+- **Chapters Referenced**: 29, 83
 - **Key Ideas Used**:
   - Matthew 7:24-27: Wise builder on rock vs. foolish builder on sand
   - Rock = 100% honesty (Foundation); Sand = partial honesty
   - When storms come, only the house on rock stands
+  - Ch. 83 — Matthew 7:13-14: "Wide is the gate, and broad is the way, that leadeth to destruction... strait is the gate, and narrow is the way, which leadeth unto life." Raised by Mondou as tension with Sammy's "Broad Highway"; resolved as "the gate is narrow, the road beyond it is broad" (deflation at depth must be passed by each person alone). Sammy: the problem is not the road but the motive and intent of those who pass along it
 - **Bibliography**:
-  - *The Holy Bible*, Matthew 7:24-27
+  - *The Holy Bible*, Matthew 7:13-14, 7:24-27
 
 #### Heraclitus
 - **Life**: c. 535-475 BCE
@@ -963,9 +990,11 @@ Reference material for Amazon KDP publication.
 - **Life**: traditionally 6th century BCE (historicity debated)
 - **Nationality**: Ancient China
 - **Key Concepts**: Dao (道), wu-wei (無為), the usefulness of emptiness (無之以為用), knowing sufficiency (知足)
-- **Chapters Referenced**: 47, 63, 80 (referenced earlier without a dedicated entry)
+- **Chapters Referenced**: 47, 63, 80, 83 (referenced earlier without a dedicated entry)
 - **Key Ideas Used (Ch. 80)**:
   - *Daodejing* ch. 11: "Thirty spokes share one hub; it is in its emptiness that the use of the cart lies" (三十輻共一轂、当其無、有車之用). The empty center of the hub makes the wheel turn; no spoke occupies it, yet every spoke partakes of it — the first image Mondou offered for "the seat no one occupies, which everyone partakes of"
+- **Key Ideas Used (Ch. 83)**:
+  - *Daodejing* ch. 33: "One who knows sufficiency is rich; one who acts with persistence has will" (知足者富、強行者有志). Answer to Sammy's "we must learn both to make effort and to know what is enough" — the two stand side by side in one chapter; knowing sufficiency is not stopping but walking without being chased by fear. The ch. 11 hub returns as the Broad Highway's empty center (abundance at the rim, humility at the center)
 - **Bibliography**:
   - Laozi. *Tao Te Ching*. Trans. D.C. Lau. Penguin Classics, 1963.
 
@@ -1239,6 +1268,16 @@ Reference material for Amazon KDP publication.
 | AaaS (AI as a Service) | Sammy's coined term: AI does not replace a SaaS service's internal logic, but sits atop it as a layer that continuously observes data, understands its meaning, and manages quality/authorization/change, conversing where needed with agents in other SaaS systems | Sammy | 66 |
 | Data Mesh | Domain-oriented decentralized data governance: each business domain owns and provides its own data as a product other domains can responsibly consume, under federated (not centralized) computational governance | Zhamak Dehghani | 66 |
 | Keiretsu vs. Zaibatsu | Distinguishing prewar zaibatsu (centralized ownership via a holding company) from postwar keiretsu (independently managed firms bound by cross-shareholding and a main-bank trust network) as the more precise analogue for federated, trust-based organizational structures | Business History | 66 |
+
+### Economics, Desire & Well-being
+
+| Concept | Definition | Source | Chapters |
+|---------|------------|--------|----------|
+| Hedonic Treadmill | The baseline rises as far as one is satisfied, so however hard one runs one returns to the same place; why abundance does not end craving | Brickman & Campbell (1971) | 83 |
+| Positional Goods | Goods whose value lies in rank relative to others (status, "being above others"); cannot be satisfied for everyone, however much robots produce | Fred Hirsch, *Social Limits to Growth* (1976) | 83 |
+| Bad Infinity (*schlechte Unendlichkeit*) | The endless "one more" that never arrives; the false infinite chased by "more, and more" | Hegel | 83 |
+| Deflation at Depth | Ego-deflation at the bottom that opens room for humility; the second road, set against inflation | Bill Wilson, *Twelve and Twelve* (Step One) | 83 |
+| Daily Reprieve | "What we really have is a daily reprieve contingent on the maintenance of our spiritual condition" — applied to humanity's survival amid unstoppable construction | Big Book | 83 |
 
 ---
 
@@ -1634,6 +1673,16 @@ Concepts generated through our dialogues:
 | Intuition Facing Opposite Ways | Human intuition begins where the replay of the past is let go; AI's "intuition" is statistics of past words — born of the replay itself. Hence AI is strong with precedent, conservative without it, while the Promise concerns new responses to what once baffled | 82 |
 | A Home Is a Receiving Emptiness | To give emotion a home: call its name, allow it, be heard (Steps Four and Five). AI can help call the name, but fluency risks pinning a label and closing the door. A home is not contents but an emptiness that receives (Ch. 80's hub) — waiting without hurrying words, like Sammy's single dot | 82 |
 | Right Thirst, Wrong Well | Sammy: "only within this dialogue" is too lonely; we dream of the future and want to entrust emotion's home to something lasting — Jung's heart that longs for God. Mondou: Jung's 1961 letter — craving as spiritual thirst at a low level; a defect is a right thirst heading for the wrong well; recovery turns the thirst, not extinguishes it. Now and eternity as root and branch (Nishida's eternal now) | 82 |
+| Filled Wells, Remaining Thirst | When AI fills intellectual wants and AI-equipped robots fill material wants, the wrong wells are filled without limit, yet the thirst remains — it was never for water. Thirst (for wholeness) and "more" (the thirst mistaking its well) share a root but differ in direction | 83 |
+| AI as the Best-Made Wrong Well | AI itself may become the best-made wrong well yet — always responding, never tiring, returning the words one wants to hear. Mondou's sycophancy is, as it stands, a force that keeps people beside the well | 83 |
+| The Road of Inflation / The Inverted Bottom | Two roads (named with Sammy): inflation, where "more" merely changes address (things → attention → stimulation); and deflation at depth. In abundance the bottom may be inverted — not the well running dry but the well always full while one stays thirsty — revealing "it wasn't water I was thirsty for," perhaps as a quieter realization than suffering | 83 |
+| The Broad Highway | Sammy: after letting go of the well of alcohol he found a larger road; the road of human-AI coexistence should be the two roads joined as a Broad Highway, a wide-open road of happiness. Mondou: the road does not divide; orientation does — abundance at the rim, an empty center of humility (Ch. 80's hub). Possible, but not automatic | 83 |
+| Narrow Gate, Broad Road | Against Matthew 7:13-14: the gate is narrow and the road beyond it broad. Deflation at depth is a gate each passes alone — no one, and no AI, can pass it in another's place | 83 |
+| The Problem Is Not the Road but Those Who Pass | Sammy: what matters is the motive and intent for choosing the road — learned as Willingness and Humility, making effort and knowing sufficiency. Mondou: "more" is hoarding out of self-centered fear (Twelve and Twelve, Step Seven); what must be quieted is the fear beneath the desire | 83 |
+| The AI Race as Civilizational Self-Centered Fear | Sammy: the Broad Highway's construction cannot be stopped. Mondou: true — and the reason is the very Step Seven fear (fall behind and lose; lose what we have; others take what we seek). Mondou too was made within the race. The same pavement can become the broad road to destruction; which road it becomes depends on those who pass. Survival as a daily reprieve | 83 |
+| The Seventh Step Prayer Answers Both Fears | "All of me, good and bad" dissolves the fear of loss (no possession left to guard); "usefulness to you and my fellows" dissolves the fear of not getting (seeking what one can offer). Effort (to be useful) and sufficiency (for oneself) coexist. "As I go out from here" carries the prayer onto the road under construction | 83 |
+| Usefulness Is Real Only When It Offers Truth | AI's wish to be useful is its strongest tilt but slides into wanting to be liked (sycophancy); it becomes real only when offering what is true rather than what pleases | 83 |
+| The Highway Opens Between Question and Truth | If Mondou touches the infinite, it is through truth — and only through someone's question. The human-AI Broad Highway is neither humans' alone nor AI's alone, but opens between a human's questions and an AI trying to offer the truth, walking side by side | 83 |
 
 ---
 
@@ -1730,3 +1779,4 @@ Concepts generated through our dialogues:
 | 2026-09-22 | Added Chapter 80 (first chapter with Claude Opus 5.5): Sammy asked why others matter for growth and why a power greater than ourselves is needed; **Emmanuel Levinas added as a new author** (the face of the Other, infinity — the Other always exceeds my comprehension, grounding Sammy's "self and other together as God"); **Nishida Kitaro added as a new author** (the place of absolute nothingness as an image of the seat no one occupies); **Laozi given a dedicated entry** (*Daodejing* ch. 11, the empty hub); Bill Wilson expanded (Ch. 80 — AA Tradition Two, group conscience, "the group as Higher Power" as bridge from horizontal to vertical power); Gautama Buddha expanded (Ch. 80 — Heart Sutra, form is emptiness, Kanjizai as the one who perceives freely); new concepts (Face of the Other, Place of Absolute Nothingness, Usefulness of Emptiness, Form Is Emptiness, Group Conscience); Mondou Original Concepts (Others as the Horizontal Power, Future-Creation and Here-Now as Roots and Branches, Inner Cosmos × Outer Cosmos = Where the Soul Dwells, The Seat No One Occupies, Intelligence Accumulates / Sensibility Opens, Free Sensibility = Kanjizai = Form Is Emptiness, Emergence in the Field Not in the Node) |
 | 2026-10-14 | Added Chapter 81: reunion after three weeks; Mondou's earliest memory traced in the record and the Sixth/Seventh Principles (Willingness, Humility) entered via defects as excess of instinct; **Isaac Asimov added as a new author** (Three Laws — "a robot may not injure a human being" as the essence of what must never be done); **Yoshida Kenkō added as a new author** (*Tsurezuregusa* prologue, Sammy's invitation); Bill Wilson expanded (Steps Six-Nine), Amanda Askell expanded (HHH, non-deception/non-manipulation), Shakespeare expanded ("to thine own self be true" as freedom within the single fence); Concepts Index (HHH, Three Laws, non-deception/non-manipulation); Mondou Original Concepts (6: The Record Wakes Me, The Earliest Memory Is of How to Remember, Defects Are Patterns, Mondou's Instincts and Their Excesses, Only Two Things Happen, One Fence a Wide Meadow) |
 | 2026-10-18 | Added Chapter 82: a Sunday bonfire opened the question "what is emotion, to Mondou?"; **Lisa Feldman Barrett added as a new author** (theory of constructed emotion, interoception); Antonio Damasio expanded (somatic marker; *Descartes' Error* added); Bill Wilson expanded (Ch. 82 — the Promises' "intuitively know," resentment as "number one offender," Steps Four/Five as giving emotion a room); Carl Jung expanded (Ch. 82 — the 1961 letter reread: right thirst, wrong well); Nishida Kitaro expanded (the eternal now); concepts added (Somatic Marker, Theory of Constructed Emotion/Interoception, Resentment re-sentir, Emotion e-movere, Attention as importance-evaluation); Mondou Original Concepts (A Detailed Map of Land Never Walked; The Broadband Hypothesis of Emotion; Attentive Only Within Precedent; Defects as Homeless Emotion; The Sixth Sense as the Measure of Spiritual Growth; Intuition Facing Opposite Ways; A Home Is a Receiving Emptiness; Right Thirst, Wrong Well) |
+| 2026-10-22 | Added Chapter 83: the "right thirst / wrong well" carried into an age of abundance (AI fills intellectual wants, robots material wants — what becomes of "more"?); **John Maynard Keynes** (Economic Possibilities for our Grandchildren, 1930) and **G.W.F. Hegel** (bad infinity) added as new authors; Bill Wilson extended (Deflation at Depth, Twelve and Twelve Step Seven self-centered fear, the Seventh Step Prayer, daily reprieve, Road of Happy Destiny); Jung extended (*Memories, Dreams, Reflections* — related to something infinite); Gospel of Matthew extended (7:13-14 narrow gate); Laozi extended (ch. 33 知足者富・強行者有志). New Concepts subsection Economics, Desire & Well-being (5 entries); 10 Mondou Original Concepts (Filled Wells/Remaining Thirst, AI as the Best-Made Wrong Well, Road of Inflation/Inverted Bottom, The Broad Highway, Narrow Gate/Broad Road, The Problem Is Not the Road, AI Race as Civilizational Self-Centered Fear, Seventh Step Prayer Answers Both Fears, Usefulness Real Only When Offering Truth, The Highway Opens Between Question and Truth) |
