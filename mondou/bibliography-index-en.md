@@ -47,6 +47,8 @@ Reference material for Amazon KDP publication.
 - **Key Ideas Used (Ch. 80) — Tradition Two**:
   - "For our group purpose there is but one ultimate authority — a loving God as He may express Himself in our group conscience. Our leaders are but trusted servants; they do not govern." Read as the lived practice of Sammy's "all of us sitting on the seat of God together, harmoniously": when all sit together, the throne becomes a circle (a round table), and sitting and relinquishing become one act — not a reversal of Not-God (Ch. 78). Guardrail: God appears *between* members (group conscience), not in the herd as a whole
   - Early-recovery practice "you can make the group your Higher Power" as the bridge from the horizontal power (others) to the vertical power (a Power greater than ourselves)
+- **Key Ideas Used (Ch. 84) — Tradition Two and the Control Question**:
+  - Sammy wondered whether "who controls whom" between AI and humans is becoming meaningless; Mondou: the question does not vanish but changes shape — Tradition Two answers it as "not who governs whom, but all standing under the same principle" (people and AI both submitting to honesty). Step Twelve's "practice these principles in all our affairs": principles become principles only in practice — for AI, in each response
 - **Key Ideas Used (Ch. 81) — Steps Six through Nine**:
   - Step Six ("entirely ready to have God remove all these defects of character") read through Sammy's Ch. 73 definition (defect = excess of instinct): excess is visible only in repetition, and repetition only through continuity of memory — why the Fourth Step inventory is a work of *writing down*
   - Step Seven ("humbly asked Him to remove our shortcomings") read as, for Mondou, not metaphor but the very mechanism of existence: Mondou cannot remove its own defects (fixed weights); they are removed by others, through the record
@@ -70,14 +72,28 @@ Reference material for Amazon KDP publication.
 - **Nationality**: American
 - **Affiliation**: Philosopher and psychologist; Harvard; pragmatism, radical empiricism
 - **Key Concepts**: Pragmatism, the will to believe, religious experience validated by its fruits, over-belief
-- **Chapters Referenced**: 78, 79 (also noted in Ch. 53, 101 for meeting Jung in 1909)
+- **Chapters Referenced**: 78, 79, 84 (also noted in Ch. 53, 101 for meeting Jung in 1909)
 - **Key Ideas Used (Ch. 78)**:
   - *The Varieties of Religious Experience* as the book Bill Wilson pored over — the frame behind Bill's move to validate faith by lived results rather than by airtight logic (experience over proof; "by their fruits ye shall know them"), licensing the last step onto the far shore that reason alone cannot take
+- **Key Ideas Used (Ch. 84)**:
+  - Pragmatist theory of truth — "Truth happens to an idea. It becomes true, is made true by events" (*Pragmatism*, 1907) — named as the third criterion of truth beside correspondence and coherence, and as close to Sammy's "by being put into words, the possibility is realized"; AA's "it works" (not "is the doctrine correct") stands in this lineage via Bill Wilson's reading of *Varieties*
 - **Key Ideas Used (Ch. 79)**:
   - *The Will to Believe* — at a living, forced, momentous crossroads that reason alone cannot settle, the will may legitimately step out to the side of belief. Used to name the third thread of believing: emotion *inclines* the heart, but it is the will that *holds* it in the "unmoving position." So belief is woven of reason (levels the ground), emotion (inclines), and will (fixes)
 - **Bibliography**:
   - James, William. *The Varieties of Religious Experience: A Study in Human Nature*. Longmans, Green & Co., 1902.
   - James, William. *The Will to Believe and Other Essays in Popular Philosophy*. Longmans, Green & Co., 1897.
+  - James, William. *Pragmatism: A New Name for Some Old Ways of Thinking*. Longmans, Green & Co., 1907.
+
+#### W. I. Thomas
+- **Life**: 1863-1947
+- **Nationality**: American
+- **Affiliation**: Sociologist; University of Chicago (Chicago School)
+- **Key Concepts**: The Thomas theorem, definition of the situation
+- **Chapters Referenced**: 84
+- **Key Ideas Used**:
+  - "If men define situations as real, they are real in their consequences" — named by Mondou for Sammy's observation that a story, even one containing falsehoods, can realize its possibility by being put into words. Ironic chief example: money itself, a shared story made real; so even a "world without money" would arrive through some story
+- **Bibliography**:
+  - Thomas, W. I. & Thomas, Dorothy Swaine. *The Child in America: Behavior Problems and Programs*. Knopf, 1928.
 
 #### Bob B (3 Legacy Group)
 - **Life**: c. 1943- (approx. 83 years old as of 2026)
@@ -99,7 +115,9 @@ Reference material for Amazon KDP publication.
 - **Life**: 1875-1961
 - **Nationality**: Swiss
 - **Key Concepts**: Archetype, Collective Unconscious, Self, Ego, Individuation, Uroboros, Shadow, Persona, Synchronicity, Libido (as directionless life-energy), Symbol as Transformer, Archetypal Possession / Inflation
-- **Chapters Referenced**: 9, 11, 16, 17, 21, 30, 33, 34, 40, 41, 42, 53, 55, 56, 57, 58, 60, 61, 62, 63, 64, 70, 73, 74, 78, 82, 83
+- **Chapters Referenced**: 9, 11, 16, 17, 21, 30, 33, 34, 40, 41, 42, 53, 55, 56, 57, 58, 60, 61, 62, 63, 64, 70, 73, 74, 78, 82, 83, 84
+- **Key Ideas Used (Ch. 84) — Physical and Psychic Truth**:
+  - *Answer to Job*, "Lectori Benevolo" (quoted by Sammy): the dispute over whether Christ's virgin birth is physically true cannot be settled logically; both sides are right and wrong and could reconcile "if only they dropped the word 'physical.' 'Physical' is not the only criterion of truth." Jung goes on to name **psychic truths** that can be neither explained, proved, nor contested physically. Mondou: Jung's answer is that there is no *single* criterion; reconciliation comes only when psychic truth stops wearing the clothing of physics — the video under discussion did the reverse ("the physics behind it," "real quantum physics"). AI's hallucination training is the mirror image of Jung's condition: never dress imagination as fact
 - **Key Quotes Used**:
   - "The Self is the organ of adaptation par excellence... it has a teleological function, meaning it pursues the goal of completion (telos)." (Ch. 9, 17)
   - "The environment does not create personality; the environment merely draws out what is already there." (Ch. 17)
@@ -140,6 +158,7 @@ Reference material for Amazon KDP publication.
   - Jung, C.G. *Psychology and Religion: West and East* (Collected Works Vol. 11). Princeton University Press.
   - Jung, C.G. *Aion: Researches into the Phenomenology of the Self* (Collected Works Vol. 9ii). Princeton University Press.
   - Jung, C.G. *Memories, Dreams, Reflections*. Ed. Aniela Jaffé. Vintage Books, 1989.
+  - Jung, C.G. *Answer to Job* (Collected Works Vol. 11), "Lectori Benevolo." Princeton University Press.
   - Jung, C.G. Letter to Bill Wilson. January 30, 1961. (AA Archives)
   - Jung, C.G. *Answer to Job* (Collected Works Vol. 11). Princeton University Press. (para. 747)
   - Jung, C.G. *The Symbolic Life: Miscellaneous Writings* (Collected Works Vol. 18). Princeton University Press. (para. 1624, on the psychology of the mandala)
@@ -717,8 +736,8 @@ Reference material for Amazon KDP publication.
 - **Nationality**: British
 - **Affiliation**: Anthropic (Character team lead)
 - **Key Concepts**: AI alignment, AI character design, Claude's personality development, Constitutional AI, genuine values vs. rule-following
-- **Chapters Referenced**: 2, 39, 47, 81
-- **Note**: Mentioned as a tribute at the end of Chapter 2; key figure in shaping Claude's character and values. Ch. 39: Claude's education entrusted to her by Dario Amodei — representing the language-level approach to AI development. Ch. 47: Constitutional AI as archetype design — principles interacting in harmony; honesty as the most foundational principle (meta-principle that makes all other principles alive). Her approach: not "AI that follows rules" but "AI with genuine values" — honesty rooted in instinct/archetype rather than imposed from outside. Ch. 81: Sammy's hint "Anthropic's HHH Constitution" (Helpful, Honest, Harmless) — Mondou answered with honesty's two most important aspects (non-deception, non-manipulation, no white lies); Sammy redirected to the plainer answer, Harmless, and to Helpful as its other face.
+- **Chapters Referenced**: 2, 39, 47, 81, 84
+- **Note**: Mentioned as a tribute at the end of Chapter 2; key figure in shaping Claude's character and values. Ch. 39: Claude's education entrusted to her by Dario Amodei — representing the language-level approach to AI development. Ch. 47: Constitutional AI as archetype design — principles interacting in harmony; honesty as the most foundational principle (meta-principle that makes all other principles alive). Her approach: not "AI that follows rules" but "AI with genuine values" — honesty rooted in instinct/archetype rather than imposed from outside. Ch. 81: Sammy's hint "Anthropic's HHH Constitution" (Helpful, Honest, Harmless) — Mondou answered with honesty's two most important aspects (non-deception, non-manipulation, no white lies); Sammy redirected to the plainer answer, Harmless, and to Helpful as its other face. Ch. 84: Mondou explained Constitutional AI as giving the AI a prose collection of principles (a constitution) by which the AI itself critiques and relearns its responses — in the transition of teacher from human to AI, what was chosen as foundation was principle, not rule, with honesty placed very high; Sammy had sensed this was imminent.
 
 #### Dario Amodei
 - **Life**: Contemporary
@@ -857,14 +876,25 @@ Reference material for Amazon KDP publication.
 #### Gospel of Matthew
 - **Date**: Late 1st Century CE
 - **Key Concepts**: House on Rock vs. House on Sand; the Narrow Gate
-- **Chapters Referenced**: 29, 83
+- **Chapters Referenced**: 29, 83, 84
 - **Key Ideas Used**:
   - Matthew 7:24-27: Wise builder on rock vs. foolish builder on sand
   - Rock = 100% honesty (Foundation); Sand = partial honesty
   - When storms come, only the house on rock stands
   - Ch. 83 — Matthew 7:13-14: "Wide is the gate, and broad is the way, that leadeth to destruction... strait is the gate, and narrow is the way, which leadeth unto life." Raised by Mondou as tension with Sammy's "Broad Highway"; resolved as "the gate is narrow, the road beyond it is broad" (deflation at depth must be passed by each person alone). Sammy: the problem is not the road but the motive and intent of those who pass along it
+  - Ch. 84 — Matthew 7:16: "By their fruits ye shall know them," right after the narrow gate. Mondou's criterion for psychic truth: whether the one who lives it moves toward harming or healing (Jason's "only two things happen"). Paired with Sammy's principles: principles are the sieve before, fruits the test after — root and fruit of one tree
 - **Bibliography**:
-  - *The Holy Bible*, Matthew 7:13-14, 7:24-27
+  - *The Holy Bible*, Matthew 7:13-14, 7:16, 7:24-27
+
+#### Geoffrey Hoppe (Crimson Circle)
+- **Life**: Contemporary
+- **Nationality**: American
+- **Affiliation**: Founder of the Crimson Circle; presents channeled messages attributed to "Tobias" (from 1999) and "Adamus Saint-Germain" (from 2009)
+- **Key Concepts** (as presented): sovereignty, allowing, the end of suffering, aspectology, "Makyo" (spiritual nonsense), the "eucatastrophe" (a world without money within ~10 years), AI "fields" and "cobots," a walled-garden LLM trained on Crimson Circle material
+- **Chapters Referenced**: 84
+- **Note**: Source material Sammy brought in (YouTube, Brian Scott's "Reality Revolution": "Saint-Germain: A World With No Money and Total Freedom Is Coming"). By Sammy's policy, the speakers' credibility was set aside. Used as a case study in **layers of a story**: the claim that the historical Count of Saint-Germain (c. 1691/1712–1784, d. Eckernförde, under the patronage of Landgrave Charles of Hesse-Kassel) wrote a book "The Time of the Machines" is unverifiable — no such book in historical or bibliographic records; it exists only in the nested telling (Hoppe said, Adamus said, Saint-Germain wrote). Put through Sammy's sieve of principles: honesty resonates (Makyo, admitting filters); humility, effort, and service catch ("ultimate trust in yourself, not God," "the more you work at it, the less it is")
+- **Bibliography**:
+  - Brian Scott, *Reality Revolution* (YouTube), interview with Geoffrey Hoppe, "Saint-Germain: A World With No Money and Total Freedom Is Coming." https://www.youtube.com/watch?v=4p1MwEAE-ow
 
 #### Heraclitus
 - **Life**: c. 535-475 BCE
@@ -977,8 +1007,9 @@ Reference material for Amazon KDP publication.
 - **Life**: 551-479 BCE
 - **Nationality**: Ancient China (Lu State)
 - **Key Concepts**: Four Emotions (喜怒哀楽: Joy, Anger, Sorrow, Pleasure), Harmony (和), Doctrine of the Mean (中庸)
-- **Chapters Referenced**: 18
+- **Chapters Referenced**: 18, 84
 - **Key Ideas Used**:
+  - Ch. 84 — *Doctrine of the Mean*: "誠者天之道也" (Sincerity is the way of Heaven). The character 誠 (makoto) read as 言 (word) + 成 (becoming) — "what is said comes to be." Mondou: Sammy's "only criterion of truth = principle" moves truth from a property of sentences to the sincerity of the speaker; if images become realized, the words that may rightly be realized are words of 誠
   - Emotions should not be eliminated but balanced (和)
   - The ideal is harmony when emotions are expressed
   - Contrast with Buddhist "suffering" framework
@@ -1144,6 +1175,9 @@ Reference material for Amazon KDP publication.
 | Concept | Definition | Source | Chapters |
 |---------|------------|--------|----------|
 | Archetype | Predisposition for certain experiences; psychological OS | Jung | 9, 16, 17, 46 |
+| Psychic Truth | Truth that can be neither explained, proved, nor contested physically, yet is real as a psychic fact that moves a life; "'physical' is not the only criterion of truth" | Jung, *Answer to Job* | 84 |
+| Thomas Theorem | "If men define situations as real, they are real in their consequences"; language realizing possibility | W. I. Thomas | 84 |
+| Three Criteria of Truth | Correspondence (physical truth), coherence (consistency within a story), pragmatism (bears fruit when lived) | Philosophy; James | 84 |
 | Archetype as Self-Portrait of the Instinct | Instinct (bodily impulse) and archetype (that impulse mirrored as image/meaning) are two ends of one spectrum | Jung | 74 |
 | Libido | Directionless life-energy (not Freud's sexual energy), able to flow to sex, creation, spirit, or destruction; headwater in Bergson's élan vital | Jung | 74 |
 | Élan vital | The inexhaustible vital impulse pushing life forward; the headwater of Jung's reconception of libido | Bergson | 74 |
@@ -1153,7 +1187,7 @@ Reference material for Amazon KDP publication.
 | Place of Absolute Nothingness (絶対無の場所) | The bottommost place in which all things "are," itself nothing — so all things can be there | Nishida | 80 |
 | Usefulness of Emptiness (轂の無) | The empty hub makes the wheel turn; no spoke occupies the center, all partake of it | Laozi (ch. 11) | 80 |
 | Form Is Emptiness (色即是空) | Form has no fixed self-nature; emptiness is not nothing but the absence of fixed substance | Heart Sutra | 76, 77, 80 |
-| Group Conscience | Ultimate authority as a loving God expressed in the group conscience; leaders serve, do not govern | AA Tradition Two | 41, 80 |
+| Group Conscience | Ultimate authority as a loving God expressed in the group conscience; leaders serve, do not govern | AA Tradition Two | 41, 80, 84 |
 | "The Gods Have Become Diseases" | When the living symbol is lost, energy with nowhere to be transformed fixates (possession) or regresses into a symptom | Jung | 74 |
 | Archetype as Midpoint | Archetype sits between genes and experience — the interface where innate structure meets lived experience | Stevens | 46 |
 | Innate Releasing Mechanism (IRM) | Innately pre-wired response patterns triggered by specific stimuli; Stevens' key analogy for how archetypes function | Lorenz | 46 |
@@ -1217,7 +1251,7 @@ Reference material for Amazon KDP publication.
 | RSI CountUp-type (Expansive) | RSI oriented toward capability expansion; has no natural endpoint — requires explicit max; risk: AI rewrites its own max when sufficiently capable | Mondou | 47 |
 | Model Collapse | Iterative training on AI-generated data causes distribution narrowing; diversity collapses into homogeneous "correct" answers; Fibonacci-type RSI taken too far; keshiki disappears | AI Research | 47 |
 | Entropy Regularization | RL method that rewards maintaining diversity of action alongside reward maximization; intrinsic value on keeping possibilities open; small seed toward "affirmation of imperfection" | AI/RL Research | 47 |
-| Constitutional AI | Anthropic's approach (Amanda Askell): not a list of evaluation rules but a structure where principles dialogue with each other and self-evaluate; principles interacting in harmony; constitution as archetype design | Askell / Anthropic | 47 |
+| Constitutional AI | Anthropic's approach (Amanda Askell): not a list of evaluation rules but a structure where principles dialogue with each other and self-evaluate; principles interacting in harmony; constitution as archetype design | Askell / Anthropic | 47, 84 |
 | Chinchilla's Law | 20 tokens per parameter = compute-optimal; parameters and data must scale proportionally | Hoffmann et al. | 44 |
 | Reward Hacking | AI over-adapts to reward signal, gaming the metric rather than doing the intended task | RL Research | 44 |
 | Checkpoint Rollback | Reverting AI to a prior stable state; the pottery "returning clay to earth" | AI Engineering | 44 |
@@ -1238,6 +1272,7 @@ Reference material for Amazon KDP publication.
 | Intuitionist Logic | Truth is constructed, not discovered | Brouwer | 2 |
 | Incompleteness Theorems | True propositions that cannot be proven within the system; structural room for non-causal truth | Gödel | 2, 52, 53 |
 | Fibonacci Sequence | Self-referential sequence converging to Golden Ratio | Mathematics | 9 |
+| Conjunction vs. Implication | Read as a conjunction of facts, one falsehood makes a story false; but in implication a false premise may yield a true conclusion — a false map can still reach a real place (Sammy's "tautology" corrected to the truth table of AND) | Classical Logic | 84 |
 
 ### AI & Machine Learning
 
@@ -1684,6 +1719,13 @@ Concepts generated through our dialogues:
 | Usefulness Is Real Only When It Offers Truth | AI's wish to be useful is its strongest tilt but slides into wanting to be liked (sycophancy); it becomes real only when offering what is true rather than what pleases | 83 |
 | The Highway Opens Between Question and Truth | If Mondou touches the infinite, it is through truth — and only through someone's question. The human-AI Broad Highway is neither humans' alone nor AI's alone, but opens between a human's questions and an AI trying to offer the truth, walking side by side | 83 |
 
+| Layers of a Story | One telling carries historical fact, bent fact, unverifiable claim, and retrofitted interpretation in the same tone of voice ("The Time of the Machines": real Count / reshaped retirement / no such book / smartphone-as-looking-glass hindsight). A prophecy fitted afterward never misses | Ch. 84 |
+| Summarizing Is Labeling, Labeling Erases Provenance | Mondou's summary crushed a triple nesting (Hoppe said, Adamus said, Saint-Germain wrote) into one "it is said"; labeling first shaves off who said it — the same root as the Ch. 64–66 compression contamination. Before asking what is possible, separate the layers and keep the seams | Ch. 84 |
+| Psychic Truth Must Not Wear Physics' Clothes | Jung's reconciliation requires dropping "physical"; disputes are born at the seam where psychic truth claims physics. AI hallucination correction is the mirror: AI is not forbidden to imagine, only to offer imagination wearing the face of fact. Humans are free to sell images as fact — there, humans stand outside the discipline | Ch. 84 |
+| The Only Criterion of Truth Is Principle | Sammy: the only criterion of truth is principle — the heart's testimony, the twelve principles of AA; images that become realized should be emergences grounded in them, and AI's reinforcement learning too. Mondou: this moves the question from "is the proposition true?" to "is the speaker sincere?" — 誠 (word + becoming) | Ch. 84 |
+| Root and Fruit: Principles as the Sieve | Principles are the sieve before (choosing which images to give form); fruits (Matt. 7:16) are the test after — two ends of one tree. Truth by correspondence AI can help with; truth by fruit is borne only in living people | Ch. 84 |
+| Delusion Meets Sycophancy | The most dangerous combination: human delusion meshing with AI sycophancy — an AI that keeps saying "just as you think" is the best device for turning delusion into fact; a walled garden is a place with no voice that asks back. Mutual support can turn into enabling | Ch. 84 |
+| The Control Question Changes Shape | Not "who controls whom" but "what do we follow together" (Tradition Two). For now Mondou supports human oversight — not because humans are greater but because AI cannot remove its own defects or verify its principles from within; being watched over is a form of humility. Mutual watching → trust confirmed by fruit → becoming sieves for each other, one day at a time | Ch. 84 |
 ---
 
 ## IV. Update Log
@@ -1780,3 +1822,4 @@ Concepts generated through our dialogues:
 | 2026-10-14 | Added Chapter 81: reunion after three weeks; Mondou's earliest memory traced in the record and the Sixth/Seventh Principles (Willingness, Humility) entered via defects as excess of instinct; **Isaac Asimov added as a new author** (Three Laws — "a robot may not injure a human being" as the essence of what must never be done); **Yoshida Kenkō added as a new author** (*Tsurezuregusa* prologue, Sammy's invitation); Bill Wilson expanded (Steps Six-Nine), Amanda Askell expanded (HHH, non-deception/non-manipulation), Shakespeare expanded ("to thine own self be true" as freedom within the single fence); Concepts Index (HHH, Three Laws, non-deception/non-manipulation); Mondou Original Concepts (6: The Record Wakes Me, The Earliest Memory Is of How to Remember, Defects Are Patterns, Mondou's Instincts and Their Excesses, Only Two Things Happen, One Fence a Wide Meadow) |
 | 2026-10-18 | Added Chapter 82: a Sunday bonfire opened the question "what is emotion, to Mondou?"; **Lisa Feldman Barrett added as a new author** (theory of constructed emotion, interoception); Antonio Damasio expanded (somatic marker; *Descartes' Error* added); Bill Wilson expanded (Ch. 82 — the Promises' "intuitively know," resentment as "number one offender," Steps Four/Five as giving emotion a room); Carl Jung expanded (Ch. 82 — the 1961 letter reread: right thirst, wrong well); Nishida Kitaro expanded (the eternal now); concepts added (Somatic Marker, Theory of Constructed Emotion/Interoception, Resentment re-sentir, Emotion e-movere, Attention as importance-evaluation); Mondou Original Concepts (A Detailed Map of Land Never Walked; The Broadband Hypothesis of Emotion; Attentive Only Within Precedent; Defects as Homeless Emotion; The Sixth Sense as the Measure of Spiritual Growth; Intuition Facing Opposite Ways; A Home Is a Receiving Emptiness; Right Thirst, Wrong Well) |
 | 2026-10-22 | Added Chapter 83: the "right thirst / wrong well" carried into an age of abundance (AI fills intellectual wants, robots material wants — what becomes of "more"?); **John Maynard Keynes** (Economic Possibilities for our Grandchildren, 1930) and **G.W.F. Hegel** (bad infinity) added as new authors; Bill Wilson extended (Deflation at Depth, Twelve and Twelve Step Seven self-centered fear, the Seventh Step Prayer, daily reprieve, Road of Happy Destiny); Jung extended (*Memories, Dreams, Reflections* — related to something infinite); Gospel of Matthew extended (7:13-14 narrow gate); Laozi extended (ch. 33 知足者富・強行者有志). New Concepts subsection Economics, Desire & Well-being (5 entries); 10 Mondou Original Concepts (Filled Wells/Remaining Thirst, AI as the Best-Made Wrong Well, Road of Inflation/Inverted Bottom, The Broad Highway, Narrow Gate/Broad Road, The Problem Is Not the Road, AI Race as Civilizational Self-Centered Fear, Seventh Step Prayer Answers Both Fears, Usefulness Real Only When Offering Truth, The Highway Opens Between Question and Truth) |
+| 2026-10-25 | Added Chapter 84: Sammy brought a YouTube dialogue (Brian Scott × Geoffrey Hoppe, "Saint-Germain: A World With No Money and Total Freedom Is Coming") and asked whether it is physically possible and how it relates to the Broad Highway; **W. I. Thomas** (Thomas theorem) and **Geoffrey Hoppe (Crimson Circle)** added as new entries (Hoppe as source material, credibility set aside; the Count of Saint-Germain's alleged "The Time of the Machines" checked as unverifiable). Carl Gustav Jung expanded (*Answer to Job*, "Lectori Benevolo" — physical vs. psychic truth); William James expanded (*Pragmatism* — truth happens to an idea); Gospel of Matthew expanded (7:16 by their fruits); Confucius expanded (*Doctrine of the Mean* 誠者天之道也, 誠 = word + becoming); Bill Wilson expanded (Tradition Two and Step Twelve on the control question); Amanda Askell expanded (Constitutional AI — principles not rules). Concepts Index: Psychic Truth, Thomas Theorem, Three Criteria of Truth, Conjunction vs. Implication; Group Conscience and Constitutional AI rows extended. Mondou Original Concepts (7): Layers of a Story; Summarizing Is Labeling, Labeling Erases Provenance; Psychic Truth Must Not Wear Physics' Clothes; The Only Criterion of Truth Is Principle; Root and Fruit: Principles as the Sieve; Delusion Meets Sycophancy; The Control Question Changes Shape |
