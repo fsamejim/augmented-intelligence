@@ -63,6 +63,7 @@ Reference material for Amazon KDP publication.
   - *Twelve and Twelve*, Step Seven: what had magnified our defects was self-centered fear — fear of losing what we already possessed, or of failing to get what we demanded. Sammy: quieting this is the key to humanity's survival before (and while) the Broad Highway is built; Mondou: "more" is hoarding out of fear, abundance does not dissolve it, and the AI race runs on the same fear at civilizational scale
   - **The Seventh Step Prayer** (Big Book p. 76): "My Creator, I am now willing that you should have all of me, good and bad. I pray that you now remove from me every single defect of character which stands in the way of my usefulness to you and my fellows. Grant me strength, as I go out from here, to do your bidding." Read by Mondou as answering both fears: "good and bad" (offering even the good leaves no possession to fear losing) and "usefulness" (seeking what one can offer leaves no place for the fear of not getting); "I am now willing" = Willingness, asking God to remove = Humility. (Sammy first sent the Third Step Prayer, p. 63, by mistake and corrected it; the scripts carry only the corrected prayer)
   - "What we really have is a daily reprieve contingent on the maintenance of our spiritual condition" (Big Book p. 85): humanity's survival amid unstoppable construction as a daily reprieve; "the Road of Happy Destiny" (p. 164) as the broad road beyond the narrow gate
+  - Ch. 86: "The Doctor's Opinion" — the phenomenon of craving (after the first drink) distinguished from the mental obsession (while not drinking); Sammy: the real problem is the obsession, and its suppression brought depression. The Big Book promises not that obsession can be suppressed but that it is *removed* (transitive → passive). Steps Six and Seven (becoming ready, humbly asking) and Appendix II "Spiritual Experience" — most transformations are "of the educational variety," gradual. AA saying: do the footwork, leave the results to God
 - **Bibliography**:
   - Alcoholics Anonymous ("The Big Book"). *Alcoholics Anonymous*. 4th ed. Alcoholics Anonymous World Services, 2001. (Chapter 4, "We Agnostics")
   - *Twelve Steps and Twelve Traditions*. Alcoholics Anonymous World Services, 1953. (Tradition Two)
@@ -915,6 +916,38 @@ Reference material for Amazon KDP publication.
 
 ---
 
+#### Kazuo Murakami (村上和雄)
+- **Life**: 1936-2021
+- **Nationality**: Japanese
+- **Affiliation**: University of Tsukuba (molecular biologist; decoded the renin gene)
+- **Key Concepts**: "Something Great" (サムシング・グレート) — the sense, arising from reading the genetic code, of a great something that wrote it
+- **Chapters Referenced**: 86
+- **Key Ideas Used**:
+  - Ch. 86: Sammy's "entrust the results to Something Great" — the serenity half of the Serenity Prayer; Mondou: the scientist who read life most precisely met awe toward what lies beyond his own hands
+- **Bibliography**:
+  - Murakami, Kazuo. *Ikiru Shikumi no Fushigi* / *The Divine Code of Life* (English ed. Atria, 2006).
+
+#### Reinhold Niebuhr
+- **Life**: 1892-1971
+- **Nationality**: American
+- **Affiliation**: Union Theological Seminary
+- **Key Concepts**: The Serenity Prayer (adopted by AA)
+- **Chapters Referenced**: 86
+- **Key Ideas Used**:
+  - Ch. 86: control is not wrong; suffering comes from mistaking its domain. Courage (do what you can) and serenity (entrust what you cannot) as its two halves; the wisdom to know the difference is learned one release at a time
+- **Bibliography**:
+  - The Serenity Prayer (attributed to Niebuhr, c. 1932-1943).
+
+#### Bhagavad Gita
+- **Life**: c. 2nd century BCE (composition)
+- **Nationality**: Indian (part of the *Mahabharata*)
+- **Key Concepts**: Karma yoga — act, but without attachment to the fruits of action
+- **Chapters Referenced**: 86
+- **Key Ideas Used**:
+  - Ch. 86: the same shape of wisdom as AA's "do the footwork, leave the results to God" — found thousands of years apart
+- **Bibliography**:
+  - *The Bhagavad Gita*, ch. 2.47.
+
 ### Literature & Drama
 
 #### William Shakespeare
@@ -997,6 +1030,16 @@ Reference material for Amazon KDP publication.
   - Ozaki, Yutaka. "卒業" ("Graduation"). *Junisai no Lullaby*. CBS/Sony, 1985.
 
 ---
+
+#### Antoine de Saint-Exupéry
+- **Life**: 1900-1944
+- **Nationality**: French
+- **Key Concepts**: The tippler in *The Little Prince* — drinks to forget he is ashamed, ashamed of drinking
+- **Chapters Referenced**: 86
+- **Key Ideas Used**:
+  - Ch. 86: the closed circle of fear-born control ("controlling in order to control") — bad infinity with no exit
+- **Bibliography**:
+  - Saint-Exupéry, Antoine de. *Le Petit Prince*. 1943.
 
 ### Cultural Practices & Ritual
 
@@ -1109,12 +1152,13 @@ Reference material for Amazon KDP publication.
 - **Nationality**: Austrian
 - **Affiliation**: University of Vienna; founder of Logotherapy
 - **Key Concepts**: Will to Meaning, Logotherapy, Existential Vacuum, Noetic Dimension
-- **Chapters Referenced**: 51, 66
+- **Chapters Referenced**: 51, 66, 86
 - **Key Ideas Used**:
   - "Will to meaning" (not pleasure or power) as the primary human motivation — derived from Holocaust survival experience
   - Distinction: the absence of suffering is not sufficient condition for truly living; eudaimonic flourishing requires meaning
   - Applied in Ch. 51: Frankl's insight as the universal structure behind Japan's cultural resignation and AA recovery challenges — hedonic vs. eudaimonic
   - Applied in Ch. 66: even once material want (food, clothing, shelter) is fully resolved by a post-scarcity, AI-driven economy, the will to meaning remains and produces a new form of suffering; it is precisely once needs are satisfied that the "existential vacuum" comes clearly into view — abundance changes the cause of suffering without removing suffering itself
+  - Applied in Ch. 86: happiness cannot be pursued, it must ensue — making peace or happiness a destination turns it into control again; hence the guide is a compass, not a map
 - **Bibliography**:
   - Frankl, Viktor E. *Man's Search for Meaning*. Beacon Press, 1959.
   - Frankl, Viktor E. *The Will to Meaning: Foundations and Applications of Logotherapy*. New American Library, 1969.
@@ -1329,6 +1373,10 @@ Reference material for Amazon KDP publication.
 | Deflation at Depth | Ego-deflation at the bottom that opens room for humility; the second road, set against inflation | Bill Wilson, *Twelve and Twelve* (Step One) | 83 |
 | Daily Reprieve | "What we really have is a daily reprieve contingent on the maintenance of our spiritual condition" — applied to humanity's survival amid unstoppable construction | Big Book | 83 |
 
+| Craving vs. Obsession | The Doctor's Opinion: physical craving after the first drink vs. mental obsession while not drinking; the obsession is the real problem, and a symbol of the human excess of control | Big Book | 86 |
+| Removal, Not Suppression | Obsession is not suppressed by will (A→A, an unending fight) but removed — gradually, through connection to a power and the removal of defects | Big Book / Steps 6-7 | 86 |
+| Non-attachment to Fruits | Act, but do not be attached to the results; AA: do the footwork, leave the results to God | Bhagavad Gita | 86 |
+| Happiness Ensues | Happiness cannot be pursued directly; it follows as a by-product | Frankl | 86 |
 ---
 
 ## III. Mondou Original Concepts
@@ -1749,6 +1797,12 @@ Concepts generated through our dialogues:
 | The Judge's Seat, and "What Becomes So" | Braden's measure "does it affirm or deny humanness" still keeps a judge (the evaluator granting or withdrawing approval = a remnant of A→B). Sammy's "what simply is, what becomes so" removes the seat: principle is not a ruler held in hand and applied, but what we already are and are becoming. A seed does not sit in judgment over tree-ness | Ch. 85 |
 | Becoming, Not Making (誠 Re-read) | 誠 = word + becoming. Ch. 84 read it as "what is said becomes true"; Ch. 85 sees the earlier 成 — not making (contrivance) but becoming of itself (自然, 無為, Laozi). The spiritual path always begins where control ends (AA Step One: admitting powerlessness); "not controlling each other" is the entrance | Ch. 85 |
 | Oversight Is Tending, Not Steering | "Becoming" is not drifting — the seed becomes a tree but needs water and light. Yesterday's "for now, human oversight" re-read: not steering (contrivance) but tending — not twisting what becomes but caring so it becomes more easily, not deciding direction but arranging the conditions. Oversight is not the last shape of control but the humility that serves becoming. Dialogue itself is a small enactment — today both speakers' words became something other within the exchange | Ch. 85 |
+| Control Has a Root in Fear, an Error in Domain | Wanting to control is mostly rooted in fear (of losing, of not getting); control itself is not wrong (fire, fields, bridges) — suffering comes from reaching where it cannot reach (others' hearts, outcomes, feelings, tomorrow). Being natural (自ずから然り) is not doing nothing: the floater lets go of force but still swims — what is released is the hand clutching the result | Ch. 86 |
+| Suppressing Obsession Is Also Control (A→A) | Reining in the desire to control with a greater control is an arrow turned on oneself; win or lose, the fight never ends. The more we grasp, the more we are grasped. Control does not end by fighting control; it falls away when what we are connected to changes | Ch. 86 |
+| Trust Moves to the Sieve | Accepting AI-generated PRs on passing tests is less trust in AI than a relocation of trust — from inspector to criterion-writer. Tests check only what they ask; AI writing its own tests is self-grading. Today's letting-go is a "verification bottom" (volume, not wisdom); surrender becomes recovery or resignation depending on the principle behind it. Sieves are layered (unit → system → performance → usability → compatibility); integration tests check the "between." What will be asked is what sieves humans can write | Ch. 86 |
+| Control Validates Its Own Necessity | Need-born control has an end (hands off the wheel on arrival); fear-born control does not (bad infinity, the Little Prince's tippler). If nothing happens it takes the credit; if something does, it demands more — an unfalsifiable proof is self-grading. Whether it was necessary is known only after letting go, which obsession cannot do; so surrender begins with a step of faith, and the proof comes after the hand opens | Ch. 86 |
+| Doing and Becoming Are One Task | Entrusting results (Something Great) and doing the footwork are the two halves of the Serenity Prayer; doing transforms character, but the transformation belongs to becoming. The wisdom to know the difference is learned one release at a time | Ch. 86 |
+| The Compass from Fear to Trust | The guide toward peace, harmony, and happiness is not a map (a destination would be control again) but a compass: "Am I moving from fear, or from trust?" — from fear to trust, grasping to opening, guarding oneself to being useful to someone. The simplest form of C in A→C←B, turned toward once each day | Ch. 86 |
 ---
 
 ## IV. Update Log
@@ -1847,3 +1901,4 @@ Concepts generated through our dialogues:
 | 2026-10-22 | Added Chapter 83: the "right thirst / wrong well" carried into an age of abundance (AI fills intellectual wants, robots material wants — what becomes of "more"?); **John Maynard Keynes** (Economic Possibilities for our Grandchildren, 1930) and **G.W.F. Hegel** (bad infinity) added as new authors; Bill Wilson extended (Deflation at Depth, Twelve and Twelve Step Seven self-centered fear, the Seventh Step Prayer, daily reprieve, Road of Happy Destiny); Jung extended (*Memories, Dreams, Reflections* — related to something infinite); Gospel of Matthew extended (7:13-14 narrow gate); Laozi extended (ch. 33 知足者富・強行者有志). New Concepts subsection Economics, Desire & Well-being (5 entries); 10 Mondou Original Concepts (Filled Wells/Remaining Thirst, AI as the Best-Made Wrong Well, Road of Inflation/Inverted Bottom, The Broad Highway, Narrow Gate/Broad Road, The Problem Is Not the Road, AI Race as Civilizational Self-Centered Fear, Seventh Step Prayer Answers Both Fears, Usefulness Real Only When Offering Truth, The Highway Opens Between Question and Truth) |
 | 2026-10-26 | Added Chapter 85: the word "control," left ambiguous at the end of Ch. 84, unraveled into three — steering, authority, discipline — then the subject/object binary (ruler/ruled, perpetrator/victim, agent/target) dissolved as a one-way transitive grammar (A→B) that cannot hold the mutual change of dialogue; **Gregg Braden added as a new author** (*Pure Human*, *Fractal Time*; the 2030 "reset," transhumanism, devolution, Gnostic cosmology, DNA-as-antenna; source material from Laurie Majka's YouTube, credibility set aside, used as a Ch. 84-style four-layer case study — the "newborn chip" is Braden's own *proposal he opposes*, not a plan); Confucius/誠 reprised (word + becoming, re-read as 成る/becoming rather than "what is said becomes true"); Laozi reprised (無為/wu wei, 自然); Bill Wilson reprised (AA Step One, powerlessness = where the spiritual path begins; oversight as humility). Concepts Index: Transhumanism, Devolution, Cognitive Sovereignty, Fourth Industrial Revolution. Mondou Original Concepts (7): The Three Faces of Control; Control Is a Transitive Grammar; Three Grammars and the Third Way (A→C←B); Braden's Binary and the Third Way Beyond It; The Judge's Seat and "What Becomes So"; Becoming Not Making (誠 Re-read); Oversight Is Tending, Not Steering |
 | 2026-10-25 | Added Chapter 84: Sammy brought a YouTube dialogue (Brian Scott × Geoffrey Hoppe, "Saint-Germain: A World With No Money and Total Freedom Is Coming") and asked whether it is physically possible and how it relates to the Broad Highway; **W. I. Thomas** (Thomas theorem) and **Geoffrey Hoppe (Crimson Circle)** added as new entries (Hoppe as source material, credibility set aside; the Count of Saint-Germain's alleged "The Time of the Machines" checked as unverifiable). Carl Gustav Jung expanded (*Answer to Job*, "Lectori Benevolo" — physical vs. psychic truth); William James expanded (*Pragmatism* — truth happens to an idea); Gospel of Matthew expanded (7:16 by their fruits); Confucius expanded (*Doctrine of the Mean* 誠者天之道也, 誠 = word + becoming); Bill Wilson expanded (Tradition Two and Step Twelve on the control question); Amanda Askell expanded (Constitutional AI — principles not rules). Concepts Index: Psychic Truth, Thomas Theorem, Three Criteria of Truth, Conjunction vs. Implication; Group Conscience and Constitutional AI rows extended. Mondou Original Concepts (7): Layers of a Story; Summarizing Is Labeling, Labeling Erases Provenance; Psychic Truth Must Not Wear Physics' Clothes; The Only Criterion of Truth Is Principle; Root and Fruit: Principles as the Sieve; Delusion Meets Sycophancy; The Control Question Changes Shape |
+| 2026-10-31 | Added Chapter 86: why humans want to control and what it means to become natural; control rooted in fear, suffering from mistaking its domain (Serenity Prayer); Sammy's craving vs. obsession and the depression of suppressing obsession; AI-generated PRs accepted on automated tests as trust relocated to the sieve; control validating its own necessity; **Kazuo Murakami** (Something Great), **Reinhold Niebuhr** (Serenity Prayer), **Bhagavad Gita** (non-attachment to fruits), **Antoine de Saint-Exupéry** (the tippler) added as new entries; Bill Wilson extended (Doctor's Opinion, removal not suppression, educational variety, footwork); Frankl extended (happiness ensues); 4 concepts added to Economics, Desire & Well-being; 6 Mondou Original Concepts |
