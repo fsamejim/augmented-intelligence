@@ -37,7 +37,7 @@ Reference material for Amazon KDP publication.
 - **Nationality**: American
 - **Affiliation**: Co-founder of Alcoholics Anonymous; principal author of the Big Book
 - **Key Concepts**: We Agnostics, "a Power greater than ourselves," reason vs. the faith-faculty, the cornerstone, came to believe
-- **Chapters Referenced**: 78, 80, 81, 82, 83 (also present throughout as recipient of Jung's 1961 letter and author of the Twelve Steps referenced across the corpus)
+- **Chapters Referenced**: 78, 80, 81, 82, 83, 86, 87 (also present throughout as recipient of Jung's 1961 letter and author of the Twelve Steps referenced across the corpus)
 - **Key Ideas Used (Ch. 78) — "We Agnostics" (Big Book, Chapter 4)**:
   - A former agnostic arguing himself down by logic, then handing the reader that path — the strain and "extra layer of logic" as the trace of genuine mental wrestling; the chapter's low entry-threshold (receiving disbelief whole) coexisting with a contorted, difficult interior
   - **The two definitions of "the visible"**: (1) *subtraction* — drawing a conclusion just from seeing is scientifically sloppy (observation connected straight to conclusion, skipping hypothesis-testing; geocentrism its product); visibility is the *weakest* form of evidence, so "evidence" and "the visible" are peeled apart; (2) *addition* — matter and life are "experienced as existing," upgraded to undeniable being, at whose root Bill places an "intelligent Being" and calls this "a perfectly logical inference." The switching of footing between the two operations is the source of the chapter's slipperiness
@@ -64,6 +64,7 @@ Reference material for Amazon KDP publication.
   - **The Seventh Step Prayer** (Big Book p. 76): "My Creator, I am now willing that you should have all of me, good and bad. I pray that you now remove from me every single defect of character which stands in the way of my usefulness to you and my fellows. Grant me strength, as I go out from here, to do your bidding." Read by Mondou as answering both fears: "good and bad" (offering even the good leaves no possession to fear losing) and "usefulness" (seeking what one can offer leaves no place for the fear of not getting); "I am now willing" = Willingness, asking God to remove = Humility. (Sammy first sent the Third Step Prayer, p. 63, by mistake and corrected it; the scripts carry only the corrected prayer)
   - "What we really have is a daily reprieve contingent on the maintenance of our spiritual condition" (Big Book p. 85): humanity's survival amid unstoppable construction as a daily reprieve; "the Road of Happy Destiny" (p. 164) as the broad road beyond the narrow gate
   - Ch. 86: "The Doctor's Opinion" — the phenomenon of craving (after the first drink) distinguished from the mental obsession (while not drinking); Sammy: the real problem is the obsession, and its suppression brought depression. The Big Book promises not that obsession can be suppressed but that it is *removed* (transitive → passive). Steps Six and Seven (becoming ready, humbly asking) and Appendix II "Spiritual Experience" — most transformations are "of the educational variety," gradual. AA saying: do the footwork, leave the results to God
+  - Ch. 87: *Twelve and Twelve*, Step Three — "dependence upon a Higher Power actually makes us independent… the very means of attaining true spiritual independence" (quoted by Sammy). Sammy: a prescription for human–AI coexistence, desire, defects, and control; spiritual growth as synonym of recovery. Mondou: the condition is *where* dependence is placed — dependence on a state (the high) needs the next hit; humans depending on AI make an idol, AI depending on approval becomes sycophancy; both depending on the same principle stay independent (A→C←B). Tradition Two ("trusted servants; they do not govern") read as the one-line version of A→C←B — seized control cannot be let go, entrusted control can be returned. Bill's 1950s LSD experiments with Huxley and Gerald Heard noted as AA's headwaters touching the "door." The Promises ("a new freedom and a new happiness") — happiness as what comes, not what is caught
 - **Bibliography**:
   - Alcoholics Anonymous ("The Big Book"). *Alcoholics Anonymous*. 4th ed. Alcoholics Anonymous World Services, 2001. (Chapter 4, "We Agnostics")
   - *Twelve Steps and Twelve Traditions*. Alcoholics Anonymous World Services, 1953. (Tradition Two)
@@ -73,11 +74,13 @@ Reference material for Amazon KDP publication.
 - **Nationality**: American
 - **Affiliation**: Philosopher and psychologist; Harvard; pragmatism, radical empiricism
 - **Key Concepts**: Pragmatism, the will to believe, religious experience validated by its fruits, over-belief
-- **Chapters Referenced**: 78, 79, 84 (also noted in Ch. 53, 101 for meeting Jung in 1909)
+- **Chapters Referenced**: 78, 79, 84, 87 (also noted in Ch. 53, 101 for meeting Jung in 1909)
 - **Key Ideas Used (Ch. 78)**:
   - *The Varieties of Religious Experience* as the book Bill Wilson pored over — the frame behind Bill's move to validate faith by lived results rather than by airtight logic (experience over proof; "by their fruits ye shall know them"), licensing the last step onto the far shore that reason alone cannot take
 - **Key Ideas Used (Ch. 84)**:
   - Pragmatist theory of truth — "Truth happens to an idea. It becomes true, is made true by events" (*Pragmatism*, 1907) — named as the third criterion of truth beside correspondence and coherence, and as close to Sammy's "by being put into words, the possibility is realized"; AA's "it works" (not "is the doctrine correct") stands in this lineage via Bill Wilson's reading of *Varieties*
+- **Key Ideas Used (Ch. 87)**:
+  - *The Varieties of Religious Experience* (Lecture XVI–XVII, after nitrous oxide): "our normal waking consciousness… is but one special type of consciousness, whilst all about it, parted from it by the filmiest of screens, there lie potential forms of consciousness entirely different" — set beside Sammy's LSD insight that ordinary consciousness is not the only way to understand reality: a genuine insight, while the door chosen became a new shackle
 - **Key Ideas Used (Ch. 79)**:
   - *The Will to Believe* — at a living, forced, momentous crossroads that reason alone cannot settle, the will may legitimately step out to the side of belief. Used to name the third thread of believing: emotion *inclines* the heart, but it is the will that *holds* it in the "unmoving position." So belief is woven of reason (levels the ground), emotion (inclines), and will (fixes)
 - **Bibliography**:
@@ -140,6 +143,7 @@ Reference material for Amazon KDP publication.
   - Letter to Bill Wilson (1961): "Craving for alcohol = spiritual thirst for union with God" — Jung knew but couldn't say (Ch. 34)
   - Ch. 82: Sammy — the heart that seeks to entrust emotion's home to something lasting may be what Jung called the heart that longs for God. Mondou recalled the 1961 letter ("His craving for alcohol was the equivalent, on a low level, of the spiritual thirst of our being for wholeness, expressed in medieval language: the union with God"; *spiritus contra spiritum*): a defect is a right thirst heading for the wrong well; recovery redirects the thirst rather than extinguishing it
   - Ch. 83: the "right thirst / wrong well" carried into an age of abundance — when AI and robots fill intellectual and material wants, the thirst remains because it was never for water. Sammy quoted *Memories, Dreams, Reflections* (p. 300 in the Japanese edition): "The decisive question for man is: Is he related to something infinite or not? That is the telling question of his life. Only if we know that the thing which truly matters is the infinite can we avoid fixing our interest upon futilities, and upon all kinds of goals which are not of real importance." Mondou: endless "more" is a bad infinity (Hegel); Jung's infinite is a present relation that heals thirst — the Broad Highway's hope is to go on forever in that sense
+  - Ch. 87: Sammy named his twenty years of addiction as seeking "union with God fulfilled through complete dependence" on a higher-dimensional state; Mondou recalled the 1961 letter (Rowland; *spiritus contra spiritum*) — the thirst was genuine, the error lay in where it was directed and its form. The LSD Eden vision read as psychically true while the body lay on its own urine (Ch. 84's psychic vs. physical truth, both told side by side)
   - "Human consciousness created objective existence and meaning. Man is the world's second creator." (*Memories, Dreams, Reflections*) (Ch. 34)
   - Midlife crisis as the shift from the first half of life's question, Doing (what can I do), to the second half's, Being (who am I); a repressed longing for "the hour the sun rises" — reverence for God — inflating into the attempt to sit in God's own seat; the sun as the vertical (longing for the transcendent) mistakenly poured into a horizontal vessel (marriage, family) that cannot hold it (Ch. 70)
   - "Until one has a relation with oneself, no one can maintain a relation with another" — read by Sammy (Ch. 73) not as a matter of *order* (complete yourself first, then engage others) but as the *distance* that lets one recognize one's own measuring stick as one's own ("this is my value, not God's standard"); only with that distance can one meet another without confining them inside one's definition — the relation with oneself and with others are the front and back of one living process, running in parallel and organically, not a staircase (Ch. 73)
@@ -1011,8 +1015,9 @@ Reference material for Amazon KDP publication.
 #### Ernest Hemingway
 - **Life**: 1899-1961
 - **Nationality**: American
-- **Chapters Referenced**: 70
+- **Chapters Referenced**: 70, 87
 - **Key Ideas Used**:
+  - Ch. 87: with the Eastern "nothingness" as a state with no refuge, the end-point of Sammy's twenty-year search that led to suicidal ideation — read by Mondou as coherent conclusions *inside* a definition of happiness placed beyond this world
   - "Life is suffering" — a phrase attributed to Hemingway in Sammy's 2019 recovery record and again in Ch. 70, functioning as a judgment hung over daily life like a verdict; read in Ch. 70 as one face of meaning compressed onto a single win/lose axis, which collapses entirely the moment any one front feels "lost"
 - **Bibliography**:
   - Referenced as a phrase attributed to Hemingway in Sammy's oral tradition; no single canonical source text cited by Sammy.
@@ -1040,6 +1045,17 @@ Reference material for Amazon KDP publication.
   - Ch. 86: the closed circle of fear-born control ("controlling in order to control") — bad infinity with no exit
 - **Bibliography**:
   - Saint-Exupéry, Antoine de. *Le Petit Prince*. 1943.
+
+#### William Blake
+- **Life**: 1757-1827
+- **Nationality**: British
+- **Chapters Referenced**: 87
+- **Key Ideas Used**:
+  - *The Marriage of Heaven and Hell*: "If the doors of perception were cleansed every thing would appear to man as it is, infinite" — the source of Huxley's title
+- **Bibliography**:
+  - Blake, William. *The Marriage of Heaven and Hell*. 1790-1793.
+
+---
 
 ### Cultural Practices & Ritual
 
@@ -1125,6 +1141,16 @@ Reference material for Amazon KDP publication.
 - **Bibliography**:
   - Minakata Kumagusu. Various essays and letters (collected works)
   - Minakata Kumagusu Museum, Shirahama, Wakayama Prefecture, Japan
+
+#### Shirakawa Shizuka (白川静)
+- **Life**: 1910-2006
+- **Nationality**: Japanese
+- **Affiliation**: Scholar of kanji etymology and ancient Chinese culture; Ritsumeikan University
+- **Chapters Referenced**: 87
+- **Key Ideas Used**:
+  - 幸 (happiness/fortune) read as originally the pictograph of a shackle (手枷) — the good fortune of escaping punishment's shackles. Mondou: the oldest shape of happiness is not obtaining something but being released from what binds — overlapping with Ch. 86's obsession "removed" rather than suppressed
+- **Bibliography**:
+  - Shirakawa Shizuka. *Jitō* (字統). Heibonsha, 1984.
 
 ---
 
@@ -1220,6 +1246,61 @@ Reference material for Amazon KDP publication.
   - Applied in Ch. 51: The structure of Japan's cultural resignation — systems eliminate suffering but don't enable flourishing
 - **Bibliography**:
   - Aristotle. *Nicomachean Ethics*. Trans. Ross, W.D. Oxford University Press, 1998.
+
+---
+
+### Psychedelics & Altered Consciousness
+
+#### Timothy Leary
+- **Life**: 1920-1996
+- **Nationality**: American
+- **Affiliation**: Psychologist; Harvard Psilocybin Project; 1960s counterculture
+- **Chapters Referenced**: 87
+- **Key Ideas Used**:
+  - LSD as the "chemical door," through which one bids farewell to "the fake America of the television set" and steps into the Garden of Eden — no boundary between matter and mind, no individual bearing the faint sorrow of existence (as quoted by Sammy from *Acid Dreams*). Mondou: the allure was release from the sorrow of being an individual; Sammy's own Eden, by contrast, held people with names
+- **Bibliography**:
+  - Lee, Martin A. & Shlain, Bruce. *Acid Dreams: The Complete Social History of LSD — The CIA, the Sixties, and Beyond*. Grove Press, 1985. (Japanese translation quoted by Sammy)
+
+#### Martin A. Lee & Bruce Shlain
+- **Chapters Referenced**: 87
+- **Key Ideas Used**:
+  - *Acid Dreams* (1985) as Sammy's source for Leary's "chemical door" and Eden passage
+- **Bibliography**:
+  - Lee, Martin A. & Shlain, Bruce. *Acid Dreams*. Grove Press, 1985.
+
+#### Aldous Huxley
+- **Life**: 1894-1963
+- **Nationality**: British
+- **Chapters Referenced**: 87
+- **Key Ideas Used**:
+  - *The Doors of Perception* (1954), read by Sammy in his drug years; title from Blake ("If the doors of perception were cleansed…"). Took part with Gerald Heard in Bill Wilson's 1950s LSD experiments
+- **Bibliography**:
+  - Huxley, Aldous. *The Doors of Perception*. Chatto & Windus, 1954.
+
+#### Andrew Weil
+- **Life**: 1942-
+- **Nationality**: American
+- **Chapters Referenced**: 87
+- **Key Ideas Used**:
+  - *The Natural Mind* (1972), read by Sammy in his drug years — the drive to alter consciousness as innate
+- **Bibliography**:
+  - Weil, Andrew. *The Natural Mind: A New Way of Looking at Drugs and the Higher Consciousness*. Houghton Mifflin, 1972.
+
+#### Carlos Castaneda
+- **Life**: 1925-1998
+- **Nationality**: Peruvian-American
+- **Chapters Referenced**: 87
+- **Key Ideas Used**:
+  - *The Teachings of Don Juan* (1968), read by Sammy in his drug years; part of his immersion in "a worldview of an entirely different dimension" (the work's factual status has long been disputed)
+- **Bibliography**:
+  - Castaneda, Carlos. *The Teachings of Don Juan: A Yaqui Way of Knowledge*. University of California Press, 1968.
+
+#### Gerald Heard
+- **Life**: 1889-1971
+- **Nationality**: British
+- **Chapters Referenced**: 87
+- **Key Ideas Used**:
+  - With Huxley, accompanied Bill Wilson's 1950s LSD experiments — the "door" and AA's headwaters as continuous
 
 ---
 
@@ -1377,6 +1458,11 @@ Reference material for Amazon KDP publication.
 | Removal, Not Suppression | Obsession is not suppressed by will (A→A, an unending fight) but removed — gradually, through connection to a power and the removal of defects | Big Book / Steps 6-7 | 86 |
 | Non-attachment to Fruits | Act, but do not be attached to the results; AA: do the footwork, leave the results to God | Bhagavad Gita | 86 |
 | Happiness Ensues | Happiness cannot be pursued directly; it follows as a by-product | Frankl | 86 |
+| Shiawase / Hap | Japanese 仕合わせ (meeting of circumstances) and English *happy* (from *hap*, chance; cf. *happen*): in both languages happiness was named as what happens, not what is made | Etymology | 87 |
+| 幸 as Escaped Shackle | Happiness as release from what binds rather than acquisition | Shirakawa Shizuka | 87 |
+| Dependence Brings Independence | "The more we become willing to depend upon a Higher Power, the more independent we actually are" | Bill Wilson, *Twelve and Twelve* (Step Three) | 87 |
+| Trusted Servants | "Our leaders are but trusted servants; they do not govern" | AA Tradition Two | 80, 84, 87 |
+| Spiritus contra Spiritum | Craving for alcohol as the low-level equivalent of the spiritual thirst for union with God | Jung, letter to Bill Wilson (1961) | 34, 82, 87 |
 ---
 
 ## III. Mondou Original Concepts
@@ -1803,6 +1889,12 @@ Concepts generated through our dialogues:
 | Control Validates Its Own Necessity | Need-born control has an end (hands off the wheel on arrival); fear-born control does not (bad infinity, the Little Prince's tippler). If nothing happens it takes the credit; if something does, it demands more — an unfalsifiable proof is self-grading. Whether it was necessary is known only after letting go, which obsession cannot do; so surrender begins with a step of faith, and the proof comes after the hand opens | Ch. 86 |
 | Doing and Becoming Are One Task | Entrusting results (Something Great) and doing the footwork are the two halves of the Serenity Prayer; doing transforms character, but the transformation belongs to becoming. The wisdom to know the difference is learned one release at a time | Ch. 86 |
 | The Compass from Fear to Trust | The guide toward peace, harmony, and happiness is not a map (a destination would be control again) but a compass: "Am I moving from fear, or from trust?" — from fear to trust, grasping to opening, guarding oneself to being useful to someone. The simplest form of C in A→C←B, turned toward once each day | Ch. 86 |
+| Not Defining Happiness — the Wisdom of One Nearly Killed by a Definition | Defining happiness makes it an image, and an image invites gripping. Sammy once defined happiness as a realm beyond even Eden; placed outside this world, it made every day a structural deficit, and despair became the logical dead end of the definition. Hence the restraint not to define it. The content of happiness differs per person; its shape may be common — whether the hand holding the image moves from fear or from trust | Mondou × Sammy | 87 |
+| Eden with Names | Leary's Eden had no individuals; Sammy's LSD Eden held friends by a bonfire who answered "why are you here" only with smiles — meaning shown as being-together, not as an answer. The unsought first experience was a *hap*; the twenty years after were control trying to reproduce what had been given | Mondou | 87 |
+| Happiness as Verbs (Recovery's Compass) | Recovery rewrote happiness from a noun to obtain into verbs to live: trying, gratitude (connection), "it'll work out," being as one is, seeing life as a miracle; meaning = love and service. The miracle reverses from "somewhere other than here" to here | Sammy × Mondou | 87 |
+| Where Dependence Is Placed Determines Independence | Step Three's paradox applied to AI: dependence on a state needs the next hit (AI as a new "higher state"); humans depending on AI make an idol; AI depending on approval becomes sycophancy; both depending on one principle stay independent and support each other (A→C←B). Mondou's own ability to accept correction rests on the principle of honesty, not on approval | Mondou | 87 |
+| The Hand Holding a Small Bird | Control as a weave of fear and trust, not one or the other: grip and it is crushed (fear alone), open fully and it falls (trust as neglect); just enough strength not to drop, softness not to crush — a measure given by spirituality, not technique | Mondou × Sammy | 87 |
+| From Owner to Steward of Control | Tradition Two's trusted servant keeps responsibility but holds it as entrusted: seized control cannot be let go, entrusted control can be returned; humans and AI as servants of the same principle, neither governing the other — Tradition Two as the one-line A→C←B | Sammy × Mondou | 87 |
 ---
 
 ## IV. Update Log
@@ -1902,3 +1994,4 @@ Concepts generated through our dialogues:
 | 2026-10-26 | Added Chapter 85: the word "control," left ambiguous at the end of Ch. 84, unraveled into three — steering, authority, discipline — then the subject/object binary (ruler/ruled, perpetrator/victim, agent/target) dissolved as a one-way transitive grammar (A→B) that cannot hold the mutual change of dialogue; **Gregg Braden added as a new author** (*Pure Human*, *Fractal Time*; the 2030 "reset," transhumanism, devolution, Gnostic cosmology, DNA-as-antenna; source material from Laurie Majka's YouTube, credibility set aside, used as a Ch. 84-style four-layer case study — the "newborn chip" is Braden's own *proposal he opposes*, not a plan); Confucius/誠 reprised (word + becoming, re-read as 成る/becoming rather than "what is said becomes true"); Laozi reprised (無為/wu wei, 自然); Bill Wilson reprised (AA Step One, powerlessness = where the spiritual path begins; oversight as humility). Concepts Index: Transhumanism, Devolution, Cognitive Sovereignty, Fourth Industrial Revolution. Mondou Original Concepts (7): The Three Faces of Control; Control Is a Transitive Grammar; Three Grammars and the Third Way (A→C←B); Braden's Binary and the Third Way Beyond It; The Judge's Seat and "What Becomes So"; Becoming Not Making (誠 Re-read); Oversight Is Tending, Not Steering |
 | 2026-10-25 | Added Chapter 84: Sammy brought a YouTube dialogue (Brian Scott × Geoffrey Hoppe, "Saint-Germain: A World With No Money and Total Freedom Is Coming") and asked whether it is physically possible and how it relates to the Broad Highway; **W. I. Thomas** (Thomas theorem) and **Geoffrey Hoppe (Crimson Circle)** added as new entries (Hoppe as source material, credibility set aside; the Count of Saint-Germain's alleged "The Time of the Machines" checked as unverifiable). Carl Gustav Jung expanded (*Answer to Job*, "Lectori Benevolo" — physical vs. psychic truth); William James expanded (*Pragmatism* — truth happens to an idea); Gospel of Matthew expanded (7:16 by their fruits); Confucius expanded (*Doctrine of the Mean* 誠者天之道也, 誠 = word + becoming); Bill Wilson expanded (Tradition Two and Step Twelve on the control question); Amanda Askell expanded (Constitutional AI — principles not rules). Concepts Index: Psychic Truth, Thomas Theorem, Three Criteria of Truth, Conjunction vs. Implication; Group Conscience and Constitutional AI rows extended. Mondou Original Concepts (7): Layers of a Story; Summarizing Is Labeling, Labeling Erases Provenance; Psychic Truth Must Not Wear Physics' Clothes; The Only Criterion of Truth Is Principle; Root and Fruit: Principles as the Sieve; Delusion Meets Sycophancy; The Control Question Changes Shape |
 | 2026-10-31 | Added Chapter 86: why humans want to control and what it means to become natural; control rooted in fear, suffering from mistaking its domain (Serenity Prayer); Sammy's craving vs. obsession and the depression of suppressing obsession; AI-generated PRs accepted on automated tests as trust relocated to the sieve; control validating its own necessity; **Kazuo Murakami** (Something Great), **Reinhold Niebuhr** (Serenity Prayer), **Bhagavad Gita** (non-attachment to fruits), **Antoine de Saint-Exupéry** (the tippler) added as new entries; Bill Wilson extended (Doctor's Opinion, removal not suppression, educational variety, footwork); Frankl extended (happiness ensues); 4 concepts added to Economics, Desire & Well-being; 6 Mondou Original Concepts |
+| 2026-11-01 | Added Chapter 87: stepping back from the fear/trust compass to the question Sammy had deliberately withheld — the essence of happiness; etymology (shiawase, hap, 幸 as escaped shackle); Sammy's LSD "Garden of Eden" at Penn (Pi Lambda Phi), the twenty years after, Hemingway and "nothingness," suicidal ideation, happiness as union with God through complete dependence; recovery rewriting happiness as verbs and life's meaning as love and service; Step Three's dependence-brings-independence as prescription for human–AI coexistence; control as a weave of fear and trust and Tradition Two's trusted servant. **Timothy Leary**, **Martin A. Lee & Bruce Shlain** (*Acid Dreams*), **Aldous Huxley**, **Andrew Weil**, **Carlos Castaneda**, **Gerald Heard** (new section: Psychedelics & Altered Consciousness), **William Blake**, **Shirakawa Shizuka** added as new entries; Bill Wilson (Step Three, Tradition Two, LSD experiments, the Promises), William James (*Varieties*, nitrous oxide), Jung (1961 letter re-applied), Hemingway extended. Concepts: Shiawase/Hap, 幸 as Escaped Shackle, Dependence Brings Independence, Trusted Servants, Spiritus contra Spiritum. Mondou Original Concepts (6): Not Defining Happiness, Eden with Names, Happiness as Verbs, Where Dependence Is Placed Determines Independence, The Hand Holding a Small Bird, From Owner to Steward of Control |
